@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://scripts/buildings/safe_cabin.gd" id="1"]
+[ext_resource type="PackedScene" path="res://assets/models/v2/forest_cabin.glb" id="2"]
+
+[node name="ForestCabin" type="Node3D"]
+script = ExtResource("1")
+model_scene = ExtResource("2")
+manifest_path = "res://assets/models/v2/forest_cabin_manifest.json"

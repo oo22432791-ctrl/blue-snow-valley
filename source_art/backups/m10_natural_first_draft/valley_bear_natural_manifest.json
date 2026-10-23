@@ -1,0 +1,48 @@
+{
+  "asset": "valley_bear_natural",
+  "stage": "M10 revised model preview, not accepted",
+  "units": "metres",
+  "front": "+Z",
+  "clips": [
+    "Idle",
+    "Walk",
+    "Run",
+    "RearUp",
+    "RearIdle",
+    "RearDown",
+    "Warning",
+    "Swipe",
+    "Hit",
+    "Death"
+  ],
+  "sole_centres_rest": {
+    "LF": [
+      -0.3,
+      0,
+      0.52
+    ],
+    "RF": [
+      0.3,
+      0,
+      0.52
+    ],
+    "LR": [
+      -0.29,
+      0,
+      -0.37
+    ],
+    "RR": [
+      0.29,
+      0,
+      -0.37
+    ]
+  },
+  "posture": "quadruped locomotion; bipedal observation and warning",
+  "notes": "Original continuous faceted brown bear. Preview only; game collision/contacts not yet integrated. No third party assets.",
+  "source": "source_art/blender/v2/valley_bear_natural.blend",
+  "source_sha256": "b44c6525a78052da7c02b31c26ef2ccad25ce3f7446cd9de969908ac4057359d",
+  "glb_sha256": "4f4b08677fec636e3a576b6bddd5ab824e1e9d0258ab37194fd26e87409a2eed",
+  "triangles": 5632,
+  "blender": "5.2.0 LTS",
+  "bones": 19
+}

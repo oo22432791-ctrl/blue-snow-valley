@@ -1,0 +1,52 @@
+{
+  "asset": "way_sign",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "prop",
+  "collisions": [
+    {
+      "name": "Waypost",
+      "kind": "box",
+      "at": [
+        0.0,
+        1.0499998927116394,
+        0.0
+      ],
+      "size": [
+        0.20000000298023224,
+        2.5499998331069946,
+        0.20000000298023224
+      ]
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/way_sign.blend",
+  "source_sha256": "fec70b370d0ec0333dbdcd39c8e0f7992f729a9d7e13b3d2950f49cd2dc92b0d",
+  "glb_sha256": "03de11bcf29509ef6616cc9e3e78dde7581b921982af27e84083f64c10e68e6f",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 276
+  },
+  "triangles": 276,
+  "mesh_count": 1,
+  "bounds_min": [
+    -0.8999999761581421,
+    -0.18071144819259644,
+    -0.10000000149011612
+  ],
+  "bounds_max": [
+    0.9399999976158142,
+    2.350553274154663,
+    0.10000000149011612
+  ],
+  "materials": [
+    "env_boards",
+    "env_snow",
+    "env_timber"
+  ]
+}

@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/art/snow_palette.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+display_name = "柔雾蓝 · 对照"
+time_of_day = "comparison"
+description = "雪面更明亮，阴影更柔和的备用对照"
+snow = Color(0.6706, 0.8000, 0.9098, 1)
+shadow = Color(0.4157, 0.6000, 0.7373, 1)
+wall = Color(0.3686, 0.5059, 0.6118, 1)
+roof = Color(0.1922, 0.2784, 0.3647, 1)
+wood = Color(0.2078, 0.2941, 0.3608, 1)
+coat = Color(0.2549, 0.4118, 0.5490, 1)
+scarf = Color(0.6706, 0.4235, 0.3647, 1)
+warm = Color(0.9843, 0.8667, 0.7059, 1)
+ambient = Color(0.6902, 0.8078, 0.9216, 1)
+sunlight = Color(0.9373, 0.9608, 0.9922, 1)
+light_energy = 0.8
+ambient_energy = 0.74

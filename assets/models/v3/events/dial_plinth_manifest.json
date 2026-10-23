@@ -1,0 +1,19 @@
+{
+  "asset": "dial_plinth",
+  "source": "source_art/blender/v3/events/dial_plinth.blend",
+  "collisions": [
+    {
+      "name": "StoneBase",
+      "kind": "cylinder",
+      "at": [
+        0,
+        0.35,
+        0
+      ],
+      "radius": 0.82,
+      "height": 0.7
+    }
+  ],
+  "supports": [],
+  "mesh_count": 3
+}

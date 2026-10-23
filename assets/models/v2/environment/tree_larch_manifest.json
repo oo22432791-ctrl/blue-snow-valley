@@ -1,0 +1,50 @@
+{
+  "asset": "tree_larch",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "tree",
+  "collisions": [
+    {
+      "name": "TreeTrunk",
+      "kind": "cylinder",
+      "at": [
+        0.0,
+        1.3999999165534973,
+        0.0
+      ],
+      "radius": 0.23999999463558197,
+      "height": 3.099999785423279
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "Far",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/tree_larch.blend",
+  "source_sha256": "e718ff310b1175484d15c4a0fe5ca44340c996638651a654fca5c540a2529b4b",
+  "glb_sha256": "194f43d3cbff76cfc8f316db67ce6ebe9a189734316df7a9cc86a7300329e258",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 2018,
+    "Far": 492
+  },
+  "triangles": 2510,
+  "mesh_count": 2,
+  "bounds_min": [
+    -1.6892248392105103,
+    -0.16844923794269562,
+    -1.785773754119873
+  ],
+  "bounds_max": [
+    1.9364079236984253,
+    5.509796142578125,
+    2.031421661376953
+  ],
+  "materials": [
+    "env_bark",
+    "env_snow",
+    "env_twig"
+  ]
+}

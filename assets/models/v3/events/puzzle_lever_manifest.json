@@ -1,0 +1,22 @@
+{
+  "asset": "puzzle_lever",
+  "source": "source_art/blender/v3/events/puzzle_lever.blend",
+  "collisions": [
+    {
+      "name": "Pedestal",
+      "kind": "box",
+      "at": [
+        0,
+        0.36,
+        0
+      ],
+      "size": [
+        0.55,
+        0.72,
+        0.55
+      ]
+    }
+  ],
+  "supports": [],
+  "mesh_count": 3
+}

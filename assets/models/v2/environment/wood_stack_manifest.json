@@ -1,0 +1,53 @@
+{
+  "asset": "wood_stack",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "prop",
+  "collisions": [
+    {
+      "name": "StackedWood",
+      "kind": "box",
+      "at": [
+        0.0,
+        0.4399999976158142,
+        0.0
+      ],
+      "size": [
+        1.2000000476837158,
+        0.8799999952316284,
+        1.0199999809265137
+      ]
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/wood_stack.blend",
+  "source_sha256": "14fddc568c5da85549b41ea3f07bde739b7f14dd80f2bc927657f1572579b400",
+  "glb_sha256": "5a9b4f227d164e223881c6fdca1a49868b72f1fb9725427d0ab1e1c1ac9bfb64",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 4820
+  },
+  "triangles": 4820,
+  "mesh_count": 1,
+  "bounds_min": [
+    -0.5949999690055847,
+    -0.00790320336818695,
+    -0.503000020980835
+  ],
+  "bounds_max": [
+    0.5949999690055847,
+    0.94132000207901,
+    0.503000020980835
+  ],
+  "materials": [
+    "env_bark",
+    "env_cutwood",
+    "env_snow",
+    "env_twig"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "source": "Original procedural synthesis; no third-party recordings",
+  "generator": "tools/generate_snow_audio.py",
+  "sample_rate": 44100,
+  "channels": 1,
+  "pcm_bits": 16,
+  "files": [
+    {
+      "file": "snow_step_01.wav",
+      "duration_seconds": 0.29,
+      "peak": 0.48,
+      "rms": 0.053382667847376906
+    },
+    {
+      "file": "snow_step_02.wav",
+      "duration_seconds": 0.2959863945578231,
+      "peak": 0.48,
+      "rms": 0.05689680453089644
+    },
+    {
+      "file": "snow_step_03.wav",
+      "duration_seconds": 0.3019954648526077,
+      "peak": 0.48,
+      "rms": 0.060626411756918804
+    },
+    {
+      "file": "snow_step_04.wav",
+      "duration_seconds": 0.3079818594104308,
+      "peak": 0.48,
+      "rms": 0.05316824621548765
+    },
+    {
+      "file": "snow_step_05.wav",
+      "duration_seconds": 0.3139909297052154,
+      "peak": 0.48,
+      "rms": 0.0535491337279684
+    },
+    {
+      "file": "snow_step_06.wav",
+      "duration_seconds": 0.31997732426303854,
+      "peak": 0.4799999999999999,
+      "rms": 0.04721345001376012
+    }
+  ]
+}

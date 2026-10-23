@@ -1,0 +1,51 @@
+{
+  "asset": "branch_bundle",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "prop",
+  "collisions": [
+    {
+      "name": "DryBranchBundle",
+      "kind": "box",
+      "at": [
+        0.0,
+        0.09000000357627869,
+        0.09999999403953552
+      ],
+      "size": [
+        1.25,
+        0.18000000715255737,
+        0.75
+      ]
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/branch_bundle.blend",
+  "source_sha256": "05973b01e79c4300c78e67d26500340beb3c897950d92efed4c2841ae53540dc",
+  "glb_sha256": "c114c6d23aefa1000dba1f45beb7a3498e9235ed1c3a8b05159c2bda2fdd9aa7",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 180
+  },
+  "triangles": 180,
+  "mesh_count": 1,
+  "bounds_min": [
+    -0.6570963263511658,
+    0.0769621729850769,
+    -0.2662256062030792
+  ],
+  "bounds_max": [
+    0.6527079343795776,
+    0.3343600034713745,
+    0.35693806409835815
+  ],
+  "materials": [
+    "env_snow",
+    "env_twig"
+  ]
+}

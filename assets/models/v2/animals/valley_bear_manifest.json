@@ -1,0 +1,76 @@
+{
+  "asset": "valley_bear",
+  "stage": "M10 original quadruped",
+  "units": "metres",
+  "front": "+Z",
+  "clips": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Warning",
+    "Swipe",
+    "Hit",
+    "Death"
+  ],
+  "sole_centres_rest": {
+    "LF": [
+      -0.29,
+      0,
+      0.4784
+    ],
+    "RF": [
+      0.29,
+      0,
+      0.4784
+    ],
+    "LR": [
+      -0.29,
+      0,
+      -0.33120000000000005
+    ],
+    "RR": [
+      0.29,
+      0,
+      -0.33120000000000005
+    ]
+  },
+  "colliders": [
+    {
+      "kind": "capsule",
+      "at": [
+        0.0,
+        0.550000011920929,
+        -0.33000001311302185
+      ],
+      "radius": 0.4300000071525574,
+      "height": 1.100000023841858
+    },
+    {
+      "kind": "capsule",
+      "at": [
+        0.0,
+        0.550000011920929,
+        0.27000001072883606
+      ],
+      "radius": 0.4300000071525574,
+      "height": 1.100000023841858
+    },
+    {
+      "kind": "sphere",
+      "at": [
+        0.0,
+        0.949999988079071,
+        0.7300000190734863
+      ],
+      "radius": 0.2800000011920929
+    }
+  ],
+  "stride_m": 0.9,
+  "notes": "Original rounded brown bear, four legs and five toes; source clips include future M11 reactions. No third-party assets.",
+  "source": "source_art/blender/v2/valley_bear.blend",
+  "source_sha256": "bcfa7009d4aec7ffbbc56453c2c026c03b725f905900dab6225554cdee66c15e",
+  "glb_sha256": "16dec2820c1eb8d63055ab25086c88102f3b08ce2d44ed11d76fc16b8f784dc9",
+  "triangles": 8520,
+  "blender": "5.2.0 LTS",
+  "bones": 16
+}

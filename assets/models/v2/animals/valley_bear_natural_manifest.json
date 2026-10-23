@@ -1,0 +1,78 @@
+{
+  "asset": "valley_bear_natural",
+  "stage": "M10 revised model preview, not accepted",
+  "units": "metres",
+  "front": "+Z",
+  "clips": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Warning",
+    "Swipe",
+    "Hit",
+    "Death"
+  ],
+  "sole_centres_rest": {
+    "LF": [
+      -0.3,
+      0,
+      0.52
+    ],
+    "RF": [
+      0.3,
+      0,
+      0.52
+    ],
+    "LR": [
+      -0.29,
+      0,
+      -0.37
+    ],
+    "RR": [
+      0.29,
+      0,
+      -0.37
+    ]
+  },
+  "posture": "quadruped idle, observation, warning and locomotion; bipedal standing cancelled by user",
+  "notes": "Original continuous faceted dark brown bear. Preview only; game collision/contacts not yet integrated. No third party assets.",
+  "revision": "dark brown near black; quadruped only; prior standing draft backed up",
+  "colliders": [
+    {
+      "kind": "capsule",
+      "at": [
+        0.0,
+        0.5199999809265137,
+        -0.4000000059604645
+      ],
+      "radius": 0.4000000059604645,
+      "height": 1.0399999618530273
+    },
+    {
+      "kind": "capsule",
+      "at": [
+        0.0,
+        0.550000011920929,
+        0.30000001192092896
+      ],
+      "radius": 0.4099999964237213,
+      "height": 1.100000023841858
+    },
+    {
+      "kind": "sphere",
+      "at": [
+        0.0,
+        0.9599999785423279,
+        0.8199999928474426
+      ],
+      "radius": 0.25
+    }
+  ],
+  "death_revision": "M11: actual world-forward-axis80degree side fall, skin-envelope ground lift; about0.75game-second runtime. Geometry/materials/six live actions unchanged.",
+  "source": "source_art/blender/v2/valley_bear_natural.blend",
+  "source_sha256": "5f0a3230792204f91a282bcaa466fef82478dbdb5d9ed850210fee421b8de70d",
+  "glb_sha256": "8676cac2fa9aa79155af67b330a60949c34621ac98ba7c47715dd9a52150bb43",
+  "triangles": 5632,
+  "blender": "5.2.0 LTS",
+  "bones": 19
+}

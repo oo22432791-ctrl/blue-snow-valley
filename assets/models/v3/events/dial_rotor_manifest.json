@@ -1,0 +1,7 @@
+{
+  "asset": "dial_rotor",
+  "source": "source_art/blender/v3/events/dial_rotor.blend",
+  "collisions": [],
+  "supports": [],
+  "mesh_count": 16
+}

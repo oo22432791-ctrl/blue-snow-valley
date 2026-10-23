@@ -1,0 +1,74 @@
+{
+  "asset": "ice_ridge_bear",
+  "units": "metres",
+  "front": "+Z",
+  "stage": "M12 enlarged native model preview; awaiting user acceptance",
+  "dimensions_requested": {
+    "shoulder_height": 4.8,
+    "body_length": 9.6,
+    "width": 4.16,
+    "crest_peak": 5.76
+  },
+  "clips": {
+    "Idle": 2.4,
+    "Walk": 1.4,
+    "Run": 0.8,
+    "ChargeWarning": 1.4,
+    "Charge": 0.6,
+    "Stop": 0.7,
+    "Slam": 1.8,
+    "Hit": 0.6,
+    "Fall": 1.9
+  },
+  "loops": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Charge"
+  ],
+  "bones": 19,
+  "source": "source_art/blender/v3/boss/ice_ridge_bear.blend",
+  "animation_root_motion": false,
+  "notes": "Original editable native sculpture. In-place clip preview only; runtime movement, collision and arena are not yet integrated.",
+  "feet": {
+    "LF": {
+      "ankle": [
+        -1.4221544265747068,
+        0.3752564430236816,
+        2.1209638595581053
+      ],
+      "upper": 1.68,
+      "lower": 1.5679999999999998
+    },
+    "RF": {
+      "ankle": [
+        1.4221544265747068,
+        0.3752564430236816,
+        2.1209638595581053
+      ],
+      "upper": 1.68,
+      "lower": 1.5679999999999998
+    },
+    "LR": {
+      "ankle": [
+        -1.3431458473205564,
+        0.3752564430236816,
+        -2.5708652496337887
+      ],
+      "upper": 1.408,
+      "lower": 1.376
+    },
+    "RR": {
+      "ankle": [
+        1.3431458473205564,
+        0.3752564430236816,
+        -2.5708652496337887
+      ],
+      "upper": 1.408,
+      "lower": 1.376
+    }
+  },
+  "size_revision": "2026-10-22 user selected 60 percent larger than first 3m shoulder prototype",
+  "blender": "5.2.0 LTS",
+  "triangles": 10884
+}

@@ -1,0 +1,50 @@
+{
+  "asset": "tree_spruce",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "tree",
+  "collisions": [
+    {
+      "name": "TreeTrunk",
+      "kind": "cylinder",
+      "at": [
+        0.0,
+        1.3999999165534973,
+        0.0
+      ],
+      "radius": 0.23999999463558197,
+      "height": 3.099999785423279
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "Far",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/tree_spruce.blend",
+  "source_sha256": "cd1b6ee8ab7477fb0e02fcdf20fd770e2f3bf99a141ceda0d71bcd9f398b87a0",
+  "glb_sha256": "9ab07e71c0120fdc0296a60f672d24ecf59c103817b7469b1894b56fa4b0de48",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 1318,
+    "Far": 418
+  },
+  "triangles": 1736,
+  "mesh_count": 2,
+  "bounds_min": [
+    -1.6099951267242432,
+    -0.16151505708694458,
+    -1.6436784267425537
+  ],
+  "bounds_max": [
+    1.5199999809265137,
+    6.234692096710205,
+    1.5673543214797974
+  ],
+  "materials": [
+    "env_bark",
+    "env_needle",
+    "env_snow"
+  ]
+}

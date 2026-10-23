@@ -1,0 +1,50 @@
+{
+  "asset": "tree_willow",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "tree",
+  "collisions": [
+    {
+      "name": "TreeTrunk",
+      "kind": "cylinder",
+      "at": [
+        0.0,
+        1.3999999165534973,
+        0.0
+      ],
+      "radius": 0.23999999463558197,
+      "height": 3.099999785423279
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "Far",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/tree_willow.blend",
+  "source_sha256": "bd8c96da89dbe22226a9804dda35698dafb4ca47464094783b4b43062bfe1666",
+  "glb_sha256": "44589b5eb9e5c77841dc84d74151e14a1677aebf51693784570c23ff785674e0",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 2018,
+    "Far": 492
+  },
+  "triangles": 2510,
+  "mesh_count": 2,
+  "bounds_min": [
+    -2.1264686584472656,
+    -0.16844923794269562,
+    -2.124286413192749
+  ],
+  "bounds_max": [
+    2.161447048187256,
+    5.102810859680176,
+    1.8547509908676147
+  ],
+  "materials": [
+    "env_bark",
+    "env_snow",
+    "env_twig"
+  ]
+}

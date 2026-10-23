@@ -1,0 +1,145 @@
+{
+  "blender": "5.2.0 LTS",
+  "source": "Original project models and skeletal animation; no third-party assets",
+  "generator": "tools/build_blender_assets.py",
+  "units": "metres",
+  "godot_up": "+Y",
+  "character_front": "+Z",
+  "character_height_target_m": 1.585,
+  "stride_m": 0.72,
+  "sole_centres_rest": [
+    [
+      -0.13,
+      0,
+      0.05
+    ],
+    [
+      0.13,
+      0,
+      0.05
+    ]
+  ],
+  "contact_cycle": {
+    "right": 0,
+    "left": 0.5
+  },
+  "clips": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Throw",
+    "Hit"
+  ],
+  "sources": [
+    "source_art/blender/snow_child.blend",
+    "source_art/blender/winter_props.blend"
+  ],
+  "assets": [
+    {
+      "asset": "snow_child",
+      "triangles": 7024,
+      "materials": [
+        "coat",
+        "roof",
+        "scarf",
+        "skin",
+        "snow",
+        "wood"
+      ],
+      "exported_from": "source_art/blender/snow_child.blend",
+      "source_sha256": "241c4feb6675a02f0ac0dfb0b5e9a50f0530f907ab537d694f2994722595f359",
+      "glb_sha256": "140b0024896d56da692ab7ba457880548cf08e386f9731dd84cc8c1389dd2346"
+    },
+    {
+      "asset": "winter_house",
+      "triangles": 3134,
+      "materials": [
+        "roof",
+        "scarf",
+        "shadow",
+        "snow",
+        "wall",
+        "warm",
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "cb89ad76f42dcb3ecf80a38d81edfef01e4d6326b9c89e7867382647fb2f6dc4"
+    },
+    {
+      "asset": "winter_shed",
+      "triangles": 432,
+      "materials": [
+        "roof",
+        "snow",
+        "wall",
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "9071f22ec41144572d3e528ca544c25b677fa9af78c5ba672c51bce1f0b8c3de"
+    },
+    {
+      "asset": "tree_13",
+      "triangles": 888,
+      "materials": [
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "7a8be2c3b6af0c5913b0bc7718a652d7dfb578321d63cad33a61133dbac0b6ac"
+    },
+    {
+      "asset": "tree_29",
+      "triangles": 888,
+      "materials": [
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "95956224d2cefab2ff320cd008cdfeca6494b9e2ed0426ff7d230af12a23eee3"
+    },
+    {
+      "asset": "tree_51",
+      "triangles": 888,
+      "materials": [
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "82c54e3b9fc8e01eab9cf9d26580e850729e92ad1ae596c5aca67f2568c7a500"
+    },
+    {
+      "asset": "snow_fence",
+      "triangles": 1320,
+      "materials": [
+        "snow",
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "c9574b9a2ae52e11fd0b1ce6bf2c11de2afe2364af5fcfd2b950b0eb96457e4c"
+    },
+    {
+      "asset": "snowman",
+      "triangles": 1264,
+      "materials": [
+        "snow",
+        "wood"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "2aa85048fb9d7067c6753a187cc635a2c75fdc46a4dd8053f2a783b1e6cee447"
+    },
+    {
+      "asset": "snow_mound",
+      "triangles": 528,
+      "materials": [
+        "snow"
+      ],
+      "exported_from": "source_art/blender/winter_props.blend",
+      "source_sha256": "95ee1db85f757f9e101e4e68a11f7f195d12af76edc15905912efd1021f95479",
+      "glb_sha256": "09cb6869a48d66536bd7828a9ffa66f895c982818045b55b9c694fa6d0377d3e"
+    }
+  ]
+}

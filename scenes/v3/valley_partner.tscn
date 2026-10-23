@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="PackedScene" path="res://scenes/v3/valley_recovery_player.tscn" id="1_body"]
+
+[node name="ValleyPartner" instance=ExtResource("1_body")]
+walk_speed = 1.15
+external_control = true
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
+path_desired_distance = 0.22
+path_height_offset = 0.2
+target_desired_distance = 0.28
+path_max_distance = 1.2
+radius = 0.38
+height = 1.5
+max_speed = 1.15
+neighbor_distance = 3.0
+time_horizon_obstacles = 0.65
+avoidance_enabled = true

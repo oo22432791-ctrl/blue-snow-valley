@@ -1,0 +1,52 @@
+{
+  "meters": true,
+  "forward": "+Z",
+  "length_m": 1.07,
+  "clips": [
+    "Hold",
+    "Fire",
+    "Reload"
+  ],
+  "reload_seconds": 2,
+  "markers": {
+    "muzzle": {
+      "at": [
+        0,
+        0.038,
+        0.673
+      ],
+      "bone": "Barrel"
+    },
+    "right_grip": {
+      "at": [
+        0,
+        -0.035,
+        -0.085
+      ],
+      "bone": "Stock"
+    },
+    "left_grip": {
+      "at": [
+        0,
+        -0.025,
+        0.255
+      ],
+      "bone": "Barrel"
+    },
+    "shoulder": {
+      "at": [
+        0,
+        0.015,
+        -0.385
+      ],
+      "bone": "Stock"
+    }
+  },
+  "notes": "Original editable wooden break-action single-shot rifle. No scope, no external assets. Mechanical asset only; player actions, shooting and ammunition not yet integrated.",
+  "source": "source_art/blender/v2/valley_rifle.blend",
+  "source_sha256": "4dc3a8d32479bb18c57189383a6c6855bdaf916e1bef61f1c80a9193dd320403",
+  "glb_sha256": "c5dd852cf04b55d2be04d455cf27abf6ff45805073d33c747e6441f47753c4a9",
+  "triangles": 596,
+  "bones": 2,
+  "blender": "5.2.0 LTS"
+}

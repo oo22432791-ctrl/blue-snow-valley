@@ -1,0 +1,26 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/v3/actors/valley_recovery_player.gd" id="1_player"]
+[ext_resource type="Script" path="res://scripts/snow/valley_footstep_emitter.gd" id="2_steps"]
+[ext_resource type="Script" path="res://scripts/v3/actors/valley_recovery_visual.gd" id="3_visual"]
+[ext_resource type="PackedScene" path="res://assets/models/v3/characters/valley_explorer_recovery.glb" id="4_model"]
+
+[sub_resource type="CapsuleShape3D" id="Capsule_player"]
+radius = 0.3
+height = 1.5
+
+[node name="Player" type="CharacterBody3D"]
+floor_snap_length = 0.2
+script = ExtResource("1_player")
+
+[node name="BodyCollision" type="CollisionShape3D" parent="."]
+position = Vector3(0, 0.75, 0)
+shape = SubResource("Capsule_player")
+
+[node name="Visual" type="Node3D" parent="."]
+script = ExtResource("3_visual")
+
+[node name="SnowChild" parent="Visual" instance=ExtResource("4_model")]
+
+[node name="FootstepEmitter" type="Node" parent="."]
+script = ExtResource("2_steps")

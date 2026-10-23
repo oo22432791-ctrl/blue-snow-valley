@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/art/snow_palette.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+display_name = "夜晚 · 暮色蓝"
+time_of_day = "night"
+description = "深蓝雪面，少量温暖窗光"
+snow = Color(0.4706, 0.6314, 0.8235, 1)
+shadow = Color(0.2627, 0.4078, 0.6118, 1)
+wall = Color(0.2824, 0.3922, 0.5451, 1)
+roof = Color(0.1255, 0.1882, 0.3020, 1)
+wood = Color(0.1490, 0.2157, 0.3216, 1)
+coat = Color(0.1961, 0.3059, 0.4824, 1)
+scarf = Color(0.5922, 0.3137, 0.3294, 1)
+warm = Color(0.9843, 0.7804, 0.5294, 1)
+ambient = Color(0.4784, 0.6000, 0.8157, 1)
+sunlight = Color(0.7294, 0.8157, 0.9843, 1)
+light_energy = 0.72
+ambient_energy = 0.64

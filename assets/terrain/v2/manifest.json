@@ -1,0 +1,8370 @@
+{
+	"build_ms": 12697,
+	"chunk_size": 32,
+	"chunks": [
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_00.res",
+			"shape": "res://assets/terrain/v2/collision_00_00.res",
+			"x": 0,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_00.res",
+			"shape": "res://assets/terrain/v2/collision_01_00.res",
+			"x": 1,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_00.res",
+			"shape": "res://assets/terrain/v2/collision_02_00.res",
+			"x": 2,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_00.res",
+			"shape": "res://assets/terrain/v2/collision_03_00.res",
+			"x": 3,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_00.res",
+			"shape": "res://assets/terrain/v2/collision_04_00.res",
+			"x": 4,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_00.res",
+			"shape": "res://assets/terrain/v2/collision_05_00.res",
+			"x": 5,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_00.res",
+			"shape": "res://assets/terrain/v2/collision_06_00.res",
+			"x": 6,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_00.res",
+			"shape": "res://assets/terrain/v2/collision_07_00.res",
+			"x": 7,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_00.res",
+			"shape": "res://assets/terrain/v2/collision_08_00.res",
+			"x": 8,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_00.res",
+			"shape": "res://assets/terrain/v2/collision_09_00.res",
+			"x": 9,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_00.res",
+			"shape": "res://assets/terrain/v2/collision_10_00.res",
+			"x": 10,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_00.res",
+			"shape": "res://assets/terrain/v2/collision_11_00.res",
+			"x": 11,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_00.res",
+			"shape": "res://assets/terrain/v2/collision_12_00.res",
+			"x": 12,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_00.res",
+			"shape": "res://assets/terrain/v2/collision_13_00.res",
+			"x": 13,
+			"z": 0
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_01.res",
+			"shape": "res://assets/terrain/v2/collision_00_01.res",
+			"x": 0,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_01.res",
+			"shape": "res://assets/terrain/v2/collision_01_01.res",
+			"x": 1,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_01.res",
+			"shape": "res://assets/terrain/v2/collision_02_01.res",
+			"x": 2,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_01.res",
+			"shape": "res://assets/terrain/v2/collision_03_01.res",
+			"x": 3,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_01.res",
+			"shape": "res://assets/terrain/v2/collision_04_01.res",
+			"x": 4,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_01.res",
+			"shape": "res://assets/terrain/v2/collision_05_01.res",
+			"x": 5,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_01.res",
+			"shape": "res://assets/terrain/v2/collision_06_01.res",
+			"x": 6,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_01.res",
+			"shape": "res://assets/terrain/v2/collision_07_01.res",
+			"x": 7,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_01.res",
+			"shape": "res://assets/terrain/v2/collision_08_01.res",
+			"x": 8,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_01.res",
+			"shape": "res://assets/terrain/v2/collision_09_01.res",
+			"x": 9,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_01.res",
+			"shape": "res://assets/terrain/v2/collision_10_01.res",
+			"x": 10,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_01.res",
+			"shape": "res://assets/terrain/v2/collision_11_01.res",
+			"x": 11,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_01.res",
+			"shape": "res://assets/terrain/v2/collision_12_01.res",
+			"x": 12,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_01.res",
+			"shape": "res://assets/terrain/v2/collision_13_01.res",
+			"x": 13,
+			"z": 1
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_02.res",
+			"shape": "res://assets/terrain/v2/collision_00_02.res",
+			"x": 0,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_02.res",
+			"shape": "res://assets/terrain/v2/collision_01_02.res",
+			"x": 1,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_02.res",
+			"shape": "res://assets/terrain/v2/collision_02_02.res",
+			"x": 2,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_02.res",
+			"shape": "res://assets/terrain/v2/collision_03_02.res",
+			"x": 3,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_02.res",
+			"shape": "res://assets/terrain/v2/collision_04_02.res",
+			"x": 4,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_02.res",
+			"shape": "res://assets/terrain/v2/collision_05_02.res",
+			"x": 5,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_02.res",
+			"shape": "res://assets/terrain/v2/collision_06_02.res",
+			"x": 6,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_02.res",
+			"shape": "res://assets/terrain/v2/collision_07_02.res",
+			"x": 7,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_02.res",
+			"shape": "res://assets/terrain/v2/collision_08_02.res",
+			"x": 8,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_02.res",
+			"shape": "res://assets/terrain/v2/collision_09_02.res",
+			"x": 9,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_02.res",
+			"shape": "res://assets/terrain/v2/collision_10_02.res",
+			"x": 10,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_02.res",
+			"shape": "res://assets/terrain/v2/collision_11_02.res",
+			"x": 11,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_02.res",
+			"shape": "res://assets/terrain/v2/collision_12_02.res",
+			"x": 12,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_02.res",
+			"shape": "res://assets/terrain/v2/collision_13_02.res",
+			"x": 13,
+			"z": 2
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_03.res",
+			"shape": "res://assets/terrain/v2/collision_00_03.res",
+			"x": 0,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_03.res",
+			"shape": "res://assets/terrain/v2/collision_01_03.res",
+			"x": 1,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_03.res",
+			"shape": "res://assets/terrain/v2/collision_02_03.res",
+			"x": 2,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_03.res",
+			"shape": "res://assets/terrain/v2/collision_03_03.res",
+			"x": 3,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_03.res",
+			"shape": "res://assets/terrain/v2/collision_04_03.res",
+			"x": 4,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_03.res",
+			"shape": "res://assets/terrain/v2/collision_05_03.res",
+			"x": 5,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_03.res",
+			"shape": "res://assets/terrain/v2/collision_06_03.res",
+			"x": 6,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_03.res",
+			"shape": "res://assets/terrain/v2/collision_07_03.res",
+			"x": 7,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_03.res",
+			"shape": "res://assets/terrain/v2/collision_08_03.res",
+			"x": 8,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_03.res",
+			"shape": "res://assets/terrain/v2/collision_09_03.res",
+			"x": 9,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_03.res",
+			"shape": "res://assets/terrain/v2/collision_10_03.res",
+			"x": 10,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_03.res",
+			"shape": "res://assets/terrain/v2/collision_11_03.res",
+			"x": 11,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_03.res",
+			"shape": "res://assets/terrain/v2/collision_12_03.res",
+			"x": 12,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_03.res",
+			"shape": "res://assets/terrain/v2/collision_13_03.res",
+			"x": 13,
+			"z": 3
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_04.res",
+			"shape": "res://assets/terrain/v2/collision_00_04.res",
+			"x": 0,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_04.res",
+			"shape": "res://assets/terrain/v2/collision_01_04.res",
+			"x": 1,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_04.res",
+			"shape": "res://assets/terrain/v2/collision_02_04.res",
+			"x": 2,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_04.res",
+			"shape": "res://assets/terrain/v2/collision_03_04.res",
+			"x": 3,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_04.res",
+			"shape": "res://assets/terrain/v2/collision_04_04.res",
+			"x": 4,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_04.res",
+			"shape": "res://assets/terrain/v2/collision_05_04.res",
+			"x": 5,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_04.res",
+			"shape": "res://assets/terrain/v2/collision_06_04.res",
+			"x": 6,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_04.res",
+			"shape": "res://assets/terrain/v2/collision_07_04.res",
+			"x": 7,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_04.res",
+			"shape": "res://assets/terrain/v2/collision_08_04.res",
+			"x": 8,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_04.res",
+			"shape": "res://assets/terrain/v2/collision_09_04.res",
+			"x": 9,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_04.res",
+			"shape": "res://assets/terrain/v2/collision_10_04.res",
+			"x": 10,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_04.res",
+			"shape": "res://assets/terrain/v2/collision_11_04.res",
+			"x": 11,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_04.res",
+			"shape": "res://assets/terrain/v2/collision_12_04.res",
+			"x": 12,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_04.res",
+			"shape": "res://assets/terrain/v2/collision_13_04.res",
+			"x": 13,
+			"z": 4
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_05.res",
+			"shape": "res://assets/terrain/v2/collision_00_05.res",
+			"x": 0,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_05.res",
+			"shape": "res://assets/terrain/v2/collision_01_05.res",
+			"x": 1,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_05.res",
+			"shape": "res://assets/terrain/v2/collision_02_05.res",
+			"x": 2,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_05.res",
+			"shape": "res://assets/terrain/v2/collision_03_05.res",
+			"x": 3,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_05.res",
+			"shape": "res://assets/terrain/v2/collision_04_05.res",
+			"x": 4,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_05.res",
+			"shape": "res://assets/terrain/v2/collision_05_05.res",
+			"x": 5,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_05.res",
+			"shape": "res://assets/terrain/v2/collision_06_05.res",
+			"x": 6,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_05.res",
+			"shape": "res://assets/terrain/v2/collision_07_05.res",
+			"x": 7,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_05.res",
+			"shape": "res://assets/terrain/v2/collision_08_05.res",
+			"x": 8,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_05.res",
+			"shape": "res://assets/terrain/v2/collision_09_05.res",
+			"x": 9,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_05.res",
+			"shape": "res://assets/terrain/v2/collision_10_05.res",
+			"x": 10,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_05.res",
+			"shape": "res://assets/terrain/v2/collision_11_05.res",
+			"x": 11,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_05.res",
+			"shape": "res://assets/terrain/v2/collision_12_05.res",
+			"x": 12,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_05.res",
+			"shape": "res://assets/terrain/v2/collision_13_05.res",
+			"x": 13,
+			"z": 5
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_06.res",
+			"shape": "res://assets/terrain/v2/collision_00_06.res",
+			"x": 0,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_06.res",
+			"shape": "res://assets/terrain/v2/collision_01_06.res",
+			"x": 1,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_06.res",
+			"shape": "res://assets/terrain/v2/collision_02_06.res",
+			"x": 2,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_06.res",
+			"shape": "res://assets/terrain/v2/collision_03_06.res",
+			"x": 3,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_06.res",
+			"shape": "res://assets/terrain/v2/collision_04_06.res",
+			"x": 4,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_06.res",
+			"shape": "res://assets/terrain/v2/collision_05_06.res",
+			"x": 5,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_06.res",
+			"shape": "res://assets/terrain/v2/collision_06_06.res",
+			"x": 6,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_06.res",
+			"shape": "res://assets/terrain/v2/collision_07_06.res",
+			"x": 7,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_06.res",
+			"shape": "res://assets/terrain/v2/collision_08_06.res",
+			"x": 8,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_06.res",
+			"shape": "res://assets/terrain/v2/collision_09_06.res",
+			"x": 9,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_06.res",
+			"shape": "res://assets/terrain/v2/collision_10_06.res",
+			"x": 10,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_06.res",
+			"shape": "res://assets/terrain/v2/collision_11_06.res",
+			"x": 11,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_06.res",
+			"shape": "res://assets/terrain/v2/collision_12_06.res",
+			"x": 12,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_06.res",
+			"shape": "res://assets/terrain/v2/collision_13_06.res",
+			"x": 13,
+			"z": 6
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_07.res",
+			"shape": "res://assets/terrain/v2/collision_00_07.res",
+			"x": 0,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_07.res",
+			"shape": "res://assets/terrain/v2/collision_01_07.res",
+			"x": 1,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_07.res",
+			"shape": "res://assets/terrain/v2/collision_02_07.res",
+			"x": 2,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_07.res",
+			"shape": "res://assets/terrain/v2/collision_03_07.res",
+			"x": 3,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_07.res",
+			"shape": "res://assets/terrain/v2/collision_04_07.res",
+			"x": 4,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_07.res",
+			"shape": "res://assets/terrain/v2/collision_05_07.res",
+			"x": 5,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_07.res",
+			"shape": "res://assets/terrain/v2/collision_06_07.res",
+			"x": 6,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_07.res",
+			"shape": "res://assets/terrain/v2/collision_07_07.res",
+			"x": 7,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_07.res",
+			"shape": "res://assets/terrain/v2/collision_08_07.res",
+			"x": 8,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_07.res",
+			"shape": "res://assets/terrain/v2/collision_09_07.res",
+			"x": 9,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_07.res",
+			"shape": "res://assets/terrain/v2/collision_10_07.res",
+			"x": 10,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_07.res",
+			"shape": "res://assets/terrain/v2/collision_11_07.res",
+			"x": 11,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_07.res",
+			"shape": "res://assets/terrain/v2/collision_12_07.res",
+			"x": 12,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_07.res",
+			"shape": "res://assets/terrain/v2/collision_13_07.res",
+			"x": 13,
+			"z": 7
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_08.res",
+			"shape": "res://assets/terrain/v2/collision_00_08.res",
+			"x": 0,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_08.res",
+			"shape": "res://assets/terrain/v2/collision_01_08.res",
+			"x": 1,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_08.res",
+			"shape": "res://assets/terrain/v2/collision_02_08.res",
+			"x": 2,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_08.res",
+			"shape": "res://assets/terrain/v2/collision_03_08.res",
+			"x": 3,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_08.res",
+			"shape": "res://assets/terrain/v2/collision_04_08.res",
+			"x": 4,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_08.res",
+			"shape": "res://assets/terrain/v2/collision_05_08.res",
+			"x": 5,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_08.res",
+			"shape": "res://assets/terrain/v2/collision_06_08.res",
+			"x": 6,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_08.res",
+			"shape": "res://assets/terrain/v2/collision_07_08.res",
+			"x": 7,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_08.res",
+			"shape": "res://assets/terrain/v2/collision_08_08.res",
+			"x": 8,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_08.res",
+			"shape": "res://assets/terrain/v2/collision_09_08.res",
+			"x": 9,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_08.res",
+			"shape": "res://assets/terrain/v2/collision_10_08.res",
+			"x": 10,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_08.res",
+			"shape": "res://assets/terrain/v2/collision_11_08.res",
+			"x": 11,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_08.res",
+			"shape": "res://assets/terrain/v2/collision_12_08.res",
+			"x": 12,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_08.res",
+			"shape": "res://assets/terrain/v2/collision_13_08.res",
+			"x": 13,
+			"z": 8
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_09.res",
+			"shape": "res://assets/terrain/v2/collision_00_09.res",
+			"x": 0,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_09.res",
+			"shape": "res://assets/terrain/v2/collision_01_09.res",
+			"x": 1,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_09.res",
+			"shape": "res://assets/terrain/v2/collision_02_09.res",
+			"x": 2,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_09.res",
+			"shape": "res://assets/terrain/v2/collision_03_09.res",
+			"x": 3,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_09.res",
+			"shape": "res://assets/terrain/v2/collision_04_09.res",
+			"x": 4,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_09.res",
+			"shape": "res://assets/terrain/v2/collision_05_09.res",
+			"x": 5,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_09.res",
+			"shape": "res://assets/terrain/v2/collision_06_09.res",
+			"x": 6,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_09.res",
+			"shape": "res://assets/terrain/v2/collision_07_09.res",
+			"x": 7,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_09.res",
+			"shape": "res://assets/terrain/v2/collision_08_09.res",
+			"x": 8,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_09.res",
+			"shape": "res://assets/terrain/v2/collision_09_09.res",
+			"x": 9,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_09.res",
+			"shape": "res://assets/terrain/v2/collision_10_09.res",
+			"x": 10,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_09.res",
+			"shape": "res://assets/terrain/v2/collision_11_09.res",
+			"x": 11,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_09.res",
+			"shape": "res://assets/terrain/v2/collision_12_09.res",
+			"x": 12,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_09.res",
+			"shape": "res://assets/terrain/v2/collision_13_09.res",
+			"x": 13,
+			"z": 9
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_10.res",
+			"shape": "res://assets/terrain/v2/collision_00_10.res",
+			"x": 0,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_10.res",
+			"shape": "res://assets/terrain/v2/collision_01_10.res",
+			"x": 1,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_10.res",
+			"shape": "res://assets/terrain/v2/collision_02_10.res",
+			"x": 2,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_10.res",
+			"shape": "res://assets/terrain/v2/collision_03_10.res",
+			"x": 3,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_10.res",
+			"shape": "res://assets/terrain/v2/collision_04_10.res",
+			"x": 4,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_10.res",
+			"shape": "res://assets/terrain/v2/collision_05_10.res",
+			"x": 5,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_10.res",
+			"shape": "res://assets/terrain/v2/collision_06_10.res",
+			"x": 6,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_10.res",
+			"shape": "res://assets/terrain/v2/collision_07_10.res",
+			"x": 7,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_10.res",
+			"shape": "res://assets/terrain/v2/collision_08_10.res",
+			"x": 8,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_10.res",
+			"shape": "res://assets/terrain/v2/collision_09_10.res",
+			"x": 9,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_10.res",
+			"shape": "res://assets/terrain/v2/collision_10_10.res",
+			"x": 10,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_10.res",
+			"shape": "res://assets/terrain/v2/collision_11_10.res",
+			"x": 11,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_10.res",
+			"shape": "res://assets/terrain/v2/collision_12_10.res",
+			"x": 12,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_10.res",
+			"shape": "res://assets/terrain/v2/collision_13_10.res",
+			"x": 13,
+			"z": 10
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_11.res",
+			"shape": "res://assets/terrain/v2/collision_00_11.res",
+			"x": 0,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_11.res",
+			"shape": "res://assets/terrain/v2/collision_01_11.res",
+			"x": 1,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_11.res",
+			"shape": "res://assets/terrain/v2/collision_02_11.res",
+			"x": 2,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_11.res",
+			"shape": "res://assets/terrain/v2/collision_03_11.res",
+			"x": 3,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_11.res",
+			"shape": "res://assets/terrain/v2/collision_04_11.res",
+			"x": 4,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_11.res",
+			"shape": "res://assets/terrain/v2/collision_05_11.res",
+			"x": 5,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_11.res",
+			"shape": "res://assets/terrain/v2/collision_06_11.res",
+			"x": 6,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_11.res",
+			"shape": "res://assets/terrain/v2/collision_07_11.res",
+			"x": 7,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_11.res",
+			"shape": "res://assets/terrain/v2/collision_08_11.res",
+			"x": 8,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_11.res",
+			"shape": "res://assets/terrain/v2/collision_09_11.res",
+			"x": 9,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_11.res",
+			"shape": "res://assets/terrain/v2/collision_10_11.res",
+			"x": 10,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_11.res",
+			"shape": "res://assets/terrain/v2/collision_11_11.res",
+			"x": 11,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_11.res",
+			"shape": "res://assets/terrain/v2/collision_12_11.res",
+			"x": 12,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_11.res",
+			"shape": "res://assets/terrain/v2/collision_13_11.res",
+			"x": 13,
+			"z": 11
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_12.res",
+			"shape": "res://assets/terrain/v2/collision_00_12.res",
+			"x": 0,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_12.res",
+			"shape": "res://assets/terrain/v2/collision_01_12.res",
+			"x": 1,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_12.res",
+			"shape": "res://assets/terrain/v2/collision_02_12.res",
+			"x": 2,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_12.res",
+			"shape": "res://assets/terrain/v2/collision_03_12.res",
+			"x": 3,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_12.res",
+			"shape": "res://assets/terrain/v2/collision_04_12.res",
+			"x": 4,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_12.res",
+			"shape": "res://assets/terrain/v2/collision_05_12.res",
+			"x": 5,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_12.res",
+			"shape": "res://assets/terrain/v2/collision_06_12.res",
+			"x": 6,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_12.res",
+			"shape": "res://assets/terrain/v2/collision_07_12.res",
+			"x": 7,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_12.res",
+			"shape": "res://assets/terrain/v2/collision_08_12.res",
+			"x": 8,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_12.res",
+			"shape": "res://assets/terrain/v2/collision_09_12.res",
+			"x": 9,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_12.res",
+			"shape": "res://assets/terrain/v2/collision_10_12.res",
+			"x": 10,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_12.res",
+			"shape": "res://assets/terrain/v2/collision_11_12.res",
+			"x": 11,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_12.res",
+			"shape": "res://assets/terrain/v2/collision_12_12.res",
+			"x": 12,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_12.res",
+			"shape": "res://assets/terrain/v2/collision_13_12.res",
+			"x": 13,
+			"z": 12
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_13.res",
+			"shape": "res://assets/terrain/v2/collision_00_13.res",
+			"x": 0,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_13.res",
+			"shape": "res://assets/terrain/v2/collision_01_13.res",
+			"x": 1,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_13.res",
+			"shape": "res://assets/terrain/v2/collision_02_13.res",
+			"x": 2,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_13.res",
+			"shape": "res://assets/terrain/v2/collision_03_13.res",
+			"x": 3,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_13.res",
+			"shape": "res://assets/terrain/v2/collision_04_13.res",
+			"x": 4,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_13.res",
+			"shape": "res://assets/terrain/v2/collision_05_13.res",
+			"x": 5,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_13.res",
+			"shape": "res://assets/terrain/v2/collision_06_13.res",
+			"x": 6,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_13.res",
+			"shape": "res://assets/terrain/v2/collision_07_13.res",
+			"x": 7,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_13.res",
+			"shape": "res://assets/terrain/v2/collision_08_13.res",
+			"x": 8,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_13.res",
+			"shape": "res://assets/terrain/v2/collision_09_13.res",
+			"x": 9,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_13.res",
+			"shape": "res://assets/terrain/v2/collision_10_13.res",
+			"x": 10,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_13.res",
+			"shape": "res://assets/terrain/v2/collision_11_13.res",
+			"x": 11,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_13.res",
+			"shape": "res://assets/terrain/v2/collision_12_13.res",
+			"x": 12,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_13.res",
+			"shape": "res://assets/terrain/v2/collision_13_13.res",
+			"x": 13,
+			"z": 13
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_14.res",
+			"shape": "res://assets/terrain/v2/collision_00_14.res",
+			"x": 0,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_14.res",
+			"shape": "res://assets/terrain/v2/collision_01_14.res",
+			"x": 1,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_14.res",
+			"shape": "res://assets/terrain/v2/collision_02_14.res",
+			"x": 2,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_14.res",
+			"shape": "res://assets/terrain/v2/collision_03_14.res",
+			"x": 3,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_14.res",
+			"shape": "res://assets/terrain/v2/collision_04_14.res",
+			"x": 4,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_14.res",
+			"shape": "res://assets/terrain/v2/collision_05_14.res",
+			"x": 5,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_14.res",
+			"shape": "res://assets/terrain/v2/collision_06_14.res",
+			"x": 6,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_14.res",
+			"shape": "res://assets/terrain/v2/collision_07_14.res",
+			"x": 7,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_14.res",
+			"shape": "res://assets/terrain/v2/collision_08_14.res",
+			"x": 8,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_14.res",
+			"shape": "res://assets/terrain/v2/collision_09_14.res",
+			"x": 9,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_14.res",
+			"shape": "res://assets/terrain/v2/collision_10_14.res",
+			"x": 10,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_14.res",
+			"shape": "res://assets/terrain/v2/collision_11_14.res",
+			"x": 11,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_14.res",
+			"shape": "res://assets/terrain/v2/collision_12_14.res",
+			"x": 12,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_14.res",
+			"shape": "res://assets/terrain/v2/collision_13_14.res",
+			"x": 13,
+			"z": 14
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_00_15.res",
+			"shape": "res://assets/terrain/v2/collision_00_15.res",
+			"x": 0,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_01_15.res",
+			"shape": "res://assets/terrain/v2/collision_01_15.res",
+			"x": 1,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_02_15.res",
+			"shape": "res://assets/terrain/v2/collision_02_15.res",
+			"x": 2,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_03_15.res",
+			"shape": "res://assets/terrain/v2/collision_03_15.res",
+			"x": 3,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_04_15.res",
+			"shape": "res://assets/terrain/v2/collision_04_15.res",
+			"x": 4,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_05_15.res",
+			"shape": "res://assets/terrain/v2/collision_05_15.res",
+			"x": 5,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_06_15.res",
+			"shape": "res://assets/terrain/v2/collision_06_15.res",
+			"x": 6,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_07_15.res",
+			"shape": "res://assets/terrain/v2/collision_07_15.res",
+			"x": 7,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_08_15.res",
+			"shape": "res://assets/terrain/v2/collision_08_15.res",
+			"x": 8,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_09_15.res",
+			"shape": "res://assets/terrain/v2/collision_09_15.res",
+			"x": 9,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_10_15.res",
+			"shape": "res://assets/terrain/v2/collision_10_15.res",
+			"x": 10,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_11_15.res",
+			"shape": "res://assets/terrain/v2/collision_11_15.res",
+			"x": 11,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_12_15.res",
+			"shape": "res://assets/terrain/v2/collision_12_15.res",
+			"x": 12,
+			"z": 15
+		},
+		{
+			"mesh": "res://assets/terrain/v2/ground_13_15.res",
+			"shape": "res://assets/terrain/v2/collision_13_15.res",
+			"x": 13,
+			"z": 15
+		}
+	],
+	"depth": 257,
+	"generator": "tools/build_valley_terrain.gd",
+	"grid_step": 2,
+	"navigation": "res://assets/terrain/v2/corridor_navigation.res",
+	"nominal_walk_seconds": 230.835313141346,
+	"origin": [
+		-224,
+		-256
+	],
+	"play_max": [
+		160,
+		192
+	],
+	"play_min": [
+		-160,
+		-192
+	],
+	"route": [
+		[
+			-100.0,
+			1.0,
+			150.0
+		],
+		[
+			-99.55908203125,
+			1.00154531002045,
+			148.26953125
+		],
+		[
+			-99.3424682617188,
+			1.00608396530151,
+			147.241119384766
+		],
+		[
+			-99.1257781982422,
+			1.00953304767609,
+			146.112503051758
+		],
+		[
+			-98.9070434570313,
+			1.02262449264526,
+			144.89013671875
+		],
+		[
+			-98.6842803955078,
+			1.03684687614441,
+			143.580474853516
+		],
+		[
+			-98.4555053710938,
+			1.05762112140656,
+			142.18994140625
+		],
+		[
+			-98.21875,
+			1.07343506813049,
+			140.725006103516
+		],
+		[
+			-97.9720306396484,
+			1.08762061595917,
+			139.192092895508
+		],
+		[
+			-97.71337890625,
+			1.09988284111023,
+			137.59765625
+		],
+		[
+			-97.440803527832,
+			1.11262547969818,
+			135.948150634766
+		],
+		[
+			-97.15234375,
+			1.12588810920715,
+			134.25
+		],
+		[
+			-96.8460083007813,
+			1.13968861103058,
+			132.509674072266
+		],
+		[
+			-96.5198211669922,
+			1.1539922952652,
+			130.733596801758
+		],
+		[
+			-96.1718139648438,
+			1.16877496242523,
+			128.92822265625
+		],
+		[
+			-95.7999954223633,
+			1.18409204483032,
+			127.099998474121
+		],
+		[
+			-95.4024047851563,
+			1.19995880126953,
+			125.25537109375
+		],
+		[
+			-94.97705078125,
+			1.21628928184509,
+			123.400779724121
+		],
+		[
+			-94.5219573974609,
+			1.2331109046936,
+			121.542671203613
+		],
+		[
+			-94.03515625,
+			1.25044965744019,
+			119.6875
+		],
+		[
+			-93.5146560668945,
+			1.26843810081482,
+			117.841697692871
+		],
+		[
+			-92.95849609375,
+			1.28686451911926,
+			116.01171875
+		],
+		[
+			-92.3646850585938,
+			1.30583333969116,
+			114.204002380371
+		],
+		[
+			-91.7312469482422,
+			1.32523512840271,
+			112.425003051758
+		],
+		[
+			-91.0562133789063,
+			1.34538853168488,
+			110.68115234375
+		],
+		[
+			-90.3375930786133,
+			1.36586892604828,
+			108.978904724121
+		],
+		[
+			-89.5734252929688,
+			1.38708329200745,
+			107.32470703125
+		],
+		[
+			-88.76171875,
+			1.40863442420959,
+			105.724998474121
+		],
+		[
+			-87.9004974365234,
+			1.43045556545258,
+			104.186233520508
+		],
+		[
+			-86.98779296875,
+			1.45343923568726,
+			102.71484375
+		],
+		[
+			-86.0216217041016,
+			1.47628533840179,
+			101.317283630371
+		],
+		[
+			-85.0,
+			1.50037395954132,
+			100.0
+		],
+		[
+			-83.8976974487305,
+			1.52366590499878,
+			98.7439117431641
+		],
+		[
+			-82.69482421875,
+			1.54804527759552,
+			97.52392578125
+		],
+		[
+			-81.3974761962891,
+			1.57220268249512,
+			96.3374862670898
+		],
+		[
+			-80.01171875,
+			1.5962188243866,
+			95.1820297241211
+		],
+		[
+			-78.5436401367188,
+			1.62104403972626,
+			94.0549926757813
+		],
+		[
+			-76.9993209838867,
+			1.64572179317474,
+			92.9538116455078
+		],
+		[
+			-75.3848266601563,
+			1.6710422039032,
+			91.8759155273438
+		],
+		[
+			-73.7062530517578,
+			1.69654321670532,
+			90.8187484741211
+		],
+		[
+			-72.8448333740234,
+			1.70958542823792,
+			90.2971343994141
+		],
+		[
+			-71.9696655273438,
+			1.72268557548523,
+			89.7797546386719
+		],
+		[
+			-71.0815200805664,
+			1.7359254360199,
+			89.2662658691406
+		],
+		[
+			-70.1811599731445,
+			1.7493017911911,
+			88.75634765625
+		],
+		[
+			-69.2693252563477,
+			1.76290249824524,
+			88.2496948242188
+		],
+		[
+			-68.346794128418,
+			1.77658271789551,
+			87.7459869384766
+		],
+		[
+			-67.4143142700195,
+			1.79045128822327,
+			87.2448883056641
+		],
+		[
+			-66.47265625,
+			1.80448615550995,
+			86.74609375
+		],
+		[
+			-65.522575378418,
+			1.81872320175171,
+			86.2492828369141
+		],
+		[
+			-64.5648345947266,
+			1.83314836025238,
+			85.7541122436523
+		],
+		[
+			-63.6001892089844,
+			1.84775757789612,
+			85.2602996826172
+		],
+		[
+			-62.6293983459473,
+			1.8626035451889,
+			84.7674865722656
+		],
+		[
+			-61.6532211303711,
+			1.8776022195816,
+			84.2753601074219
+		],
+		[
+			-60.6724319458008,
+			1.89288628101349,
+			83.7836303710938
+		],
+		[
+			-59.6877670288086,
+			1.90837109088898,
+			83.2919464111328
+		],
+		[
+			-58.7000045776367,
+			1.92414772510529,
+			82.8000030517578
+		],
+		[
+			-57.7098960876465,
+			1.94003486633301,
+			82.3074645996094
+		],
+		[
+			-56.7182006835938,
+			1.95630419254303,
+			81.8140258789063
+		],
+		[
+			-55.7256851196289,
+			1.97280085086823,
+			81.3193664550781
+		],
+		[
+			-54.7331085205078,
+			1.9896332025528,
+			80.8231506347656
+		],
+		[
+			-53.7412261962891,
+			2.0065324306488,
+			80.3250579833984
+		],
+		[
+			-52.7507934570313,
+			2.02391147613525,
+			79.8247985839844
+		],
+		[
+			-51.762580871582,
+			2.0415461063385,
+			79.322021484375
+		],
+		[
+			-50.77734375,
+			2.05957365036011,
+			78.8164138793945
+		],
+		[
+			-49.7958450317383,
+			2.07758665084839,
+			78.3076477050781
+		],
+		[
+			-48.8188400268555,
+			2.0962221622467,
+			77.7954254150391
+		],
+		[
+			-47.8470840454102,
+			2.11509966850281,
+			77.2794036865234
+		],
+		[
+			-46.88134765625,
+			2.13447785377502,
+			76.75927734375
+		],
+		[
+			-45.9223861694336,
+			2.15371870994568,
+			76.2347183227539
+		],
+		[
+			-44.9709625244141,
+			2.1737813949585,
+			75.7054138183594
+		],
+		[
+			-44.0278282165527,
+			2.19394969940186,
+			75.1710205078125
+		],
+		[
+			-43.09375,
+			2.2157940864563,
+			74.6312561035156
+		],
+		[
+			-42.1694869995117,
+			2.23757004737854,
+			74.0857620239258
+		],
+		[
+			-41.255802154541,
+			2.28488683700562,
+			73.5342407226563
+		],
+		[
+			-40.3534469604492,
+			2.33724331855774,
+			72.9763641357422
+		],
+		[
+			-39.4631843566895,
+			2.38658165931702,
+			72.4118194580078
+		],
+		[
+			-38.5857772827148,
+			2.43003582954407,
+			71.8402709960938
+		],
+		[
+			-37.7219848632813,
+			2.45715832710266,
+			71.2614135742188
+		],
+		[
+			-36.8725662231445,
+			2.47180128097534,
+			70.674919128418
+		],
+		[
+			-36.0382843017578,
+			2.48699164390564,
+			70.0804748535156
+		],
+		[
+			-35.2198905944824,
+			2.48853373527527,
+			69.4777374267578
+		],
+		[
+			-34.4181518554688,
+			2.48848938941956,
+			68.8664169311523
+		],
+		[
+			-32.86767578125,
+			2.4885938167572,
+			67.61669921875
+		],
+		[
+			-31.3929328918457,
+			2.48882985115051,
+			66.3287506103516
+		],
+		[
+			-30.0,
+			2.48898243904114,
+			65.0
+		],
+		[
+			-28.6281127929688,
+			2.52439951896667,
+			63.6252288818359
+		],
+		[
+			-27.9268398284912,
+			2.55242514610291,
+			62.919750213623
+		],
+		[
+			-27.21630859375,
+			2.61106038093567,
+			62.20263671875
+		],
+		[
+			-26.4972457885742,
+			2.68324995040894,
+			61.4742050170898
+		],
+		[
+			-25.7703723907471,
+			2.75490713119507,
+			60.7347755432129
+		],
+		[
+			-25.0364151000977,
+			2.81318545341492,
+			59.9846725463867
+		],
+		[
+			-24.2960948944092,
+			2.86452078819275,
+			59.2242164611816
+		],
+		[
+			-23.5501327514648,
+			2.90906810760498,
+			58.453727722168
+		],
+		[
+			-22.7992553710938,
+			2.94967865943909,
+			57.6735229492188
+		],
+		[
+			-22.0441837310791,
+			2.99132251739502,
+			56.8839225769043
+		],
+		[
+			-21.28564453125,
+			3.03389048576355,
+			56.0852508544922
+		],
+		[
+			-20.5243587493896,
+			3.07771229743958,
+			55.2778282165527
+		],
+		[
+			-19.7610473632813,
+			3.12207078933716,
+			54.4619750976563
+		],
+		[
+			-18.9964370727539,
+			3.16740655899048,
+			53.6380081176758
+		],
+		[
+			-18.2312488555908,
+			3.21352481842041,
+			52.8062477111816
+		],
+		[
+			-17.4662094116211,
+			3.26011681556702,
+			51.9670181274414
+		],
+		[
+			-16.7020397186279,
+			3.30780625343323,
+			51.1206398010254
+		],
+		[
+			-15.9394607543945,
+			3.3556706905365,
+			50.2674331665039
+		],
+		[
+			-15.17919921875,
+			3.40433764457703,
+			49.40771484375
+		],
+		[
+			-14.4219760894775,
+			3.45338845252991,
+			48.5418090820313
+		],
+		[
+			-13.6685180664063,
+			3.50278806686401,
+			47.6700286865234
+		],
+		[
+			-12.919545173645,
+			3.55265522003174,
+			46.7927055358887
+		],
+		[
+			-12.17578125,
+			3.6026337146759,
+			45.91015625
+		],
+		[
+			-11.4379501342773,
+			3.65317845344543,
+			45.0226974487305
+		],
+		[
+			-10.7067756652832,
+			3.70362854003906,
+			44.1306533813477
+		],
+		[
+			-9.98297882080078,
+			3.75452256202698,
+			43.2343368530273
+		],
+		[
+			-9.26728534698486,
+			3.80515956878662,
+			42.3340797424316
+		],
+		[
+			-8.56041717529297,
+			3.85606288909912,
+			41.4301986694336
+		],
+		[
+			-7.86309814453125,
+			3.9069287776947,
+			40.5230102539063
+		],
+		[
+			-7.1760516166687,
+			3.95738482475281,
+			39.6128387451172
+		],
+		[
+			-6.50000047683716,
+			4.00797319412231,
+			38.6999969482422
+		],
+		[
+			-5.83566761016846,
+			4.05828475952148,
+			37.7848167419434
+		],
+		[
+			-5.18377685546875,
+			4.108238697052,
+			36.8676147460938
+		],
+		[
+			-4.54505157470703,
+			4.15793800354004,
+			35.9487075805664
+		],
+		[
+			-3.92021512985229,
+			4.20749998092651,
+			35.0284194946289
+		],
+		[
+			-3.30999040603638,
+			4.25613164901733,
+			34.107063293457
+		],
+		[
+			-2.71510052680969,
+			4.30451107025146,
+			33.1849708557129
+		],
+		[
+			-2.13626861572266,
+			4.35253095626831,
+			32.2624588012695
+		],
+		[
+			-1.57421946525574,
+			4.39955520629883,
+			31.33984375
+		],
+		[
+			-1.02967381477356,
+			4.44603204727173,
+			30.4174461364746
+		],
+		[
+			-0.503357410430908,
+			4.49198579788208,
+			29.4955940246582
+		],
+		[
+			0.00400805473327637,
+			4.53739929199219,
+			28.5746002197266
+		],
+		[
+			0.49169921875,
+			4.58092069625854,
+			27.65478515625
+		],
+		[
+			0.958992004394531,
+			4.62404441833496,
+			26.7364730834961
+		],
+		[
+			1.40516352653503,
+			4.66673135757446,
+			25.8199844360352
+		],
+		[
+			1.82949066162109,
+			4.70817756652832,
+			24.9056358337402
+		],
+		[
+			2.23124980926514,
+			4.74842309951782,
+			23.9937496185303
+		],
+		[
+			2.96417236328125,
+			4.82460451126099,
+			22.1786499023438
+		],
+		[
+			3.59814453125,
+			4.92275619506836,
+			20.3772468566895
+		],
+		[
+			4.12738037109375,
+			5.03334093093872,
+			18.5921020507813
+		],
+		[
+			4.54609394073486,
+			5.1120400428772,
+			16.8257827758789
+		],
+		[
+			4.84849834442139,
+			5.14644479751587,
+			15.080846786499
+		],
+		[
+			5.02880859375,
+			5.16063022613525,
+			13.35986328125
+		],
+		[
+			5.08123779296875,
+			5.16370344161987,
+			11.6653928756714
+		],
+		[
+			5.0,
+			5.16612720489502,
+			10.0
+		],
+		[
+			4.72786855697632,
+			5.17310857772827,
+			8.33914756774902
+		],
+		[
+			4.22216796875,
+			5.19523096084595,
+			6.65771484375
+		],
+		[
+			3.4989378452301,
+			5.22736692428589,
+			4.95738506317139
+		],
+		[
+			2.57421875,
+			5.24151611328125,
+			3.23984336853027
+		],
+		[
+			2.04131317138672,
+			5.23775005340576,
+			2.37514472007751
+		],
+		[
+			1.46405029296875,
+			5.23226881027222,
+			1.50677466392517
+		],
+		[
+			0.844434976577759,
+			5.2252049446106,
+			0.634943962097168
+		],
+		[
+			0.184473037719727,
+			5.21672534942627,
+			-0.240136861801147
+		],
+		[
+			-0.513832092285156,
+			5.20620250701904,
+			-1.11825728416443
+		],
+		[
+			-1.24847412109375,
+			5.19428968429565,
+			-1.99920654296875
+		],
+		[
+			-2.01744842529297,
+			5.18128681182861,
+			-2.8827748298645
+		],
+		[
+			-2.81874966621399,
+			5.16686010360718,
+			-3.76875019073486
+		],
+		[
+			-3.6503734588623,
+			5.15140438079834,
+			-4.65692329406738
+		],
+		[
+			-4.51031446456909,
+			5.13473987579346,
+			-5.54708290100098
+		],
+		[
+			-5.39656829833984,
+			5.11690521240234,
+			-6.43901872634888
+		],
+		[
+			-6.30712890625,
+			5.09815216064453,
+			-7.33251953125
+		],
+		[
+			-7.23999214172363,
+			5.07843255996704,
+			-8.22737598419189
+		],
+		[
+			-8.19315147399902,
+			5.05803728103638,
+			-9.12337684631348
+		],
+		[
+			-9.16460418701172,
+			5.03676795959473,
+			-10.0203113555908
+		],
+		[
+			-10.15234375,
+			5.01500797271729,
+			-10.91796875
+		],
+		[
+			-11.1543655395508,
+			4.99253416061401,
+			-11.8161392211914
+		],
+		[
+			-12.168664932251,
+			4.96966457366943,
+			-12.7146120071411
+		],
+		[
+			-13.1932353973389,
+			4.94629621505737,
+			-13.6131763458252
+		],
+		[
+			-14.22607421875,
+			4.92263078689575,
+			-14.5116214752197
+		],
+		[
+			-15.2651748657227,
+			4.89867067337036,
+			-15.4097366333008
+		],
+		[
+			-16.3085327148438,
+			4.87453317642212,
+			-16.3073120117188
+		],
+		[
+			-17.3541412353516,
+			4.85028409957886,
+			-17.2041358947754
+		],
+		[
+			-18.3999996185303,
+			4.82600212097168,
+			-18.1000003814697
+		],
+		[
+			-19.4440994262695,
+			4.8017635345459,
+			-18.9946918487549
+		],
+		[
+			-20.4844360351563,
+			4.77765893936157,
+			-19.8880004882813
+		],
+		[
+			-21.5190048217773,
+			4.75373458862305,
+			-20.7797164916992
+		],
+		[
+			-22.5457992553711,
+			4.73012590408325,
+			-21.6696281433105
+		],
+		[
+			-23.5628185272217,
+			4.70681953430176,
+			-22.5575275421143
+		],
+		[
+			-24.5680541992188,
+			4.68403339385986,
+			-23.4432010650635
+		],
+		[
+			-25.5595016479492,
+			4.6617226600647,
+			-24.3264389038086
+		],
+		[
+			-26.5351543426514,
+			4.63996410369873,
+			-25.20703125
+		],
+		[
+			-27.4930114746094,
+			4.61898612976074,
+			-26.0847663879395
+		],
+		[
+			-28.4310665130615,
+			4.59867000579834,
+			-26.959436416626
+		],
+		[
+			-29.3473129272461,
+			4.5792875289917,
+			-27.8308277130127
+		],
+		[
+			-30.23974609375,
+			4.56067752838135,
+			-28.69873046875
+		],
+		[
+			-31.1063613891602,
+			4.54314947128296,
+			-29.5629348754883
+		],
+		[
+			-31.9451522827148,
+			4.52648162841797,
+			-30.4232292175293
+		],
+		[
+			-32.7541198730469,
+			4.51092147827148,
+			-31.2794055938721
+		],
+		[
+			-33.53125,
+			4.49707984924316,
+			-32.1312484741211
+		],
+		[
+			-34.274543762207,
+			4.48430967330933,
+			-32.9785537719727
+		],
+		[
+			-34.9819946289063,
+			4.47293376922607,
+			-33.8211059570313
+		],
+		[
+			-35.6515960693359,
+			4.4626932144165,
+			-34.6586952209473
+		],
+		[
+			-36.2813491821289,
+			4.45428228378296,
+			-35.4911117553711
+		],
+		[
+			-37.4132690429688,
+			4.44288444519043,
+			-37.1395874023438
+		],
+		[
+			-38.3617172241211,
+			4.43843126296997,
+			-38.7648429870605
+		],
+		[
+			-39.1106567382813,
+			4.44068574905396,
+			-40.3651962280273
+		],
+		[
+			-39.64404296875,
+			4.45095205307007,
+			-41.93896484375
+		],
+		[
+			-39.9458389282227,
+			4.47320318222046,
+			-43.4844589233398
+		],
+		[
+			-40.0,
+			4.50308179855347,
+			-45.0
+		],
+		[
+			-39.8361320495605,
+			4.54159641265869,
+			-46.5027465820313
+		],
+		[
+			-39.5,
+			4.58807802200317,
+			-48.01025390625
+		],
+		[
+			-38.9998016357422,
+			4.64420413970947,
+			-49.5214233398438
+		],
+		[
+			-38.34375,
+			4.7062520980835,
+			-51.03515625
+		],
+		[
+			-37.5400390625,
+			4.77688884735107,
+			-52.5503540039063
+		],
+		[
+			-36.5968742370605,
+			4.8530445098877,
+			-54.06591796875
+		],
+		[
+			-35.5224609375,
+			4.93461799621582,
+			-55.5807495117188
+		],
+		[
+			-34.3249969482422,
+			5.02281045913696,
+			-57.09375
+		],
+		[
+			-33.682689666748,
+			5.06915378570557,
+			-57.8492202758789
+		],
+		[
+			-33.0126953125,
+			5.11655616760254,
+			-58.6038208007813
+		],
+		[
+			-32.3160400390625,
+			5.16456651687622,
+			-59.3574142456055
+		],
+		[
+			-31.59375,
+			5.2140531539917,
+			-60.10986328125
+		],
+		[
+			-30.846851348877,
+			5.26439666748047,
+			-60.8610305786133
+		],
+		[
+			-30.0763683319092,
+			5.31548118591309,
+			-61.6107788085938
+		],
+		[
+			-29.2833251953125,
+			5.36811447143555,
+			-62.3589706420898
+		],
+		[
+			-28.46875,
+			5.42106485366821,
+			-63.10546875
+		],
+		[
+			-27.6336669921875,
+			5.47512817382813,
+			-63.8501358032227
+		],
+		[
+			-26.7791023254395,
+			5.52960538864136,
+			-64.5928344726563
+		],
+		[
+			-25.9060802459717,
+			5.58455610275269,
+			-65.3334274291992
+		],
+		[
+			-25.015625,
+			5.64060020446777,
+			-66.07177734375
+		],
+		[
+			-24.1087646484375,
+			5.69658708572388,
+			-66.807746887207
+		],
+		[
+			-23.1865234375,
+			5.75348901748657,
+			-67.5411987304688
+		],
+		[
+			-22.249927520752,
+			5.8105845451355,
+			-68.2719955444336
+		],
+		[
+			-21.3000011444092,
+			5.867844581604,
+			-69.0
+		],
+		[
+			-20.3377685546875,
+			5.92559385299683,
+			-69.7250747680664
+		],
+		[
+			-19.3642578125,
+			5.98342704772949,
+			-70.4470825195313
+		],
+		[
+			-18.3804931640625,
+			6.04139041900635,
+			-71.165885925293
+		],
+		[
+			-17.3875007629395,
+			6.09961986541748,
+			-71.88134765625
+		],
+		[
+			-16.3863048553467,
+			6.15760374069214,
+			-72.5933303833008
+		],
+		[
+			-15.3779296875,
+			6.21560621261597,
+			-73.3016967773438
+		],
+		[
+			-14.3634033203125,
+			6.27369594573975,
+			-74.0063095092773
+		],
+		[
+			-13.3437509536743,
+			6.3311619758606,
+			-74.70703125
+		],
+		[
+			-12.319995880127,
+			6.38870239257813,
+			-75.4037246704102
+		],
+		[
+			-11.2931652069092,
+			6.44598293304443,
+			-76.0962524414063
+		],
+		[
+			-10.2642831802368,
+			6.5027232170105,
+			-76.7844772338867
+		],
+		[
+			-9.234375,
+			6.55908489227295,
+			-77.46826171875
+		],
+		[
+			-8.2044677734375,
+			6.6151270866394,
+			-78.1474685668945
+		],
+		[
+			-7.17558670043945,
+			6.67018270492554,
+			-78.8219604492188
+		],
+		[
+			-6.14875507354736,
+			6.72505283355713,
+			-79.4916000366211
+		],
+		[
+			-5.125,
+			6.77905893325806,
+			-80.15625
+		],
+		[
+			-4.1053466796875,
+			6.83237981796265,
+			-80.8157730102539
+		],
+		[
+			-3.09082078933716,
+			6.8847393989563,
+			-81.4700317382813
+		],
+		[
+			-2.08244705200195,
+			6.93659830093384,
+			-82.1188888549805
+		],
+		[
+			-1.08125019073486,
+			6.98692846298218,
+			-82.76220703125
+		],
+		[
+			-0.0882568359375,
+			7.03683567047119,
+			-83.3998489379883
+		],
+		[
+			0.8955078125,
+			7.08538961410522,
+			-84.0316772460938
+		],
+		[
+			1.8690185546875,
+			7.13296794891357,
+			-84.6575546264648
+		],
+		[
+			2.83124995231628,
+			7.17901039123535,
+			-85.27734375
+		],
+		[
+			3.78117656707764,
+			7.22434425354004,
+			-85.8909072875977
+		],
+		[
+			4.7177734375,
+			7.29440212249756,
+			-86.4981079101563
+		],
+		[
+			5.6400146484375,
+			7.37102556228638,
+			-87.0988082885742
+		],
+		[
+			6.546875,
+			7.45155763626099,
+			-87.69287109375
+		],
+		[
+			7.43732929229736,
+			7.52769184112549,
+			-88.280158996582
+		],
+		[
+			8.31035137176514,
+			7.58043193817139,
+			-88.8605346679688
+		],
+		[
+			9.1649169921875,
+			7.60526657104492,
+			-89.4338607788086
+		],
+		[
+			10.0,
+			7.6295337677002,
+			-90.0
+		],
+		[
+			10.8307952880859,
+			7.62999296188354,
+			-90.5575714111328
+		],
+		[
+			11.6729249954224,
+			7.63045835494995,
+			-91.1055145263672
+		],
+		[
+			12.5260047912598,
+			7.63063907623291,
+			-91.644157409668
+		],
+		[
+			13.3896484375,
+			7.6306676864624,
+			-92.173828125
+		],
+		[
+			14.2634735107422,
+			7.63070964813232,
+			-92.6948547363281
+		],
+		[
+			15.1470937728882,
+			7.63064908981323,
+			-93.2075653076172
+		],
+		[
+			16.0401268005371,
+			7.63066148757935,
+			-93.7122955322266
+		],
+		[
+			16.9421882629395,
+			7.63620233535767,
+			-94.2093734741211
+		],
+		[
+			17.8528900146484,
+			7.64849042892456,
+			-94.6991271972656
+		],
+		[
+			18.7718505859375,
+			7.67847681045532,
+			-95.181884765625
+		],
+		[
+			19.6986846923828,
+			7.71128702163696,
+			-95.6579742431641
+		],
+		[
+			20.6330070495605,
+			7.75807762145996,
+			-96.1277313232422
+		],
+		[
+			21.5744361877441,
+			7.81476354598999,
+			-96.5914840698242
+		],
+		[
+			22.5225830078125,
+			7.86095666885376,
+			-97.049560546875
+		],
+		[
+			23.4770660400391,
+			7.89848279953003,
+			-97.5022888183594
+		],
+		[
+			24.4375,
+			7.93644380569458,
+			-97.9499969482422
+		],
+		[
+			25.4035015106201,
+			7.9585018157959,
+			-98.3930206298828
+		],
+		[
+			26.374683380127,
+			7.9799542427063,
+			-98.8316879272461
+		],
+		[
+			27.3506622314453,
+			8.00090885162354,
+			-99.2663269042969
+		],
+		[
+			28.3310546875,
+			8.02179718017578,
+			-99.697265625
+		],
+		[
+			29.3154773712158,
+			8.04204177856445,
+			-100.12483215332
+		],
+		[
+			30.3035411834717,
+			8.06197071075439,
+			-100.549362182617
+		],
+		[
+			31.294864654541,
+			8.08157062530518,
+			-100.971183776855
+		],
+		[
+			32.2890625,
+			8.10108470916748,
+			-101.390625
+		],
+		[
+			33.2857513427734,
+			8.1201868057251,
+			-101.808013916016
+		],
+		[
+			34.2845458984375,
+			8.13914012908936,
+			-102.223678588867
+		],
+		[
+			35.2850646972656,
+			8.15785217285156,
+			-102.637954711914
+		],
+		[
+			36.2869148254395,
+			8.1764965057373,
+			-103.051170349121
+		],
+		[
+			37.2897186279297,
+			8.19494438171387,
+			-103.463653564453
+		],
+		[
+			38.2930908203125,
+			8.21338081359863,
+			-103.875732421875
+		],
+		[
+			39.2966461181641,
+			8.23169898986816,
+			-104.287734985352
+		],
+		[
+			40.3000030517578,
+			8.25001239776611,
+			-104.699996948242
+		],
+		[
+			41.3027687072754,
+			8.26831340789795,
+			-105.112846374512
+		],
+		[
+			42.3045654296875,
+			8.28662872314453,
+			-105.526611328125
+		],
+		[
+			43.3050079345703,
+			8.30501842498779,
+			-105.941619873047
+		],
+		[
+			44.3037109375,
+			8.32354164123535,
+			-106.358200073242
+		],
+		[
+			45.30029296875,
+			8.3421688079834,
+			-106.77668762207
+		],
+		[
+			46.294361114502,
+			8.36088275909424,
+			-107.197410583496
+		],
+		[
+			47.2855377197266,
+			8.37985420227051,
+			-107.620697021484
+		],
+		[
+			48.2734375,
+			8.3989086151123,
+			-108.046875
+		],
+		[
+			49.2576751708984,
+			8.41841125488281,
+			-108.476272583008
+		],
+		[
+			50.2378692626953,
+			8.43803405761719,
+			-108.909225463867
+		],
+		[
+			51.2136268615723,
+			8.45811176300049,
+			-109.346061706543
+		],
+		[
+			52.1845703125,
+			8.47815322875977,
+			-109.787109375
+		],
+		[
+			53.1503143310547,
+			8.49895572662354,
+			-110.232696533203
+		],
+		[
+			54.1104736328125,
+			8.51996898651123,
+			-110.683151245117
+		],
+		[
+			55.0646667480469,
+			8.54175186157227,
+			-111.138809204102
+		],
+		[
+			56.0125007629395,
+			8.56326580047607,
+			-111.599998474121
+		],
+		[
+			56.9535980224609,
+			8.58905506134033,
+			-112.067047119141
+		],
+		[
+			57.8875732421875,
+			8.62790393829346,
+			-112.540283203125
+		],
+		[
+			58.8140411376953,
+			8.68434429168701,
+			-113.020034790039
+		],
+		[
+			59.7326202392578,
+			8.74071979522705,
+			-113.506637573242
+		],
+		[
+			60.6429176330566,
+			8.79069232940674,
+			-114.000419616699
+		],
+		[
+			61.5445556640625,
+			8.82578277587891,
+			-114.501708984375
+		],
+		[
+			62.4371490478516,
+			8.85037136077881,
+			-115.010833740234
+		],
+		[
+			63.3203125,
+			8.86424446105957,
+			-115.528121948242
+		],
+		[
+			64.1936645507813,
+			8.87679481506348,
+			-116.053909301758
+		],
+		[
+			65.0568084716797,
+			8.8767261505127,
+			-116.588523864746
+		],
+		[
+			65.9093780517578,
+			8.8766622543335,
+			-117.132293701172
+		],
+		[
+			66.7509765625,
+			8.87675857543945,
+			-117.685546875
+		],
+		[
+			67.5812225341797,
+			8.87682437896729,
+			-118.248611450195
+		],
+		[
+			68.3997344970703,
+			8.87703227996826,
+			-118.821823120117
+		],
+		[
+			70.0,
+			8.8778657913208,
+			-120.0
+		],
+		[
+			70.7905120849609,
+			8.90011978149414,
+			-120.611869812012
+		],
+		[
+			71.5867614746094,
+			8.92255020141602,
+			-121.24690246582
+		],
+		[
+			72.3883361816406,
+			8.96336460113525,
+			-121.904235839844
+		],
+		[
+			73.19482421875,
+			9.03830242156982,
+			-122.5830078125
+		],
+		[
+			74.0058288574219,
+			9.11639976501465,
+			-123.282363891602
+		],
+		[
+			74.820915222168,
+			9.18716716766357,
+			-124.001441955566
+		],
+		[
+			75.6396789550781,
+			9.25951480865479,
+			-124.739379882813
+		],
+		[
+			76.4617233276367,
+			9.31628513336182,
+			-125.495315551758
+		],
+		[
+			77.28662109375,
+			9.36132907867432,
+			-126.26838684082
+		],
+		[
+			78.1139526367188,
+			9.40774536132813,
+			-127.057739257813
+		],
+		[
+			78.9433288574219,
+			9.45489692687988,
+			-127.862510681152
+		],
+		[
+			79.7743225097656,
+			9.50332355499268,
+			-128.681838989258
+		],
+		[
+			80.6065216064453,
+			9.55245399475098,
+			-129.514862060547
+		],
+		[
+			81.4395141601563,
+			9.60248851776123,
+			-130.360717773438
+		],
+		[
+			82.2728881835938,
+			9.65354347229004,
+			-131.218566894531
+		],
+		[
+			83.1062545776367,
+			9.70505142211914,
+			-132.087493896484
+		],
+		[
+			83.9391632080078,
+			9.75757598876953,
+			-132.966705322266
+		],
+		[
+			84.7712326049805,
+			9.81045627593994,
+			-133.85530090332
+		],
+		[
+			85.6020202636719,
+			9.86417579650879,
+			-134.75244140625
+		],
+		[
+			86.4311599731445,
+			9.91820049285889,
+			-135.6572265625
+		],
+		[
+			87.2581939697266,
+			9.97287845611572,
+			-136.56884765625
+		],
+		[
+			88.0827331542969,
+			10.027979850769,
+			-137.486404418945
+		],
+		[
+			88.9043579101563,
+			10.0834112167358,
+			-138.409057617188
+		],
+		[
+			89.72265625,
+			10.1392049789429,
+			-139.3359375
+		],
+		[
+			90.5372314453125,
+			10.195161819458,
+			-140.266174316406
+		],
+		[
+			91.3476409912109,
+			10.2514572143555,
+			-141.198944091797
+		],
+		[
+			92.1535034179688,
+			10.3077402114868,
+			-142.133361816406
+		],
+		[
+			92.9543991088867,
+			10.3643035888672,
+			-143.068557739258
+		],
+		[
+			93.7499084472656,
+			10.4207048416138,
+			-144.003662109375
+		],
+		[
+			94.5396194458008,
+			10.4773254394531,
+			-144.937866210938
+		],
+		[
+			95.3231201171875,
+			10.5336961746216,
+			-145.870269775391
+		],
+		[
+			96.1000061035156,
+			10.5900869369507,
+			-146.800003051758
+		],
+		[
+			96.8698577880859,
+			10.6461887359619,
+			-147.726226806641
+		],
+		[
+			97.6322631835938,
+			10.7021541595459,
+			-148.648071289063
+		],
+		[
+			98.3868255615234,
+			10.7577695846558,
+			-149.564697265625
+		],
+		[
+			99.1331100463867,
+			10.8130483627319,
+			-150.475189208984
+		],
+		[
+			99.8707122802734,
+			10.8679647445679,
+			-151.378753662109
+		],
+		[
+			100.599235534668,
+			10.9223890304565,
+			-152.274490356445
+		],
+		[
+			101.318237304688,
+			10.9763593673706,
+			-153.161544799805
+		],
+		[
+			102.02734375,
+			11.0296936035156,
+			-154.0390625
+		],
+		[
+			102.726119995117,
+			11.0825023651123,
+			-154.906188964844
+		],
+		[
+			103.414154052734,
+			11.1345739364624,
+			-155.76203918457
+		],
+		[
+			104.091033935547,
+			11.1859540939331,
+			-156.605773925781
+		],
+		[
+			104.75634765625,
+			11.2365369796753,
+			-157.4365234375
+		],
+		[
+			105.409698486328,
+			11.2862777709961,
+			-158.253433227539
+		],
+		[
+			106.050651550293,
+			11.3351631164551,
+			-159.055633544922
+		],
+		[
+			107.293754577637,
+			11.4299926757813,
+			-160.612503051758
+		],
+		[
+			108.482360839844,
+			11.520622253418,
+			-162.100219726563
+		],
+		[
+			109.613189697266,
+			11.6065425872803,
+			-163.511917114258
+		],
+		[
+			110.682922363281,
+			11.6873683929443,
+			-164.840698242188
+		],
+		[
+			111.688278198242,
+			11.7627973556519,
+			-166.079681396484
+		],
+		[
+			112.625961303711,
+			11.8319864273071,
+			-167.22200012207
+		],
+		[
+			113.49267578125,
+			11.8949604034424,
+			-168.2607421875
+		],
+		[
+			114.285118103027,
+			11.9464254379272,
+			-169.189041137695
+		],
+		[
+			115.0,
+			11.9850769042969,
+			-170.0
+		]
+	],
+	"route_length_m": 461.670626282692,
+	"schema_version": 1,
+	"sites": [
+		{
+			"entry": [
+				-106.0,
+				1.0,
+				153.5
+			],
+			"id": "house.safe",
+			"kind": "house",
+			"label": "安全小屋",
+			"position": [
+				-106.0,
+				1.0,
+				150.0
+			]
+		},
+		{
+			"entry": [
+				-36.0,
+				2.4885938167572,
+				67.5
+			],
+			"id": "house.storage",
+			"kind": "house",
+			"label": "储物屋",
+			"position": [
+				-36.0,
+				2.4885938167572,
+				64.0
+			]
+		},
+		{
+			"entry": [
+				64.0,
+				8.87682437896729,
+				-118.5
+			],
+			"id": "house.forest",
+			"kind": "house",
+			"label": "林间小屋",
+			"position": [
+				64.0,
+				8.87682437896729,
+				-122.0
+			]
+		},
+		{
+			"entry": [
+				8.0,
+				5.16387844085693,
+				13.0
+			],
+			"id": "camp.west",
+			"kind": "camp",
+			"label": "溪弯营地",
+			"position": [
+				11.0,
+				5.16387844085693,
+				12.0
+			]
+		},
+		{
+			"entry": [
+				13.0,
+				7.63063907623291,
+				-87.0
+			],
+			"id": "camp.east",
+			"kind": "camp",
+			"label": "北坡营地",
+			"position": [
+				16.0,
+				7.63063907623291,
+				-88.0
+			]
+		}
+	],
+	"snowball_clearing": [
+		-98,
+		155,
+		20,
+		16
+	],
+	"trees": [
+		{
+			"id": "tree.10.03.000",
+			"position": [
+				115.911865234375,
+				10.9653622576079,
+				-145.277725219727
+			],
+			"region": [
+				10,
+				3
+			],
+			"scale": 1.31346476078033,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.001",
+			"position": [
+				-56.7961578369141,
+				3.88370877174566,
+				112.045776367188
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.32931041717529,
+			"variant": 29
+		},
+		{
+			"id": "tree.10.04.002",
+			"position": [
+				96.9828643798828,
+				11.7944157718448,
+				-108.590110778809
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 0.860936999320984,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.003",
+			"position": [
+				-50.3070678710938,
+				5.75998777558198,
+				-2.22431945800781
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.01033818721771,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.03.004",
+			"position": [
+				65.5909423828125,
+				9.18679960019654,
+				-135.055419921875
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.33367264270782,
+			"variant": 29
+		},
+		{
+			"id": "tree.07.08.005",
+			"position": [
+				12.1080474853516,
+				5.14358423069643,
+				30.3389282226563
+			],
+			"region": [
+				7,
+				8
+			],
+			"scale": 1.28198552131653,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.006",
+			"position": [
+				-18.5138320922852,
+				4.35734096190208,
+				-31.8431549072266
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.29113936424255,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.05.007",
+			"position": [
+				-15.2578659057617,
+				6.67149988285382,
+				-83.926399230957
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 0.91506439447403,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.008",
+			"position": [
+				87.4839019775391,
+				12.6865654434077,
+				-96.7131271362305
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.0568984746933,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.009",
+			"position": [
+				-30.4850311279297,
+				3.61687534956764,
+				-0.384170532226563
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.07453191280365,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.08.010",
+			"position": [
+				-30.6154022216797,
+				3.94871117273033,
+				1.84599304199219
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.31047439575195,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.011",
+			"position": [
+				70.1269836425781,
+				11.7292053739366,
+				-87.7806930541992
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.14739084243774,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.012",
+			"position": [
+				-58.4620666503906,
+				6.49328983626037,
+				-10.0849609375
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.07599830627441,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.013",
+			"position": [
+				-76.6307678222656,
+				1.03820539786466,
+				110.734771728516
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.19448208808899,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.014",
+			"position": [
+				-60.32373046875,
+				2.44525223111123,
+				105.211486816406
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.955874443054199,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.015",
+			"position": [
+				-52.0117874145508,
+				3.22334444701119,
+				101.770538330078
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.924545228481293,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.016",
+			"position": [
+				-73.9813995361328,
+				2.22027151826842,
+				125.704254150391
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.21586561203003,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.017",
+			"position": [
+				-52.1897430419922,
+				4.85665929270544,
+				-30.0571594238281
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.972248911857605,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.018",
+			"position": [
+				-68.0315780639648,
+				3.02568913579671,
+				125.545959472656
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.87081903219223,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.019",
+			"position": [
+				-46.0455551147461,
+				3.92750058977981,
+				-20.7270050048828
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.95558774471283,
+			"variant": 29
+		},
+		{
+			"id": "tree.11.03.020",
+			"position": [
+				129.517700195313,
+				13.2815133557306,
+				-158.709533691406
+			],
+			"region": [
+				11,
+				3
+			],
+			"scale": 0.907778978347778,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.021",
+			"position": [
+				-21.3798599243164,
+				4.52579850731127,
+				-30.2074584960938
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.945348799228668,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.05.022",
+			"position": [
+				83.0845184326172,
+				13.8747608463746,
+				-85.2175979614258
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.17307817935944,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.023",
+			"position": [
+				-69.9675674438477,
+				0.816438743676372,
+				74.4872131347656
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.22681045532227,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.03.024",
+			"position": [
+				65.9169311523438,
+				9.1982072024548,
+				-135.205535888672
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.28994762897491,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.025",
+			"position": [
+				35.7995300292969,
+				8.44194491232338,
+				-125.800933837891
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.30109810829163,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.026",
+			"position": [
+				-54.5477905273438,
+				4.69047021726146,
+				115.871704101563
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.18377387523651,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.08.027",
+			"position": [
+				-19.2834854125977,
+				4.5914546579952,
+				23.1048126220703
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.04405570030212,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.028",
+			"position": [
+				-65.1006240844727,
+				2.92868121946231,
+				114.657836914063
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.929326355457306,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.04.029",
+			"position": [
+				61.8072204589844,
+				8.60340396004904,
+				-106.18236541748
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.20820987224579,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.030",
+			"position": [
+				85.0861206054688,
+				14.2684044730267,
+				-83.9360275268555
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.20739662647247,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.03.031",
+			"position": [
+				45.0765533447266,
+				10.7800193603034,
+				-138.208938598633
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.06837010383606,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.032",
+			"position": [
+				-51.6371078491211,
+				5.00786871193486,
+				-12.4632110595703
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.17822587490082,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.03.033",
+			"position": [
+				40.1237182617188,
+				10.5814321486687,
+				-136.040222167969
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.24006223678589,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.03.034",
+			"position": [
+				44.8468170166016,
+				9.99129600852029,
+				-134.637573242188
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.0507607460022,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.035",
+			"position": [
+				92.2047729492188,
+				9.71567248681822,
+				-128.300979614258
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.2695484161377,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.036",
+			"position": [
+				51.9085540771484,
+				8.04558395090862,
+				-96.4050979614258
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.33696365356445,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.10.037",
+			"position": [
+				-6.21934509277344,
+				3.09528174805018,
+				64.0190582275391
+			],
+			"region": [
+				6,
+				10
+			],
+			"scale": 1.23288440704346,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.038",
+			"position": [
+				-55.5845947265625,
+				3.56526859561927,
+				108.321075439453
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.07304048538208,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.039",
+			"position": [
+				-40.9322967529297,
+				3.40881116277342,
+				-13.0060119628906
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.922088325023651,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.03.040",
+			"position": [
+				50.7613372802734,
+				11.5047929990687,
+				-143.322967529297
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.13607895374298,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.041",
+			"position": [
+				-64.0134658813477,
+				1.83989711645336,
+				104.592712402344
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.12449288368225,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.042",
+			"position": [
+				-78.8529663085938,
+				0.165583546035123,
+				76.5050354003906
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.886784255504608,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.043",
+			"position": [
+				-53.2698059082031,
+				5.15398495351837,
+				-48.9492492675781
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 0.884567439556122,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.044",
+			"position": [
+				-0.08355712890625,
+				4.79041670587321,
+				-15.2246856689453
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.32132434844971,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.045",
+			"position": [
+				-76.3602752685547,
+				0.329990861648525,
+				74.98388671875
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.17602920532227,
+			"variant": 13
+		},
+		{
+			"id": "tree.10.03.046",
+			"position": [
+				96.3850708007813,
+				9.70082810940221,
+				-128.907592773438
+			],
+			"region": [
+				10,
+				3
+			],
+			"scale": 0.930048525333405,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.06.047",
+			"position": [
+				-17.2859039306641,
+				4.44056531784736,
+				-35.0669250488281
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 0.973191320896149,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.048",
+			"position": [
+				-71.245002746582,
+				1.33973733852145,
+				108.400482177734
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.26880669593811,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.049",
+			"position": [
+				-54.0109481811523,
+				4.76522134225525,
+				115.863800048828
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.27099573612213,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.050",
+			"position": [
+				-49.3388137817383,
+				5.73718876398925,
+				-1.19631958007813
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.34713864326477,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.051",
+			"position": [
+				-52.9271926879883,
+				2.09949163775309,
+				93.3088073730469
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.34448182582855,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.03.052",
+			"position": [
+				36.3301239013672,
+				9.84453535365174,
+				-132.07080078125
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.919341623783112,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.053",
+			"position": [
+				-25.7460098266602,
+				3.27341446336141,
+				-1.69119262695313
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.858709871768951,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.12.054",
+			"position": [
+				-87.7827453613281,
+				1.34874598337228,
+				138.525054931641
+			],
+			"region": [
+				4,
+				12
+			],
+			"scale": 0.986279129981995,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.055",
+			"position": [
+				-69.0531997680664,
+				2.51203952458309,
+				118.05517578125
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.22926867008209,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.056",
+			"position": [
+				74.0754241943359,
+				11.3068392580753,
+				-94.4779357910156
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.15940523147583,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.057",
+			"position": [
+				-80.4327697753906,
+				1.46881026662413,
+				123.445526123047
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.980402708053589,
+			"variant": 13
+		},
+		{
+			"id": "tree.07.09.058",
+			"position": [
+				6.41696166992188,
+				4.54191278863436,
+				34.6537475585938
+			],
+			"region": [
+				7,
+				9
+			],
+			"scale": 1.11987173557281,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.059",
+			"position": [
+				-78.1020965576172,
+				0.796182298753592,
+				81.665283203125
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.10152506828308,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.060",
+			"position": [
+				88.3579711914063,
+				12.2139155930854,
+				-100.261489868164
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.98118132352829,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.061",
+			"position": [
+				-45.6626739501953,
+				3.41410408224328,
+				96.0955505371094
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.864955186843872,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.062",
+			"position": [
+				-49.9723815917969,
+				4.50786382708975,
+				-26.2692718505859
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.874650835990906,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.05.063",
+			"position": [
+				26.5290832519531,
+				6.95639118019608,
+				-80.9687652587891
+			],
+			"region": [
+				7,
+				5
+			],
+			"scale": 0.854317963123322,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.064",
+			"position": [
+				80.8401336669922,
+				10.538613730896,
+				-105.471366882324
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.3012307882309,
+			"variant": 29
+		},
+		{
+			"id": "tree.07.06.065",
+			"position": [
+				2.89537048339844,
+				7.68583929556553,
+				-62.5960845947266
+			],
+			"region": [
+				7,
+				6
+			],
+			"scale": 1.12310171127319,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.066",
+			"position": [
+				-43.575065612793,
+				4.32589473405096,
+				-29.2916870117188
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.900492668151855,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.067",
+			"position": [
+				48.6280364990234,
+				8.52109477075282,
+				-127.902351379395
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 0.866707563400269,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.068",
+			"position": [
+				-49.4733047485352,
+				4.8298763764069,
+				-47.7374725341797
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.16469979286194,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.06.069",
+			"position": [
+				-10.1732635498047,
+				4.64866814454581,
+				-33.75439453125
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.15819787979126,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.070",
+			"position": [
+				90.7951965332031,
+				9.6579024228995,
+				-126.834365844727
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.852082073688507,
+			"variant": 29
+		},
+		{
+			"id": "tree.03.11.071",
+			"position": [
+				-99.0255584716797,
+				0.370902507794199,
+				99.3284301757813
+			],
+			"region": [
+				3,
+				11
+			],
+			"scale": 0.873992204666138,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.06.072",
+			"position": [
+				-46.2501525878906,
+				4.50276444313931,
+				-34.931884765625
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.02173101902008,
+			"variant": 13
+		},
+		{
+			"id": "tree.10.03.073",
+			"position": [
+				103.934753417969,
+				10.4838414257392,
+				-142.610656738281
+			],
+			"region": [
+				10,
+				3
+			],
+			"scale": 1.26748752593994,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.074",
+			"position": [
+				73.9080505371094,
+				10.1062614875409,
+				-147.722808837891
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.30821371078491,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.075",
+			"position": [
+				-54.1348876953125,
+				3.71124110995152,
+				107.804321289063
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.19612944126129,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.076",
+			"position": [
+				-53.5386734008789,
+				5.0847611880381,
+				-18.6431427001953
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.973014891147614,
+			"variant": 29
+		},
+		{
+			"id": "tree.07.07.077",
+			"position": [
+				10.6141357421875,
+				5.6716515533044,
+				-6.33177185058594
+			],
+			"region": [
+				7,
+				7
+			],
+			"scale": 1.04270696640015,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.078",
+			"position": [
+				-66.9902648925781,
+				1.32871617227283,
+				76.2784423828125
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.18483412265778,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.079",
+			"position": [
+				72.0194091796875,
+				10.297263607441,
+				-99.3358154296875
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.990173757076263,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.080",
+			"position": [
+				56.6074066162109,
+				10.5199588614705,
+				-140.711013793945
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.25719368457794,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.081",
+			"position": [
+				91.7361297607422,
+				11.690495341958,
+				-105.817314147949
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.31547451019287,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.10.082",
+			"position": [
+				-13.0614852905273,
+				2.97007131679493,
+				65.0666809082031
+			],
+			"region": [
+				6,
+				10
+			],
+			"scale": 0.94923210144043,
+			"variant": 29
+		},
+		{
+			"id": "tree.07.05.083",
+			"position": [
+				31.589599609375,
+				6.92373195796245,
+				-86.3385391235352
+			],
+			"region": [
+				7,
+				5
+			],
+			"scale": 1.18539428710938,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.05.084",
+			"position": [
+				-19.684196472168,
+				6.60124881018419,
+				-82.0613098144531
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 1.31326794624329,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.085",
+			"position": [
+				-9.12617492675781,
+				4.96889887608268,
+				-35.4349517822266
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.17361748218536,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.08.086",
+			"position": [
+				-17.2047958374023,
+				4.26488073714427,
+				28.0456390380859
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.09161221981049,
+			"variant": 51
+		},
+		{
+			"id": "tree.10.04.087",
+			"position": [
+				99.8401794433594,
+				12.5403282934421,
+				-105.724838256836
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.1324450969696,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.088",
+			"position": [
+				-54.3022079467773,
+				3.08732285376391,
+				103.322326660156
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.935422360897064,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.089",
+			"position": [
+				94.9249877929688,
+				13.7438189268505,
+				-94.9787139892578
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.19801843166351,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.03.090",
+			"position": [
+				62.7221069335938,
+				10.4572927369882,
+				-143.320877075195
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.970141768455505,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.05.091",
+			"position": [
+				41.7595367431641,
+				7.40798508307489,
+				-89.1177062988281
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.28918468952179,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.092",
+			"position": [
+				75.5998687744141,
+				9.55218775738467,
+				-139.675430297852
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.08156430721283,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.08.093",
+			"position": [
+				23.1250305175781,
+				7.43118182326725,
+				15.2251739501953
+			],
+			"region": [
+				7,
+				8
+			],
+			"scale": 0.901532649993896,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.03.094",
+			"position": [
+				76.5565948486328,
+				9.63438648203737,
+				-142.357543945313
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 0.863907217979431,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.095",
+			"position": [
+				88.9249114990234,
+				13.3250226124946,
+				-93.6452255249023
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 0.978574395179749,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.05.096",
+			"position": [
+				-24.3406524658203,
+				7.58180189512859,
+				-90.3723602294922
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 1.09909617900848,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.097",
+			"position": [
+				-95.7676086425781,
+				0.919042577304026,
+				100.182067871094
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.14560008049011,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.05.098",
+			"position": [
+				-16.0182189941406,
+				6.88364455353076,
+				-86.9849090576172
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 1.03585362434387,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.099",
+			"position": [
+				-31.6042251586914,
+				4.23003476631493,
+				-18.8750152587891
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.18339991569519,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.100",
+			"position": [
+				-53.3282852172852,
+				5.59362878149113,
+				122.45703125
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.08631336688995,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.101",
+			"position": [
+				49.7141876220703,
+				9.24448610487161,
+				-132.093719482422
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.19689202308655,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.102",
+			"position": [
+				95.42578125,
+				13.5056354475455,
+				-96.8770294189453
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.0393408536911,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.103",
+			"position": [
+				-46.6833419799805,
+				4.17021492373533,
+				-25.5884246826172
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.916926503181458,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.10.104",
+			"position": [
+				-24.7778854370117,
+				4.27576785335987,
+				85.3630065917969
+			],
+			"region": [
+				6,
+				10
+			],
+			"scale": 1.20029067993164,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.105",
+			"position": [
+				-51.3080139160156,
+				4.67224616971362,
+				112.021636962891
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.2558114528656,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.12.106",
+			"position": [
+				-90.5233154296875,
+				1.20209832550609,
+				147.734527587891
+			],
+			"region": [
+				4,
+				12
+			],
+			"scale": 1.3385294675827,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.107",
+			"position": [
+				-47.3807983398438,
+				4.167807015976,
+				-15.5337524414063
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.938003242015839,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.108",
+			"position": [
+				74.5802917480469,
+				9.14832063233189,
+				-110.924682617188
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.0684107542038,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.109",
+			"position": [
+				80.8221588134766,
+				9.52147308608983,
+				-112.826156616211
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.3158061504364,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.05.110",
+			"position": [
+				-25.2293243408203,
+				7.21914393261977,
+				-86.3276214599609
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 1.02379941940308,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.03.111",
+			"position": [
+				72.7380065917969,
+				9.3790545655138,
+				-136.56755065918
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.19441986083984,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.112",
+			"position": [
+				-58.8026657104492,
+				5.79702715956955,
+				-31.54345703125
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.924115657806396,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.04.113",
+			"position": [
+				55.4031066894531,
+				8.2770377824927,
+				-99.4697952270508
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.3172641992569,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.114",
+			"position": [
+				62.3430633544922,
+				8.61981569719501,
+				-105.706604003906
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.24672079086304,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.115",
+			"position": [
+				-32.0068435668945,
+				4.04144988457483,
+				-17.7949981689453
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.23956155776978,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.05.116",
+			"position": [
+				-17.2549133300781,
+				7.5081536204234,
+				-93.2453079223633
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 0.879734814167023,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.117",
+			"position": [
+				-51.5163040161133,
+				5.72695830999874,
+				-4.15472412109375
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.18895995616913,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.118",
+			"position": [
+				80.7117767333984,
+				10.9201510519488,
+				-102.759880065918
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.34299826622009,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.119",
+			"position": [
+				-63.8206405639648,
+				3.68176239243257,
+				124.775146484375
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.920062482357025,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.120",
+			"position": [
+				-66.2713012695313,
+				2.25213025124685,
+				110.351745605469
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.21826088428497,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.121",
+			"position": [
+				-7.70094299316406,
+				5.06919860010021,
+				-35.2643280029297
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.08834207057953,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.122",
+			"position": [
+				-58.6680603027344,
+				5.72945208543024,
+				-35.8302154541016
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 0.893552303314209,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.09.123",
+			"position": [
+				-49.3261184692383,
+				2.89796099218802,
+				56.6109466552734
+			],
+			"region": [
+				5,
+				9
+			],
+			"scale": 0.99878466129303,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.03.124",
+			"position": [
+				51.7623596191406,
+				8.86266143887042,
+				-130.329971313477
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.25656354427338,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.04.125",
+			"position": [
+				42.2715911865234,
+				7.90081989657483,
+				-115.308197021484
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.19454002380371,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.126",
+			"position": [
+				-86.6685180664063,
+				-0.0438795512043271,
+				83.59521484375
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.18803775310516,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.127",
+			"position": [
+				-37.4097518920898,
+				3.69541002377809,
+				-19.5814514160156
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.07799351215363,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.09.128",
+			"position": [
+				-32.7556228637695,
+				3.04077427027369,
+				50.5857696533203
+			],
+			"region": [
+				5,
+				9
+			],
+			"scale": 0.947261214256287,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.129",
+			"position": [
+				75.0709381103516,
+				13.1672300355422,
+				-82.6961898803711
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.15839982032776,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.10.130",
+			"position": [
+				-68.1847381591797,
+				1.50912388648339,
+				78.7603759765625
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.16710877418518,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.131",
+			"position": [
+				66.5417633056641,
+				11.168240869767,
+				-87.807243347168
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 0.986088335514069,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.05.132",
+			"position": [
+				-9.76789855957031,
+				7.0573273289956,
+				-93.6482238769531
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 1.20685088634491,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.05.133",
+			"position": [
+				58.8661041259766,
+				9.43640407231578,
+				-91.3676605224609
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.34499490261078,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.134",
+			"position": [
+				95.3873901367188,
+				9.66093908723269,
+				-127.434425354004
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.06698083877563,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.06.135",
+			"position": [
+				-55.9476852416992,
+				5.36091916033183,
+				-46.2255096435547
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.32098186016083,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.136",
+			"position": [
+				-47.8230972290039,
+				4.5991614313898,
+				-40.4150238037109
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.06673765182495,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.137",
+			"position": [
+				49.8380584716797,
+				9.72968779333314,
+				-134.606185913086
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.34967029094696,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.138",
+			"position": [
+				-80.0256195068359,
+				0.624102779865552,
+				82.2577819824219
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.876001238822937,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.139",
+			"position": [
+				-35.9177474975586,
+				3.99266807887034,
+				-0.643814086914063
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.853072702884674,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.06.140",
+			"position": [
+				-0.336929321289063,
+				7.70637366136725,
+				-59.8078536987305
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.30465614795685,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.06.141",
+			"position": [
+				-13.9330596923828,
+				6.665952254898,
+				-45.6622772216797
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.21630501747131,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.142",
+			"position": [
+				32.7728424072266,
+				8.67594909533364,
+				-126.33171081543
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 0.932671308517456,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.143",
+			"position": [
+				69.8577117919922,
+				9.41910478545469,
+				-103.266990661621
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.903818964958191,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.144",
+			"position": [
+				-44.6179885864258,
+				3.91473178437445,
+				-11.9435729980469
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.24636542797089,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.145",
+			"position": [
+				-77.5453796386719,
+				1.16893115885978,
+				114.264617919922
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.06846714019775,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.146",
+			"position": [
+				-92.0842208862305,
+				-0.231927150038246,
+				84.9176635742188
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.10488939285278,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.147",
+			"position": [
+				-14.9448089599609,
+				4.31817523623613,
+				-0.494781494140625
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.31939721107483,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.148",
+			"position": [
+				-22.3758316040039,
+				4.45358195131121,
+				-11.4911804199219
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.08995282649994,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.149",
+			"position": [
+				-70.3515548706055,
+				1.86377037955026,
+				112.416656494141
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.00638902187347,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.150",
+			"position": [
+				90.6732482910156,
+				13.6806375189044,
+				-92.5753707885742
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 0.968268752098084,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.151",
+			"position": [
+				-50.6743011474609,
+				4.57988293058952,
+				-20.0502319335938
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.858013689517975,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.152",
+			"position": [
+				-4.37983703613281,
+				4.34174069397341,
+				-22.0064697265625
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.990627646446228,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.153",
+			"position": [
+				-92.7574005126953,
+				0.197582123042707,
+				91.0667114257813
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.04291296005249,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.03.154",
+			"position": [
+				85.9297637939453,
+				10.2007363562298,
+				-151.863403320313
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.2452220916748,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.155",
+			"position": [
+				40.7923736572266,
+				9.23548478215525,
+				-130.330001831055
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.27542746067047,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.06.156",
+			"position": [
+				-61.2659683227539,
+				6.14177250885405,
+				-33.8372802734375
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.02398407459259,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.05.157",
+			"position": [
+				52.1215057373047,
+				8.5920541707892,
+				-90.007438659668
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.1908221244812,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.05.158",
+			"position": [
+				42.6640167236328,
+				7.78209576919835,
+				-95.6737213134766
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.15995156764984,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.09.159",
+			"position": [
+				-38.8703155517578,
+				3.51476506150539,
+				48.1696166992188
+			],
+			"region": [
+				5,
+				9
+			],
+			"scale": 1.21727657318115,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.160",
+			"position": [
+				-30.2028121948242,
+				3.51232045545476,
+				-13.171630859375
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.918102979660034,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.161",
+			"position": [
+				70.7667846679688,
+				9.60006810186314,
+				-141.007659912109
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.20670902729034,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.08.162",
+			"position": [
+				-17.1246490478516,
+				4.50489146385007,
+				7.52058410644531
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.08300399780273,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.163",
+			"position": [
+				-59.7513809204102,
+				6.63404484603961,
+				-11.7841339111328
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.3440226316452,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.04.164",
+			"position": [
+				43.3029937744141,
+				8.55676648675581,
+				-127.463401794434
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 0.909195005893707,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.165",
+			"position": [
+				32.7441253662109,
+				8.86987992272043,
+				-127.181198120117
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.03293550014496,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.166",
+			"position": [
+				-20.9041137695313,
+				4.43076530701364,
+				-32.3445281982422
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 0.999825060367584,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.167",
+			"position": [
+				-46.7726821899414,
+				4.01472042353271,
+				-20.0863189697266
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.00396335124969,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.168",
+			"position": [
+				-43.0478744506836,
+				4.34859488021539,
+				-29.5557403564453
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.18202030658722,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.09.169",
+			"position": [
+				-17.0139923095703,
+				3.85526836129247,
+				35.7987060546875
+			],
+			"region": [
+				6,
+				9
+			],
+			"scale": 1.1452419757843,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.05.170",
+			"position": [
+				49.1206207275391,
+				7.87954973055457,
+				-95.8200073242188
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 0.920849084854126,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.171",
+			"position": [
+				-85.3606567382813,
+				0.696914126861884,
+				86.9779968261719
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.27021646499634,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.03.172",
+			"position": [
+				78.0889892578125,
+				9.75628215340839,
+				-144.946151733398
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 0.873972475528717,
+			"variant": 29
+		},
+		{
+			"id": "tree.10.04.173",
+			"position": [
+				97.3813018798828,
+				11.0680418217235,
+				-113.650970458984
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.00422656536102,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.174",
+			"position": [
+				-66.5387191772461,
+				1.54594037664174,
+				95.8081665039063
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.913350880146027,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.175",
+			"position": [
+				-18.1067581176758,
+				4.47563916868967,
+				-28.7387237548828
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.29559886455536,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.176",
+			"position": [
+				-91.5327377319336,
+				-0.0634385817213001,
+				81.9583435058594
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.04314303398132,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.177",
+			"position": [
+				-63.6076278686523,
+				3.68882267415393,
+				123.557220458984
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.22626221179962,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.04.178",
+			"position": [
+				-5.31369018554688,
+				7.00316017021396,
+				-96.9245147705078
+			],
+			"region": [
+				6,
+				4
+			],
+			"scale": 0.882178485393524,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.06.179",
+			"position": [
+				-11.7696533203125,
+				5.71769810646947,
+				-41.8507385253906
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.08395934104919,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.180",
+			"position": [
+				51.3862152099609,
+				8.09725960763171,
+				-123.560455322266
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 0.888906598091125,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.181",
+			"position": [
+				-57.9740905761719,
+				5.70934642189968,
+				-27.24169921875
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.2031112909317,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.05.182",
+			"position": [
+				-16.7523040771484,
+				6.51154553415108,
+				-81.5432510375977
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 0.998802244663239,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.183",
+			"position": [
+				-77.7830657958984,
+				1.14887140618703,
+				114.187927246094
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.944423615932465,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.184",
+			"position": [
+				-36.0029525756836,
+				3.89942337229149,
+				-1.36744689941406
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.922608852386475,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.185",
+			"position": [
+				-52.4116973876953,
+				4.97190885722739,
+				115.724365234375
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.15361225605011,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.186",
+			"position": [
+				-37.6168746948242,
+				3.4149781659944,
+				-7.12297058105469
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.895568192005157,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.09.187",
+			"position": [
+				-15.344841003418,
+				3.86647819330392,
+				36.4209747314453
+			],
+			"region": [
+				6,
+				9
+			],
+			"scale": 1.12449038028717,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.188",
+			"position": [
+				-43.0975952148438,
+				4.03757300136567,
+				98.2519226074219
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.24585425853729,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.06.189",
+			"position": [
+				-50.2978363037109,
+				5.00014786983957,
+				-51.4261779785156
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 0.920676350593567,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.09.190",
+			"position": [
+				-19.724235534668,
+				3.47553216374945,
+				43.4888305664063
+			],
+			"region": [
+				6,
+				9
+			],
+			"scale": 1.10258042812347,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.191",
+			"position": [
+				85.8823852539063,
+				9.48956014844589,
+				-122.672492980957
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.21614730358124,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.03.192",
+			"position": [
+				79.2249908447266,
+				9.78788463662204,
+				-145.138519287109
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 0.924794316291809,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.08.193",
+			"position": [
+				-25.6946182250977,
+				3.56612173955727,
+				0.678924560546875
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.03168368339539,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.194",
+			"position": [
+				-48.3842391967773,
+				4.64252104792104,
+				-41.2802886962891
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.11180007457733,
+			"variant": 51
+		},
+		{
+			"id": "tree.10.03.195",
+			"position": [
+				108.266723632813,
+				10.1955456743599,
+				-139.280029296875
+			],
+			"region": [
+				10,
+				3
+			],
+			"scale": 0.877981007099152,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.196",
+			"position": [
+				-22.9129943847656,
+				3.90952252288116,
+				-8.4317626953125
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.13293898105621,
+			"variant": 29
+		},
+		{
+			"id": "tree.07.04.197",
+			"position": [
+				15.8371734619141,
+				6.68123834514336,
+				-110.236358642578
+			],
+			"region": [
+				7,
+				4
+			],
+			"scale": 1.01092493534088,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.198",
+			"position": [
+				45.7920532226563,
+				8.08620847930433,
+				-116.248222351074
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.12509667873383,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.199",
+			"position": [
+				-48.5126724243164,
+				4.76156584419368,
+				-8.4178466796875
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.08092963695526,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.200",
+			"position": [
+				-62.1892776489258,
+				2.68428890265568,
+				109.069305419922
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.92881828546524,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.05.201",
+			"position": [
+				58.4935302734375,
+				10.4839955022326,
+				-83.7508239746094
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.28802216053009,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.10.202",
+			"position": [
+				-60.9992370605469,
+				1.49809714796174,
+				67.3470306396484
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.20568132400513,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.203",
+			"position": [
+				-73.7342910766602,
+				1.43625341693405,
+				82.3144226074219
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.21758604049683,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.05.204",
+			"position": [
+				-5.58106994628906,
+				6.92920447290089,
+				-94.0875625610352
+			],
+			"region": [
+				6,
+				5
+			],
+			"scale": 0.880089938640594,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.205",
+			"position": [
+				-61.2148056030273,
+				3.58997071522026,
+				114.861907958984
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.17489087581635,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.206",
+			"position": [
+				-58.9245758056641,
+				5.78146075567929,
+				-34.3496398925781
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 0.947717010974884,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.207",
+			"position": [
+				-55.1639099121094,
+				2.0058418357039,
+				95.254150390625
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.01865684986115,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.208",
+			"position": [
+				-43.0594863891602,
+				5.25860358315549,
+				-61.6793594360352
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.01037979125977,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.06.209",
+			"position": [
+				-20.7574691772461,
+				4.85045247120433,
+				-40.3643188476563
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.3295077085495,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.210",
+			"position": [
+				86.6902465820313,
+				11.8048508107167,
+				-101.602333068848
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.04690778255463,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.211",
+			"position": [
+				-46.6640548706055,
+				5.20693420427415,
+				-59.2624893188477
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.29726493358612,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.212",
+			"position": [
+				-72.280647277832,
+				1.51283723202505,
+				81.8278198242188
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.956400692462921,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.04.213",
+			"position": [
+				19.0048522949219,
+				7.44216233576299,
+				-104.433731079102
+			],
+			"region": [
+				7,
+				4
+			],
+			"scale": 1.08853328227997,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.10.214",
+			"position": [
+				-52.5093688964844,
+				1.97344802026964,
+				65.75732421875
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.00217282772064,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.215",
+			"position": [
+				-46.2141342163086,
+				4.51405705900106,
+				-38.1480560302734
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.30417919158936,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.216",
+			"position": [
+				-52.1784744262695,
+				2.72521679187776,
+				97.997802734375
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.09220600128174,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.217",
+			"position": [
+				-26.1014175415039,
+				3.23167556120461,
+				-7.23731994628906
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.07448077201843,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.218",
+			"position": [
+				67.3835296630859,
+				10.2152929443982,
+				-144.386596679688
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 0.856494843959808,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.219",
+			"position": [
+				78.2534484863281,
+				11.5324018959655,
+				-96.7605972290039
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.32395482063293,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.220",
+			"position": [
+				-43.927360534668,
+				4.49664997185755,
+				-4.06748962402344
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.85839855670929,
+			"variant": 29
+		},
+		{
+			"id": "tree.10.04.221",
+			"position": [
+				99.4732208251953,
+				11.9312035844196,
+				-109.317230224609
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.18862473964691,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.222",
+			"position": [
+				-89.1343307495117,
+				1.05387933217935,
+				92.6498413085938
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.03764069080353,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.223",
+			"position": [
+				-57.5302047729492,
+				4.88547695241141,
+				121.431121826172
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.972830593585968,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.224",
+			"position": [
+				-48.8655471801758,
+				4.87157473572006,
+				110.871063232422
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.964067399501801,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.225",
+			"position": [
+				78.4034881591797,
+				11.0662475115096,
+				-99.9022369384766
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.2449266910553,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.10.226",
+			"position": [
+				-52.5530776977539,
+				1.98950716294712,
+				89.5780334472656
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.18350291252136,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.227",
+			"position": [
+				-66.7362823486328,
+				2.62915778731622,
+				114.263946533203
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.23443484306335,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.228",
+			"position": [
+				-54.2904663085938,
+				1.93316457726178,
+				91.4035034179688
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.33071374893188,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.229",
+			"position": [
+				-44.1251907348633,
+				4.10942923491348,
+				-8.10255432128906
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.899131774902344,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.230",
+			"position": [
+				-85.2997436523438,
+				1.31288280871377,
+				125.465240478516
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.885561048984528,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.231",
+			"position": [
+				-52.4304962158203,
+				1.97707137436282,
+				87.7800903320313
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.14203143119812,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.232",
+			"position": [
+				-47.7596588134766,
+				4.40193775878288,
+				105.983337402344
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.23789155483246,
+			"variant": 29
+		},
+		{
+			"id": "tree.10.04.233",
+			"position": [
+				99.2249603271484,
+				11.8293023634469,
+				-109.80640411377
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.20720410346985,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.234",
+			"position": [
+				-6.73751831054688,
+				4.41914532164446,
+				-29.2600250244141
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.868854939937592,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.235",
+			"position": [
+				-22.2567596435547,
+				5.143733878067,
+				-43.3470153808594
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 0.949707210063934,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.236",
+			"position": [
+				53.9573822021484,
+				10.4280173252191,
+				-139.259078979492
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.31460428237915,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.06.237",
+			"position": [
+				-21.4727401733398,
+				4.73361410893995,
+				-39.7280731201172
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.0976243019104,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.238",
+			"position": [
+				-53.2736282348633,
+				5.09113473171237,
+				-16.9626922607422
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.879202604293823,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.239",
+			"position": [
+				-73.0633163452148,
+				2.36670999152557,
+				126.580718994141
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.12840032577515,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.04.240",
+			"position": [
+				4.45481872558594,
+				6.90489079790132,
+				-105.301261901855
+			],
+			"region": [
+				7,
+				4
+			],
+			"scale": 0.920750379562378,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.08.241",
+			"position": [
+				-28.8030776977539,
+				3.80644378504439,
+				1.5537109375
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.04243183135986,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.242",
+			"position": [
+				-57.7810821533203,
+				5.65587397756099,
+				-29.3754119873047
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.01802957057953,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.243",
+			"position": [
+				-79.3132858276367,
+				1.7166389117574,
+				126.807830810547
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.988722622394562,
+			"variant": 13
+		},
+		{
+			"id": "tree.03.11.244",
+			"position": [
+				-106.198883056641,
+				0.621493524787184,
+				102.399017333984
+			],
+			"region": [
+				3,
+				11
+			],
+			"scale": 1.09257769584656,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.245",
+			"position": [
+				70.6407623291016,
+				9.24890056281583,
+				-134.084426879883
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.34235048294067,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.246",
+			"position": [
+				77.0813446044922,
+				13.496979884163,
+				-82.2919387817383
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.14835107326508,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.247",
+			"position": [
+				89.4394378662109,
+				10.1006196715753,
+				-115.396354675293
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.09096419811249,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.12.248",
+			"position": [
+				-63.7528839111328,
+				3.74721143044189,
+				131.152069091797
+			],
+			"region": [
+				5,
+				12
+			],
+			"scale": 0.925043821334839,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.249",
+			"position": [
+				-6.43901062011719,
+				4.48507613801848,
+				-29.8703155517578
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.29373443126678,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.250",
+			"position": [
+				-72.9614181518555,
+				1.6240306585496,
+				114.044525146484
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.08726012706757,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.251",
+			"position": [
+				-48.2486267089844,
+				4.21726051397491,
+				-20.8762054443359
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.873733580112457,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.252",
+			"position": [
+				-60.9449005126953,
+				1.41456356196431,
+				69.6905822753906
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.31660175323486,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.253",
+			"position": [
+				-59.0798568725586,
+				6.1543312728827,
+				-17.8710479736328
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.923139929771423,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.05.254",
+			"position": [
+				48.3349609375,
+				7.80787030236752,
+				-93.4680328369141
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.28698229789734,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.255",
+			"position": [
+				-77.1078948974609,
+				1.11045607117103,
+				112.703582763672
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.09035277366638,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.256",
+			"position": [
+				79.2440338134766,
+				9.24925077459193,
+				-115.829383850098
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.979436874389648,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.257",
+			"position": [
+				-6.36419677734375,
+				4.33981177035457,
+				-28.2261047363281
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.3445428609848,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.258",
+			"position": [
+				-44.7646255493164,
+				4.65302439768129,
+				-3.80880737304688
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.03542387485504,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.259",
+			"position": [
+				-64.1919097900391,
+				1.83887415316531,
+				104.782287597656
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.3206182718277,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.260",
+			"position": [
+				-53.9729156494141,
+				6.20266357009677,
+				-4.01202392578125
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.1974675655365,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.261",
+			"position": [
+				-48.9572448730469,
+				5.17800737755169,
+				113.485900878906
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.03216361999512,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.262",
+			"position": [
+				-6.74729919433594,
+				4.48767649206275,
+				-21.1560363769531
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.992246568202972,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.263",
+			"position": [
+				64.60888671875,
+				9.04980221231381,
+				-100.700790405273
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.31480705738068,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.05.264",
+			"position": [
+				5.33346557617188,
+				7.44692595929519,
+				-66.8076629638672
+			],
+			"region": [
+				7,
+				5
+			],
+			"scale": 0.854343712329865,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.265",
+			"position": [
+				-48.379264831543,
+				4.68116346895113,
+				-44.8060607910156
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.02617871761322,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.266",
+			"position": [
+				43.0863342285156,
+				9.914402153634,
+				-133.875244140625
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.953187942504883,
+			"variant": 51
+		},
+		{
+			"id": "tree.03.12.267",
+			"position": [
+				-116.260276794434,
+				1.77553440861902,
+				144.150817871094
+			],
+			"region": [
+				3,
+				12
+			],
+			"scale": 1.26168131828308,
+			"variant": 13
+		},
+		{
+			"id": "tree.07.04.268",
+			"position": [
+				3.44486999511719,
+				6.81877995657487,
+				-101.986167907715
+			],
+			"region": [
+				7,
+				4
+			],
+			"scale": 1.16544699668884,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.269",
+			"position": [
+				65.9577789306641,
+				9.83742000615166,
+				-96.3701477050781
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.07827007770538,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.05.270",
+			"position": [
+				-39.5298080444336,
+				6.36968565383722,
+				-76.5209045410156
+			],
+			"region": [
+				5,
+				5
+			],
+			"scale": 1.14528584480286,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.271",
+			"position": [
+				41.8944244384766,
+				7.64244266894093,
+				-121.656646728516
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.24511563777924,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.272",
+			"position": [
+				88.5141906738281,
+				12.7992752694263,
+				-96.7527847290039
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.91282707452774,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.273",
+			"position": [
+				-74.08203125,
+				0.825399289906272,
+				78.6261901855469
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.901360392570496,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.274",
+			"position": [
+				80.9516906738281,
+				11.3568386106781,
+				-100.102363586426
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.15039682388306,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.275",
+			"position": [
+				93.3998718261719,
+				11.4653590793605,
+				-108.355529785156
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.08549761772156,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.276",
+			"position": [
+				-51.862060546875,
+				2.04886328356588,
+				90.4096984863281
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 0.966588914394379,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.03.277",
+			"position": [
+				66.4697875976563,
+				10.057707520813,
+				-142.680358886719
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.04954671859741,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.278",
+			"position": [
+				55.8610229492188,
+				10.657135005109,
+				-141.111328125
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.863905429840088,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.09.279",
+			"position": [
+				-24.6642074584961,
+				3.16663146905921,
+				48.9771118164063
+			],
+			"region": [
+				6,
+				9
+			],
+			"scale": 1.01269066333771,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.280",
+			"position": [
+				-50.5763473510742,
+				4.61072837568645,
+				-17.6210021972656
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.09811747074127,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.281",
+			"position": [
+				-85.5463714599609,
+				1.2500042573929,
+				117.002807617188
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.01176071166992,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.07.282",
+			"position": [
+				-25.3905258178711,
+				3.39390589002142,
+				-0.7308349609375
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.03077137470245,
+			"variant": 13
+		},
+		{
+			"id": "tree.03.11.283",
+			"position": [
+				-105.678436279297,
+				1.28622936761894,
+				120.072906494141
+			],
+			"region": [
+				3,
+				11
+			],
+			"scale": 1.32998561859131,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.05.284",
+			"position": [
+				39.4329223632813,
+				7.22729968735075,
+				-89.4706420898438
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.07421696186066,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.04.285",
+			"position": [
+				-1.95439147949219,
+				7.45747062966984,
+				-104.646537780762
+			],
+			"region": [
+				6,
+				4
+			],
+			"scale": 1.05617439746857,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.286",
+			"position": [
+				-16.9736480712891,
+				6.56843826267868,
+				-48.4003753662109
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.00502514839172,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.287",
+			"position": [
+				-0.9169921875,
+				4.48365310340887,
+				-22.6835632324219
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.15702474117279,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.10.288",
+			"position": [
+				-76.0750579833984,
+				1.35557381266699,
+				83.4642333984375
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.09886753559113,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.289",
+			"position": [
+				-33.7612762451172,
+				3.68359122604488,
+				-17.0528259277344
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.0313435792923,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.290",
+			"position": [
+				-53.4237213134766,
+				2.93213446966729,
+				101.127075195313
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.08291363716125,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.03.291",
+			"position": [
+				54.5399322509766,
+				10.1420079845702,
+				-137.994171142578
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.11192941665649,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.06.292",
+			"position": [
+				-63.2865295410156,
+				6.4944669687502,
+				-32.8844757080078
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 0.996719837188721,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.08.293",
+			"position": [
+				-17.2111968994141,
+				4.09330605065406,
+				30.8370513916016
+			],
+			"region": [
+				6,
+				8
+			],
+			"scale": 1.17958378791809,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.03.294",
+			"position": [
+				62.3903503417969,
+				9.95529521990102,
+				-139.862289428711
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.883339881896973,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.05.295",
+			"position": [
+				46.4469757080078,
+				8.3621456787514,
+				-85.7594528198242
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 0.894109785556793,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.10.296",
+			"position": [
+				-83.2756958007813,
+				1.12472370549222,
+				87.5996398925781
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.890264391899109,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.297",
+			"position": [
+				-51.8731307983398,
+				1.9992780226421,
+				88.3248291015625
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.26033222675323,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.298",
+			"position": [
+				-67.4067687988281,
+				1.25577914192399,
+				101.479675292969
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.23525667190552,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.299",
+			"position": [
+				54.3634643554688,
+				9.56929959999979,
+				-134.910675048828
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 0.887577891349792,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.05.300",
+			"position": [
+				62.7235412597656,
+				10.3997348386038,
+				-88.9038391113281
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 0.89086526632309,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.07.301",
+			"position": [
+				-22.4636688232422,
+				3.42794704610969,
+				-4.08485412597656
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 1.23532891273499,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.302",
+			"position": [
+				79.2172546386719,
+				9.79078137915349,
+				-145.283950805664
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.3211407661438,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.303",
+			"position": [
+				-49.0065689086914,
+				4.58973248206894,
+				108.804718017578
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.21409404277802,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.10.304",
+			"position": [
+				-84.6733245849609,
+				-0.107052066043764,
+				80.2784118652344
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.22848260402679,
+			"variant": 29
+		},
+		{
+			"id": "tree.03.11.305",
+			"position": [
+				-96.534309387207,
+				0.93559640989406,
+				101.560974121094
+			],
+			"region": [
+				3,
+				11
+			],
+			"scale": 1.06758141517639,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.306",
+			"position": [
+				66.7982635498047,
+				10.7476088966869,
+				-90.9120635986328
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.03935468196869,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.307",
+			"position": [
+				90.4174652099609,
+				12.0911457834591,
+				-102.438903808594
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.02485930919647,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.07.308",
+			"position": [
+				-9.33840942382813,
+				4.21256597104366,
+				-27.6189575195313
+			],
+			"region": [
+				6,
+				7
+			],
+			"scale": 0.876668632030487,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.05.309",
+			"position": [
+				53.9322814941406,
+				10.2181853799848,
+				-80.7340850830078
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 0.877850949764252,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.11.310",
+			"position": [
+				-65.5629348754883,
+				1.50979412874949,
+				96.2444458007813
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 0.902021408081055,
+			"variant": 29
+		},
+		{
+			"id": "tree.10.04.311",
+			"position": [
+				97.6726226806641,
+				9.72110238982714,
+				-127.241142272949
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.09972548484802,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.312",
+			"position": [
+				-43.9324951171875,
+				4.35707027793978,
+				101.537902832031
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.23677051067352,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.313",
+			"position": [
+				-49.6186294555664,
+				4.69929881314602,
+				110.347503662109
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.957548260688782,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.314",
+			"position": [
+				81.3140258789063,
+				12.1272679367103,
+				-95.5192718505859
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 0.915136158466339,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.05.315",
+			"position": [
+				84.6866760253906,
+				12.6517787312478,
+				-94.8655014038086
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.27908337116241,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.316",
+			"position": [
+				87.9900970458984,
+				10.4058395335742,
+				-111.894844055176
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.12803316116333,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.317",
+			"position": [
+				55.0709991455078,
+				11.7898649445851,
+				-146.67887878418
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.1992712020874,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.07.318",
+			"position": [
+				-46.4590377807617,
+				4.29453931180615,
+				-28.4170684814453
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 0.959038078784943,
+			"variant": 13
+		},
+		{
+			"id": "tree.06.06.319",
+			"position": [
+				-12.385009765625,
+				4.38513678215168,
+				-32.6528472900391
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.20587396621704,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.320",
+			"position": [
+				-83.4029541015625,
+				1.28119175317261,
+				121.82373046875
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.34678149223328,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.06.321",
+			"position": [
+				-23.1217956542969,
+				5.89921722491636,
+				-49.3229827880859
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.30566787719727,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.05.322",
+			"position": [
+				71.7039184570313,
+				12.3188377653423,
+				-85.3435516357422
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.32652139663696,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.11.323",
+			"position": [
+				-58.7368850708008,
+				3.87331830185576,
+				114.1796875
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.3398540019989,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.10.324",
+			"position": [
+				-49.1836013793945,
+				2.09633676743761,
+				87.4151916503906
+			],
+			"region": [
+				5,
+				10
+			],
+			"scale": 1.06518983840942,
+			"variant": 13
+		},
+		{
+			"id": "tree.09.04.325",
+			"position": [
+				91.5996551513672,
+				12.0339817985077,
+				-103.587684631348
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.18583011627197,
+			"variant": 29
+		},
+		{
+			"id": "tree.08.03.326",
+			"position": [
+				54.6664581298828,
+				11.353665311326,
+				-144.201782226563
+			],
+			"region": [
+				8,
+				3
+			],
+			"scale": 1.31494235992432,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.327",
+			"position": [
+				-53.9461669921875,
+				4.74837314107572,
+				115.650329589844
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.935946881771088,
+			"variant": 13
+		},
+		{
+			"id": "tree.11.02.328",
+			"position": [
+				130.977294921875,
+				13.915160516277,
+				-171.504760742188
+			],
+			"region": [
+				11,
+				2
+			],
+			"scale": 1.12633728981018,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.07.329",
+			"position": [
+				-52.8692474365234,
+				5.26999489669106,
+				-11.8311462402344
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.16166269779205,
+			"variant": 51
+		},
+		{
+			"id": "tree.06.09.330",
+			"position": [
+				-29.4700698852539,
+				3.0362252113664,
+				50.7584686279297
+			],
+			"region": [
+				6,
+				9
+			],
+			"scale": 1.20669806003571,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.10.331",
+			"position": [
+				-79.1880645751953,
+				1.03886778687183,
+				83.8596801757813
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 1.32238662242889,
+			"variant": 29
+		},
+		{
+			"id": "tree.06.06.332",
+			"position": [
+				-31.0130310058594,
+				4.58048601966584,
+				-42.7672424316406
+			],
+			"region": [
+				6,
+				6
+			],
+			"scale": 1.23731529712677,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.333",
+			"position": [
+				61.4512329101563,
+				8.73554261706886,
+				-100.066467285156
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.10437095165253,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.334",
+			"position": [
+				36.6943054199219,
+				8.44873334595468,
+				-125.973175048828
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.32968521118164,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.11.335",
+			"position": [
+				-71.8429870605469,
+				1.2124015492227,
+				107.630432128906
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.15658247470856,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.336",
+			"position": [
+				-62.0102844238281,
+				1.57336307912919,
+				98.9246215820313
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 0.978750765323639,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.07.337",
+			"position": [
+				-40.0951309204102,
+				3.82476008790763,
+				-5.60786437988281
+			],
+			"region": [
+				5,
+				7
+			],
+			"scale": 1.14655184745789,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.338",
+			"position": [
+				81.3784942626953,
+				9.31760749212845,
+				-117.860092163086
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.13337516784668,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.04.339",
+			"position": [
+				39.7015838623047,
+				7.9530876981371,
+				-113.060264587402
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.27728939056396,
+			"variant": 13
+		},
+		{
+			"id": "tree.10.02.340",
+			"position": [
+				112.569595336914,
+				12.2607732964534,
+				-181.749893188477
+			],
+			"region": [
+				10,
+				2
+			],
+			"scale": 1.06175458431244,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.341",
+			"position": [
+				-52.2116546630859,
+				4.91465481259365,
+				-35.1470489501953
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.15377199649811,
+			"variant": 51
+		},
+		{
+			"id": "tree.09.04.342",
+			"position": [
+				84.8473205566406,
+				10.3777519232608,
+				-109.749771118164
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 1.12814557552338,
+			"variant": 13
+		},
+		{
+			"id": "tree.10.04.343",
+			"position": [
+				97.8818206787109,
+				10.6159296176338,
+				-117.308067321777
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.00386476516724,
+			"variant": 29
+		},
+		{
+			"id": "tree.05.06.344",
+			"position": [
+				-47.3401870727539,
+				4.57582881954295,
+				-40.7602081298828
+			],
+			"region": [
+				5,
+				6
+			],
+			"scale": 1.09944629669189,
+			"variant": 51
+		},
+		{
+			"id": "tree.08.05.345",
+			"position": [
+				36.8593444824219,
+				7.39922303449566,
+				-91.97998046875
+			],
+			"region": [
+				8,
+				5
+			],
+			"scale": 1.32345461845398,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.12.346",
+			"position": [
+				-67.1928024291992,
+				3.24076238727866,
+				132.498718261719
+			],
+			"region": [
+				4,
+				12
+			],
+			"scale": 1.15192604064941,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.03.347",
+			"position": [
+				79.0401916503906,
+				10.3175998420338,
+				-153.467895507813
+			],
+			"region": [
+				9,
+				3
+			],
+			"scale": 1.06486332416534,
+			"variant": 51
+		},
+		{
+			"id": "tree.07.07.348",
+			"position": [
+				13.0734710693359,
+				6.03513906911394,
+				-10.9408721923828
+			],
+			"region": [
+				7,
+				7
+			],
+			"scale": 1.07699060440063,
+			"variant": 13
+		},
+		{
+			"id": "tree.07.04.349",
+			"position": [
+				14.2829742431641,
+				7.18355212580354,
+				-113.721046447754
+			],
+			"region": [
+				7,
+				4
+			],
+			"scale": 1.1094719171524,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.350",
+			"position": [
+				74.3076477050781,
+				12.0393862792989,
+				-89.8624649047852
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 0.897314786911011,
+			"variant": 51
+		},
+		{
+			"id": "tree.10.04.351",
+			"position": [
+				98.2579650878906,
+				11.7810129261052,
+				-109.49634552002
+			],
+			"region": [
+				10,
+				4
+			],
+			"scale": 1.26098203659058,
+			"variant": 13
+		},
+		{
+			"id": "tree.05.11.352",
+			"position": [
+				-63.2890167236328,
+				3.70435997547611,
+				122.221130371094
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.3463454246521,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.04.353",
+			"position": [
+				82.7266387939453,
+				9.62291934923269,
+				-113.738777160645
+			],
+			"region": [
+				9,
+				4
+			],
+			"scale": 0.93445611000061,
+			"variant": 51
+		},
+		{
+			"id": "tree.04.11.354",
+			"position": [
+				-71.0335083007813,
+				1.91031131571071,
+				114.192230224609
+			],
+			"region": [
+				4,
+				11
+			],
+			"scale": 1.15326011180878,
+			"variant": 13
+		},
+		{
+			"id": "tree.04.10.355",
+			"position": [
+				-87.9162750244141,
+				-0.1645567880812,
+				83.2155456542969
+			],
+			"region": [
+				4,
+				10
+			],
+			"scale": 0.857568442821503,
+			"variant": 29
+		},
+		{
+			"id": "tree.04.12.356",
+			"position": [
+				-77.8427124023438,
+				1.98010697131031,
+				131.160400390625
+			],
+			"region": [
+				4,
+				12
+			],
+			"scale": 1.2984277009964,
+			"variant": 51
+		},
+		{
+			"id": "tree.05.11.357",
+			"position": [
+				-55.1521835327148,
+				4.04950435008504,
+				111.477630615234
+			],
+			"region": [
+				5,
+				11
+			],
+			"scale": 1.20762372016907,
+			"variant": 13
+		},
+		{
+			"id": "tree.08.04.358",
+			"position": [
+				49.4445648193359,
+				8.04557671339717,
+				-120.43522644043
+			],
+			"region": [
+				8,
+				4
+			],
+			"scale": 1.29100871086121,
+			"variant": 29
+		},
+		{
+			"id": "tree.09.05.359",
+			"position": [
+				70.4836883544922,
+				11.439894582436,
+				-90.0837020874023
+			],
+			"region": [
+				9,
+				5
+			],
+			"scale": 1.18323230743408,
+			"variant": 51
+		}
+	],
+	"width": 225,
+	"woods": [
+		{
+			"center": [
+				-72.0,
+				103.0
+			],
+			"id": "woods.south",
+			"label": "南侧疏林",
+			"radius": 30.0
+		},
+		{
+			"center": [
+				-35.0,
+				-27.0
+			],
+			"id": "woods.bend",
+			"label": "山弯林区",
+			"radius": 30.0
+		},
+		{
+			"center": [
+				65.0,
+				-113.0
+			],
+			"id": "woods.north",
+			"label": "北侧树林",
+			"radius": 36.0
+		}
+	],
+	"world_size": [
+		448,
+		512
+	]
+}

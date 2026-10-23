@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/art/snow_palette.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+display_name = "白天 · 清透蓝"
+time_of_day = "day"
+description = "清透蓝雪面，清晰的方向性投影"
+snow = Color(0.5451, 0.7216, 0.9098, 1)
+shadow = Color(0.2941, 0.4902, 0.6863, 1)
+wall = Color(0.3020, 0.4510, 0.6078, 1)
+roof = Color(0.1373, 0.2314, 0.3412, 1)
+wood = Color(0.1569, 0.2549, 0.3451, 1)
+coat = Color(0.2078, 0.3569, 0.5216, 1)
+scarf = Color(0.6627, 0.3451, 0.3137, 1)
+warm = Color(0.9608, 0.8275, 0.6275, 1)
+ambient = Color(0.5725, 0.7216, 0.8941, 1)
+sunlight = Color(0.8392, 0.9020, 0.9882, 1)
+light_energy = 0.85
+ambient_energy = 0.65

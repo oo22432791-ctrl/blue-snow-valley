@@ -1,0 +1,3050 @@
+{
+  "schema_version": 1,
+  "stage": "M7 environment",
+  "terrain_manifest_sha256": "642f3a136c1270fb0b80995c27cd2d67494eef997a791ef5d505b0a6b0048672",
+  "seed": 20261020,
+  "tree_overrides": {
+    "tree.10.03.000": {
+      "asset": "tree_spruce",
+      "yaw": 0.0
+    },
+    "tree.05.11.001": {
+      "asset": "tree_birch",
+      "yaw": 2.399962111844607
+    },
+    "tree.10.04.002": {
+      "asset": "tree_larch",
+      "yaw": 4.799924223689214
+    },
+    "tree.05.07.003": {
+      "asset": "tree_willow",
+      "yaw": 0.9167010283542337
+    },
+    "tree.09.03.004": {
+      "asset": "tree_birch",
+      "yaw": 3.3166631401988402
+    },
+    "tree.07.08.005": {
+      "asset": "tree_spruce",
+      "yaw": 5.716625252043447
+    },
+    "tree.06.07.006": {
+      "asset": "tree_willow",
+      "yaw": 1.8334020567084675
+    },
+    "tree.06.05.007": {
+      "asset": "tree_birch",
+      "yaw": 4.2333641685530745
+    },
+    "tree.09.04.008": {
+      "asset": "tree_larch",
+      "yaw": 0.3501409732180944
+    },
+    "tree.06.07.009": {
+      "asset": "tree_willow",
+      "yaw": 2.750103085062703
+    },
+    "tree.06.08.010": {
+      "asset": "tree_spruce",
+      "yaw": 5.150065196907308
+    },
+    "tree.09.05.011": {
+      "asset": "tree_larch",
+      "yaw": 1.266842001572326
+    },
+    "tree.05.07.012": {
+      "asset": "tree_willow",
+      "yaw": 3.666804113416935
+    },
+    "tree.04.11.013": {
+      "asset": "tree_birch",
+      "yaw": 6.066766225261543
+    },
+    "tree.05.11.014": {
+      "asset": "tree_larch",
+      "yaw": 2.183543029926562
+    },
+    "tree.05.11.015": {
+      "asset": "tree_spruce",
+      "yaw": 4.583505141771166
+    },
+    "tree.04.11.016": {
+      "asset": "tree_birch",
+      "yaw": 0.7002819464361888
+    },
+    "tree.05.07.017": {
+      "asset": "tree_larch",
+      "yaw": 3.1002440582807975
+    },
+    "tree.04.11.018": {
+      "asset": "tree_willow",
+      "yaw": 5.500206170125406
+    },
+    "tree.05.07.019": {
+      "asset": "tree_birch",
+      "yaw": 1.6169829747904205
+    },
+    "tree.11.03.020": {
+      "asset": "tree_spruce",
+      "yaw": 4.01694508663503
+    },
+    "tree.06.07.021": {
+      "asset": "tree_willow",
+      "yaw": 0.13372189130005147
+    },
+    "tree.09.05.022": {
+      "asset": "tree_birch",
+      "yaw": 2.533684003144652
+    },
+    "tree.04.10.023": {
+      "asset": "tree_larch",
+      "yaw": 4.933646114989261
+    },
+    "tree.09.03.024": {
+      "asset": "tree_willow",
+      "yaw": 1.0504229196542831
+    },
+    "tree.08.04.025": {
+      "asset": "tree_spruce",
+      "yaw": 3.4503850314988918
+    },
+    "tree.05.11.026": {
+      "asset": "tree_larch",
+      "yaw": 5.850347143343501
+    },
+    "tree.06.08.027": {
+      "asset": "tree_willow",
+      "yaw": 1.967123948008515
+    },
+    "tree.04.11.028": {
+      "asset": "tree_birch",
+      "yaw": 4.367086059853124
+    },
+    "tree.08.04.029": {
+      "asset": "tree_larch",
+      "yaw": 0.48386286451814586
+    },
+    "tree.09.05.030": {
+      "asset": "tree_spruce",
+      "yaw": 2.8838249763627464
+    },
+    "tree.08.03.031": {
+      "asset": "tree_birch",
+      "yaw": 5.283787088207355
+    },
+    "tree.05.07.032": {
+      "asset": "tree_larch",
+      "yaw": 1.4005638928723776
+    },
+    "tree.08.03.033": {
+      "asset": "tree_willow",
+      "yaw": 3.8005260047169864
+    },
+    "tree.08.03.034": {
+      "asset": "tree_birch",
+      "yaw": 6.200488116561595
+    },
+    "tree.09.03.035": {
+      "asset": "tree_spruce",
+      "yaw": 2.3172649212266174
+    },
+    "tree.08.04.036": {
+      "asset": "tree_willow",
+      "yaw": 4.717227033071226
+    },
+    "tree.06.10.037": {
+      "asset": "tree_birch",
+      "yaw": 0.8340038377362323
+    },
+    "tree.05.11.038": {
+      "asset": "tree_larch",
+      "yaw": 3.233965949580841
+    },
+    "tree.05.07.039": {
+      "asset": "tree_willow",
+      "yaw": 5.63392806142545
+    },
+    "tree.08.03.040": {
+      "asset": "tree_spruce",
+      "yaw": 1.750704866090472
+    },
+    "tree.04.11.041": {
+      "asset": "tree_larch",
+      "yaw": 4.150666977935081
+    },
+    "tree.04.10.042": {
+      "asset": "tree_willow",
+      "yaw": 0.26744378260010293
+    },
+    "tree.05.06.043": {
+      "asset": "tree_birch",
+      "yaw": 2.6674058944447117
+    },
+    "tree.06.07.044": {
+      "asset": "tree_larch",
+      "yaw": 5.067368006289304
+    },
+    "tree.04.10.045": {
+      "asset": "tree_spruce",
+      "yaw": 1.1841448109543267
+    },
+    "tree.10.03.046": {
+      "asset": "tree_birch",
+      "yaw": 3.5841069227989353
+    },
+    "tree.06.06.047": {
+      "asset": "tree_larch",
+      "yaw": 5.984069034643544
+    },
+    "tree.04.11.048": {
+      "asset": "tree_willow",
+      "yaw": 2.1008458393085663
+    },
+    "tree.05.11.049": {
+      "asset": "tree_birch",
+      "yaw": 4.500807951153175
+    },
+    "tree.05.07.050": {
+      "asset": "tree_spruce",
+      "yaw": 0.6175847558181973
+    },
+    "tree.05.10.051": {
+      "asset": "tree_willow",
+      "yaw": 3.017546867662806
+    },
+    "tree.08.03.052": {
+      "asset": "tree_birch",
+      "yaw": 5.4175089795074145
+    },
+    "tree.06.07.053": {
+      "asset": "tree_larch",
+      "yaw": 1.5342857841724211
+    },
+    "tree.04.12.054": {
+      "asset": "tree_willow",
+      "yaw": 3.93424789601703
+    },
+    "tree.04.11.055": {
+      "asset": "tree_spruce",
+      "yaw": 0.05102470068205207
+    },
+    "tree.09.05.056": {
+      "asset": "tree_larch",
+      "yaw": 2.450986812526661
+    },
+    "tree.04.11.057": {
+      "asset": "tree_willow",
+      "yaw": 4.850948924371269
+    },
+    "tree.07.09.058": {
+      "asset": "tree_birch",
+      "yaw": 0.9677257290362917
+    },
+    "tree.04.10.059": {
+      "asset": "tree_larch",
+      "yaw": 3.3676878408809006
+    },
+    "tree.09.04.060": {
+      "asset": "tree_spruce",
+      "yaw": 5.767649952725493
+    },
+    "tree.05.11.061": {
+      "asset": "tree_birch",
+      "yaw": 1.8844267573905156
+    },
+    "tree.05.07.062": {
+      "asset": "tree_larch",
+      "yaw": 4.284388869235124
+    },
+    "tree.07.05.063": {
+      "asset": "tree_willow",
+      "yaw": 0.40116567390014646
+    },
+    "tree.09.04.064": {
+      "asset": "tree_birch",
+      "yaw": 2.801127785744755
+    },
+    "tree.07.06.065": {
+      "asset": "tree_spruce",
+      "yaw": 5.201089897589364
+    },
+    "tree.05.07.066": {
+      "asset": "tree_willow",
+      "yaw": 1.3178667022543862
+    },
+    "tree.08.04.067": {
+      "asset": "tree_birch",
+      "yaw": 3.717828814098995
+    },
+    "tree.05.06.068": {
+      "asset": "tree_larch",
+      "yaw": 6.117790925943604
+    },
+    "tree.06.06.069": {
+      "asset": "tree_willow",
+      "yaw": 2.234567730608626
+    },
+    "tree.09.04.070": {
+      "asset": "tree_spruce",
+      "yaw": 4.634529842453235
+    },
+    "tree.03.11.071": {
+      "asset": "tree_larch",
+      "yaw": 0.7513066471182567
+    },
+    "tree.05.06.072": {
+      "asset": "tree_willow",
+      "yaw": 3.1512687589628654
+    },
+    "tree.10.03.073": {
+      "asset": "tree_birch",
+      "yaw": 5.5512308708074425
+    },
+    "tree.09.03.074": {
+      "asset": "tree_larch",
+      "yaw": 1.6680076754724646
+    },
+    "tree.05.11.075": {
+      "asset": "tree_spruce",
+      "yaw": 4.0679697873170735
+    },
+    "tree.05.07.076": {
+      "asset": "tree_birch",
+      "yaw": 0.1847465919820956
+    },
+    "tree.07.07.077": {
+      "asset": "tree_larch",
+      "yaw": 2.5847087038267045
+    },
+    "tree.04.10.078": {
+      "asset": "tree_willow",
+      "yaw": 4.984670815671313
+    },
+    "tree.09.04.079": {
+      "asset": "tree_birch",
+      "yaw": 1.1014476203363353
+    },
+    "tree.08.03.080": {
+      "asset": "tree_spruce",
+      "yaw": 3.501409732180944
+    },
+    "tree.09.04.081": {
+      "asset": "tree_willow",
+      "yaw": 5.901371844025553
+    },
+    "tree.06.10.082": {
+      "asset": "tree_birch",
+      "yaw": 2.018148648690575
+    },
+    "tree.07.05.083": {
+      "asset": "tree_larch",
+      "yaw": 4.418110760535184
+    },
+    "tree.06.05.084": {
+      "asset": "tree_willow",
+      "yaw": 0.5348875652002059
+    },
+    "tree.06.06.085": {
+      "asset": "tree_spruce",
+      "yaw": 2.9348496770448147
+    },
+    "tree.06.08.086": {
+      "asset": "tree_larch",
+      "yaw": 5.334811788889423
+    },
+    "tree.10.04.087": {
+      "asset": "tree_willow",
+      "yaw": 1.4515885935544455
+    },
+    "tree.05.11.088": {
+      "asset": "tree_birch",
+      "yaw": 3.8515507053990223
+    },
+    "tree.09.05.089": {
+      "asset": "tree_larch",
+      "yaw": 6.251512817243631
+    },
+    "tree.08.03.090": {
+      "asset": "tree_spruce",
+      "yaw": 2.3682896219086533
+    },
+    "tree.08.05.091": {
+      "asset": "tree_birch",
+      "yaw": 4.768251733753262
+    },
+    "tree.09.03.092": {
+      "asset": "tree_larch",
+      "yaw": 0.8850285384182843
+    },
+    "tree.07.08.093": {
+      "asset": "tree_willow",
+      "yaw": 3.284990650262893
+    },
+    "tree.09.03.094": {
+      "asset": "tree_birch",
+      "yaw": 5.684952762107502
+    },
+    "tree.09.05.095": {
+      "asset": "tree_spruce",
+      "yaw": 1.801729566772524
+    },
+    "tree.06.05.096": {
+      "asset": "tree_willow",
+      "yaw": 4.2016916786171326
+    },
+    "tree.04.11.097": {
+      "asset": "tree_birch",
+      "yaw": 0.318468483282155
+    },
+    "tree.06.05.098": {
+      "asset": "tree_larch",
+      "yaw": 2.7184305951267635
+    },
+    "tree.06.07.099": {
+      "asset": "tree_willow",
+      "yaw": 5.118392706971372
+    },
+    "tree.05.11.100": {
+      "asset": "tree_spruce",
+      "yaw": 1.2351695116363945
+    },
+    "tree.08.03.101": {
+      "asset": "tree_larch",
+      "yaw": 3.635131623481003
+    },
+    "tree.09.04.102": {
+      "asset": "tree_willow",
+      "yaw": 6.035093735325612
+    },
+    "tree.05.07.103": {
+      "asset": "tree_birch",
+      "yaw": 2.151870539990634
+    },
+    "tree.06.10.104": {
+      "asset": "tree_larch",
+      "yaw": 4.551832651835243
+    },
+    "tree.05.11.105": {
+      "asset": "tree_spruce",
+      "yaw": 0.6686094565002335
+    },
+    "tree.04.12.106": {
+      "asset": "tree_birch",
+      "yaw": 3.0685715683448422
+    },
+    "tree.05.07.107": {
+      "asset": "tree_larch",
+      "yaw": 5.468533680189451
+    },
+    "tree.09.04.108": {
+      "asset": "tree_willow",
+      "yaw": 1.5853104848544732
+    },
+    "tree.09.04.109": {
+      "asset": "tree_birch",
+      "yaw": 3.985272596699082
+    },
+    "tree.06.05.110": {
+      "asset": "tree_spruce",
+      "yaw": 0.10204940136410413
+    },
+    "tree.09.03.111": {
+      "asset": "tree_willow",
+      "yaw": 2.502011513208713
+    },
+    "tree.05.07.112": {
+      "asset": "tree_birch",
+      "yaw": 4.901973625053322
+    },
+    "tree.08.04.113": {
+      "asset": "tree_larch",
+      "yaw": 1.0187504297183438
+    },
+    "tree.08.04.114": {
+      "asset": "tree_willow",
+      "yaw": 3.4187125415629525
+    },
+    "tree.05.07.115": {
+      "asset": "tree_spruce",
+      "yaw": 5.8186746534075615
+    },
+    "tree.06.05.116": {
+      "asset": "tree_larch",
+      "yaw": 1.9354514580725835
+    },
+    "tree.05.07.117": {
+      "asset": "tree_willow",
+      "yaw": 4.3354135699171925
+    },
+    "tree.09.04.118": {
+      "asset": "tree_birch",
+      "yaw": 0.4521903745822144
+    },
+    "tree.05.11.119": {
+      "asset": "tree_larch",
+      "yaw": 2.852152486426823
+    },
+    "tree.04.11.120": {
+      "asset": "tree_spruce",
+      "yaw": 5.2521145982714
+    },
+    "tree.06.06.121": {
+      "asset": "tree_birch",
+      "yaw": 1.368891402936454
+    },
+    "tree.05.06.122": {
+      "asset": "tree_larch",
+      "yaw": 3.768853514781031
+    },
+    "tree.05.09.123": {
+      "asset": "tree_willow",
+      "yaw": 6.168815626625672
+    },
+    "tree.08.03.124": {
+      "asset": "tree_birch",
+      "yaw": 2.285592431290662
+    },
+    "tree.08.04.125": {
+      "asset": "tree_spruce",
+      "yaw": 4.685554543135303
+    },
+    "tree.04.10.126": {
+      "asset": "tree_willow",
+      "yaw": 0.8023313478002929
+    },
+    "tree.05.07.127": {
+      "asset": "tree_birch",
+      "yaw": 3.2022934596449333
+    },
+    "tree.05.09.128": {
+      "asset": "tree_larch",
+      "yaw": 5.60225557148951
+    },
+    "tree.09.05.129": {
+      "asset": "tree_willow",
+      "yaw": 1.7190323761545008
+    },
+    "tree.04.10.130": {
+      "asset": "tree_spruce",
+      "yaw": 4.118994487999141
+    },
+    "tree.09.05.131": {
+      "asset": "tree_larch",
+      "yaw": 0.2357712926641318
+    },
+    "tree.06.05.132": {
+      "asset": "tree_willow",
+      "yaw": 2.6357334045087724
+    },
+    "tree.08.05.133": {
+      "asset": "tree_birch",
+      "yaw": 5.035695516353349
+    },
+    "tree.09.04.134": {
+      "asset": "tree_larch",
+      "yaw": 1.1524723210184031
+    },
+    "tree.05.06.135": {
+      "asset": "tree_spruce",
+      "yaw": 3.55243443286298
+    },
+    "tree.05.06.136": {
+      "asset": "tree_birch",
+      "yaw": 5.952396544707621
+    },
+    "tree.08.03.137": {
+      "asset": "tree_larch",
+      "yaw": 2.069173349372611
+    },
+    "tree.04.10.138": {
+      "asset": "tree_willow",
+      "yaw": 4.469135461217252
+    },
+    "tree.05.07.139": {
+      "asset": "tree_birch",
+      "yaw": 0.5859122658822421
+    },
+    "tree.06.06.140": {
+      "asset": "tree_spruce",
+      "yaw": 2.9858743777268826
+    },
+    "tree.06.06.141": {
+      "asset": "tree_willow",
+      "yaw": 5.385836489571459
+    },
+    "tree.08.04.142": {
+      "asset": "tree_birch",
+      "yaw": 1.5026132942365134
+    },
+    "tree.09.04.143": {
+      "asset": "tree_larch",
+      "yaw": 3.90257540608109
+    },
+    "tree.05.07.144": {
+      "asset": "tree_willow",
+      "yaw": 0.019352210746144415
+    },
+    "tree.04.11.145": {
+      "asset": "tree_spruce",
+      "yaw": 2.419314322590721
+    },
+    "tree.04.10.146": {
+      "asset": "tree_larch",
+      "yaw": 4.819276434435298
+    },
+    "tree.06.07.147": {
+      "asset": "tree_willow",
+      "yaw": 0.9360532391003523
+    },
+    "tree.06.07.148": {
+      "asset": "tree_birch",
+      "yaw": 3.3360153509449293
+    },
+    "tree.04.11.149": {
+      "asset": "tree_larch",
+      "yaw": 5.735977462789569
+    },
+    "tree.09.05.150": {
+      "asset": "tree_spruce",
+      "yaw": 1.8527542674545603
+    },
+    "tree.05.07.151": {
+      "asset": "tree_birch",
+      "yaw": 4.2527163792992
+    },
+    "tree.06.07.152": {
+      "asset": "tree_larch",
+      "yaw": 0.3694931839641912
+    },
+    "tree.04.10.153": {
+      "asset": "tree_willow",
+      "yaw": 2.7694552958088314
+    },
+    "tree.09.03.154": {
+      "asset": "tree_birch",
+      "yaw": 5.169417407653409
+    },
+    "tree.08.03.155": {
+      "asset": "tree_spruce",
+      "yaw": 1.2861942123184626
+    },
+    "tree.05.06.156": {
+      "asset": "tree_willow",
+      "yaw": 3.6861563241630395
+    },
+    "tree.08.05.157": {
+      "asset": "tree_birch",
+      "yaw": 6.08611843600768
+    },
+    "tree.08.05.158": {
+      "asset": "tree_larch",
+      "yaw": 2.2028952406726705
+    },
+    "tree.05.09.159": {
+      "asset": "tree_willow",
+      "yaw": 4.602857352517311
+    },
+    "tree.06.07.160": {
+      "asset": "tree_spruce",
+      "yaw": 0.7196341571823015
+    },
+    "tree.09.03.161": {
+      "asset": "tree_larch",
+      "yaw": 3.1195962690268786
+    },
+    "tree.06.08.162": {
+      "asset": "tree_willow",
+      "yaw": 5.519558380871519
+    },
+    "tree.05.07.163": {
+      "asset": "tree_birch",
+      "yaw": 1.6363351855365094
+    },
+    "tree.08.04.164": {
+      "asset": "tree_larch",
+      "yaw": 4.03629729738115
+    },
+    "tree.08.04.165": {
+      "asset": "tree_spruce",
+      "yaw": 0.15307410204614033
+    },
+    "tree.06.06.166": {
+      "asset": "tree_birch",
+      "yaw": 2.5530362138907807
+    },
+    "tree.05.07.167": {
+      "asset": "tree_larch",
+      "yaw": 4.952998325735358
+    },
+    "tree.05.07.168": {
+      "asset": "tree_willow",
+      "yaw": 1.0697751304004117
+    },
+    "tree.06.09.169": {
+      "asset": "tree_birch",
+      "yaw": 3.469737242244989
+    },
+    "tree.08.05.170": {
+      "asset": "tree_spruce",
+      "yaw": 5.869699354089629
+    },
+    "tree.04.10.171": {
+      "asset": "tree_willow",
+      "yaw": 1.9864761587546196
+    },
+    "tree.09.03.172": {
+      "asset": "tree_birch",
+      "yaw": 4.38643827059926
+    },
+    "tree.10.04.173": {
+      "asset": "tree_larch",
+      "yaw": 0.5032150752642506
+    },
+    "tree.04.10.174": {
+      "asset": "tree_willow",
+      "yaw": 2.903177187108891
+    },
+    "tree.06.07.175": {
+      "asset": "tree_spruce",
+      "yaw": 5.303139298953468
+    },
+    "tree.04.10.176": {
+      "asset": "tree_larch",
+      "yaw": 1.4199161036184584
+    },
+    "tree.05.11.177": {
+      "asset": "tree_willow",
+      "yaw": 3.819878215463099
+    },
+    "tree.06.04.178": {
+      "asset": "tree_birch",
+      "yaw": 6.219840327307676
+    },
+    "tree.06.06.179": {
+      "asset": "tree_larch",
+      "yaw": 2.33661713197273
+    },
+    "tree.08.04.180": {
+      "asset": "tree_spruce",
+      "yaw": 4.736579243817307
+    },
+    "tree.05.07.181": {
+      "asset": "tree_birch",
+      "yaw": 0.8533560484823609
+    },
+    "tree.06.05.182": {
+      "asset": "tree_larch",
+      "yaw": 3.2533181603269377
+    },
+    "tree.04.11.183": {
+      "asset": "tree_willow",
+      "yaw": 5.653280272171578
+    },
+    "tree.05.07.184": {
+      "asset": "tree_birch",
+      "yaw": 1.7700570768365687
+    },
+    "tree.05.11.185": {
+      "asset": "tree_spruce",
+      "yaw": 4.170019188681209
+    },
+    "tree.05.07.186": {
+      "asset": "tree_willow",
+      "yaw": 0.2867959933461997
+    },
+    "tree.06.09.187": {
+      "asset": "tree_birch",
+      "yaw": 2.6867581051908402
+    },
+    "tree.05.11.188": {
+      "asset": "tree_larch",
+      "yaw": 5.086720217035417
+    },
+    "tree.05.06.189": {
+      "asset": "tree_willow",
+      "yaw": 1.203497021700471
+    },
+    "tree.06.09.190": {
+      "asset": "tree_spruce",
+      "yaw": 3.603459133545048
+    },
+    "tree.09.04.191": {
+      "asset": "tree_larch",
+      "yaw": 6.0034212453896885
+    },
+    "tree.09.03.192": {
+      "asset": "tree_willow",
+      "yaw": 2.120198050054679
+    },
+    "tree.06.08.193": {
+      "asset": "tree_birch",
+      "yaw": 4.5201601618992555
+    },
+    "tree.05.06.194": {
+      "asset": "tree_larch",
+      "yaw": 0.63693696656431
+    },
+    "tree.10.03.195": {
+      "asset": "tree_spruce",
+      "yaw": 3.036899078408887
+    },
+    "tree.06.07.196": {
+      "asset": "tree_birch",
+      "yaw": 5.436861190253527
+    },
+    "tree.07.04.197": {
+      "asset": "tree_larch",
+      "yaw": 1.553637994918518
+    },
+    "tree.08.04.198": {
+      "asset": "tree_willow",
+      "yaw": 3.953600106763158
+    },
+    "tree.05.07.199": {
+      "asset": "tree_birch",
+      "yaw": 0.07037691142814886
+    },
+    "tree.05.11.200": {
+      "asset": "tree_spruce",
+      "yaw": 2.470339023272789
+    },
+    "tree.08.05.201": {
+      "asset": "tree_willow",
+      "yaw": 4.870301135117367
+    },
+    "tree.05.10.202": {
+      "asset": "tree_birch",
+      "yaw": 0.9870779397824202
+    },
+    "tree.04.10.203": {
+      "asset": "tree_larch",
+      "yaw": 3.387040051626997
+    },
+    "tree.06.05.204": {
+      "asset": "tree_willow",
+      "yaw": 5.787002163471637
+    },
+    "tree.05.11.205": {
+      "asset": "tree_spruce",
+      "yaw": 1.9037789681366282
+    },
+    "tree.05.06.206": {
+      "asset": "tree_larch",
+      "yaw": 4.303741079981268
+    },
+    "tree.05.10.207": {
+      "asset": "tree_willow",
+      "yaw": 0.4205178846462591
+    },
+    "tree.05.06.208": {
+      "asset": "tree_birch",
+      "yaw": 2.8204799964908998
+    },
+    "tree.06.06.209": {
+      "asset": "tree_larch",
+      "yaw": 5.220442108335477
+    },
+    "tree.09.04.210": {
+      "asset": "tree_spruce",
+      "yaw": 1.337218913000467
+    },
+    "tree.05.06.211": {
+      "asset": "tree_birch",
+      "yaw": 3.7371810248451074
+    },
+    "tree.04.10.212": {
+      "asset": "tree_larch",
+      "yaw": 6.1371431366896845
+    },
+    "tree.07.04.213": {
+      "asset": "tree_willow",
+      "yaw": 2.2539199413547384
+    },
+    "tree.05.10.214": {
+      "asset": "tree_birch",
+      "yaw": 4.6538820531993155
+    },
+    "tree.05.06.215": {
+      "asset": "tree_spruce",
+      "yaw": 0.7706588578643694
+    },
+    "tree.05.11.216": {
+      "asset": "tree_willow",
+      "yaw": 3.1706209697089465
+    },
+    "tree.06.07.217": {
+      "asset": "tree_birch",
+      "yaw": 5.570583081553587
+    },
+    "tree.09.03.218": {
+      "asset": "tree_larch",
+      "yaw": 1.6873598862185772
+    },
+    "tree.09.04.219": {
+      "asset": "tree_willow",
+      "yaw": 4.087321998063218
+    },
+    "tree.05.07.220": {
+      "asset": "tree_spruce",
+      "yaw": 0.20409880272820827
+    },
+    "tree.10.04.221": {
+      "asset": "tree_larch",
+      "yaw": 2.6040609145728486
+    },
+    "tree.04.10.222": {
+      "asset": "tree_willow",
+      "yaw": 5.004023026417426
+    },
+    "tree.05.11.223": {
+      "asset": "tree_birch",
+      "yaw": 1.1207998310824796
+    },
+    "tree.05.11.224": {
+      "asset": "tree_larch",
+      "yaw": 3.5207619429270567
+    },
+    "tree.09.04.225": {
+      "asset": "tree_spruce",
+      "yaw": 5.920724054771633
+    },
+    "tree.05.10.226": {
+      "asset": "tree_birch",
+      "yaw": 2.0375008594366877
+    },
+    "tree.04.11.227": {
+      "asset": "tree_larch",
+      "yaw": 4.437462971281264
+    },
+    "tree.05.10.228": {
+      "asset": "tree_willow",
+      "yaw": 0.5542397759463186
+    },
+    "tree.05.07.229": {
+      "asset": "tree_birch",
+      "yaw": 2.9542018877908953
+    },
+    "tree.04.11.230": {
+      "asset": "tree_spruce",
+      "yaw": 5.354163999635536
+    },
+    "tree.05.10.231": {
+      "asset": "tree_willow",
+      "yaw": 1.4709408043005263
+    },
+    "tree.05.11.232": {
+      "asset": "tree_birch",
+      "yaw": 3.870902916145167
+    },
+    "tree.10.04.233": {
+      "asset": "tree_larch",
+      "yaw": 6.2708650279897435
+    },
+    "tree.06.07.234": {
+      "asset": "tree_willow",
+      "yaw": 2.387641832654798
+    },
+    "tree.06.06.235": {
+      "asset": "tree_spruce",
+      "yaw": 4.7876039444993745
+    },
+    "tree.08.03.236": {
+      "asset": "tree_larch",
+      "yaw": 0.9043807491644288
+    },
+    "tree.06.06.237": {
+      "asset": "tree_willow",
+      "yaw": 3.3043428610090055
+    },
+    "tree.05.07.238": {
+      "asset": "tree_birch",
+      "yaw": 5.704304972853646
+    },
+    "tree.04.11.239": {
+      "asset": "tree_larch",
+      "yaw": 1.8210817775187003
+    },
+    "tree.07.04.240": {
+      "asset": "tree_spruce",
+      "yaw": 4.221043889363213
+    },
+    "tree.06.08.241": {
+      "asset": "tree_birch",
+      "yaw": 0.33782069402826764
+    },
+    "tree.05.07.242": {
+      "asset": "tree_larch",
+      "yaw": 2.737782805872908
+    },
+    "tree.04.11.243": {
+      "asset": "tree_willow",
+      "yaw": 5.137744917717422
+    },
+    "tree.03.11.244": {
+      "asset": "tree_birch",
+      "yaw": 1.2545217223824756
+    },
+    "tree.09.03.245": {
+      "asset": "tree_spruce",
+      "yaw": 3.654483834227116
+    },
+    "tree.09.05.246": {
+      "asset": "tree_willow",
+      "yaw": 6.054445946071756
+    },
+    "tree.09.04.247": {
+      "asset": "tree_birch",
+      "yaw": 2.1712227507366832
+    },
+    "tree.05.12.248": {
+      "asset": "tree_larch",
+      "yaw": 4.571184862581324
+    },
+    "tree.06.07.249": {
+      "asset": "tree_willow",
+      "yaw": 0.687961667246378
+    },
+    "tree.04.11.250": {
+      "asset": "tree_spruce",
+      "yaw": 3.0879237790910183
+    },
+    "tree.05.07.251": {
+      "asset": "tree_larch",
+      "yaw": 5.487885890935532
+    },
+    "tree.05.10.252": {
+      "asset": "tree_willow",
+      "yaw": 1.6046626956005858
+    },
+    "tree.05.07.253": {
+      "asset": "tree_birch",
+      "yaw": 4.004624807445226
+    },
+    "tree.08.05.254": {
+      "asset": "tree_larch",
+      "yaw": 0.12140161211028029
+    },
+    "tree.04.11.255": {
+      "asset": "tree_spruce",
+      "yaw": 2.521363723954794
+    },
+    "tree.09.04.256": {
+      "asset": "tree_birch",
+      "yaw": 4.9213258357994345
+    },
+    "tree.06.07.257": {
+      "asset": "tree_larch",
+      "yaw": 1.0381026404644882
+    },
+    "tree.05.07.258": {
+      "asset": "tree_willow",
+      "yaw": 3.4380647523090015
+    },
+    "tree.04.11.259": {
+      "asset": "tree_birch",
+      "yaw": 5.838026864153642
+    },
+    "tree.05.07.260": {
+      "asset": "tree_spruce",
+      "yaw": 1.954803668818696
+    },
+    "tree.05.11.261": {
+      "asset": "tree_willow",
+      "yaw": 4.354765780663336
+    },
+    "tree.06.07.262": {
+      "asset": "tree_birch",
+      "yaw": 0.4715425853282636
+    },
+    "tree.09.04.263": {
+      "asset": "tree_larch",
+      "yaw": 2.871504697172904
+    },
+    "tree.07.05.264": {
+      "asset": "tree_willow",
+      "yaw": 5.271466809017545
+    },
+    "tree.05.06.265": {
+      "asset": "tree_spruce",
+      "yaw": 1.3882436136825984
+    },
+    "tree.08.03.266": {
+      "asset": "tree_larch",
+      "yaw": 3.7882057255271118
+    },
+    "tree.03.12.267": {
+      "asset": "tree_willow",
+      "yaw": 6.188167837371752
+    },
+    "tree.07.04.268": {
+      "asset": "tree_birch",
+      "yaw": 2.3049446420368063
+    },
+    "tree.09.04.269": {
+      "asset": "tree_larch",
+      "yaw": 4.704906753881446
+    },
+    "tree.05.05.270": {
+      "asset": "tree_spruce",
+      "yaw": 0.8216835585463739
+    },
+    "tree.08.04.271": {
+      "asset": "tree_birch",
+      "yaw": 3.2216456703910143
+    },
+    "tree.09.04.272": {
+      "asset": "tree_larch",
+      "yaw": 5.621607782235655
+    },
+    "tree.04.10.273": {
+      "asset": "tree_willow",
+      "yaw": 1.7383845869005818
+    },
+    "tree.09.04.274": {
+      "asset": "tree_birch",
+      "yaw": 4.138346698745222
+    },
+    "tree.09.04.275": {
+      "asset": "tree_spruce",
+      "yaw": 0.2551235034102762
+    },
+    "tree.05.10.276": {
+      "asset": "tree_willow",
+      "yaw": 2.6550856152549165
+    },
+    "tree.09.03.277": {
+      "asset": "tree_birch",
+      "yaw": 5.05504772709943
+    },
+    "tree.08.03.278": {
+      "asset": "tree_larch",
+      "yaw": 1.1718245317644842
+    },
+    "tree.06.09.279": {
+      "asset": "tree_willow",
+      "yaw": 3.5717866436091246
+    },
+    "tree.05.07.280": {
+      "asset": "tree_spruce",
+      "yaw": 5.971748755453765
+    },
+    "tree.04.11.281": {
+      "asset": "tree_larch",
+      "yaw": 2.088525560118692
+    },
+    "tree.06.07.282": {
+      "asset": "tree_willow",
+      "yaw": 4.488487671963332
+    },
+    "tree.03.11.283": {
+      "asset": "tree_birch",
+      "yaw": 0.6052644766283864
+    },
+    "tree.08.05.284": {
+      "asset": "tree_larch",
+      "yaw": 3.0052265884730267
+    },
+    "tree.06.04.285": {
+      "asset": "tree_spruce",
+      "yaw": 5.405188700317541
+    },
+    "tree.06.06.286": {
+      "asset": "tree_birch",
+      "yaw": 1.5219655049825944
+    },
+    "tree.06.07.287": {
+      "asset": "tree_larch",
+      "yaw": 3.921927616827235
+    },
+    "tree.04.10.288": {
+      "asset": "tree_willow",
+      "yaw": 0.03870442149228883
+    },
+    "tree.05.07.289": {
+      "asset": "tree_birch",
+      "yaw": 2.4386665333368023
+    },
+    "tree.05.11.290": {
+      "asset": "tree_spruce",
+      "yaw": 4.838628645181442
+    },
+    "tree.08.03.291": {
+      "asset": "tree_willow",
+      "yaw": 0.9554054498464968
+    },
+    "tree.05.06.292": {
+      "asset": "tree_birch",
+      "yaw": 3.3553675616910104
+    },
+    "tree.06.08.293": {
+      "asset": "tree_larch",
+      "yaw": 5.755329673535651
+    },
+    "tree.08.03.294": {
+      "asset": "tree_willow",
+      "yaw": 1.8721064782007046
+    },
+    "tree.08.05.295": {
+      "asset": "tree_spruce",
+      "yaw": 4.272068590045345
+    },
+    "tree.04.10.296": {
+      "asset": "tree_larch",
+      "yaw": 0.38884539471027213
+    },
+    "tree.05.10.297": {
+      "asset": "tree_willow",
+      "yaw": 2.7888075065549125
+    },
+    "tree.04.11.298": {
+      "asset": "tree_birch",
+      "yaw": 5.188769618399553
+    },
+    "tree.08.03.299": {
+      "asset": "tree_larch",
+      "yaw": 1.305546423064607
+    },
+    "tree.08.05.300": {
+      "asset": "tree_spruce",
+      "yaw": 3.7055085349091206
+    },
+    "tree.06.07.301": {
+      "asset": "tree_birch",
+      "yaw": 6.105470646753761
+    },
+    "tree.09.03.302": {
+      "asset": "tree_larch",
+      "yaw": 2.222247451418815
+    },
+    "tree.05.11.303": {
+      "asset": "tree_willow",
+      "yaw": 4.622209563263455
+    },
+    "tree.04.10.304": {
+      "asset": "tree_birch",
+      "yaw": 0.7389863679283823
+    },
+    "tree.03.11.305": {
+      "asset": "tree_spruce",
+      "yaw": 3.1389484797730227
+    },
+    "tree.09.05.306": {
+      "asset": "tree_willow",
+      "yaw": 5.538910591617663
+    },
+    "tree.09.04.307": {
+      "asset": "tree_birch",
+      "yaw": 1.6556873962825902
+    },
+    "tree.06.07.308": {
+      "asset": "tree_larch",
+      "yaw": 4.055649508127231
+    },
+    "tree.08.05.309": {
+      "asset": "tree_willow",
+      "yaw": 0.17242631279228474
+    },
+    "tree.04.11.310": {
+      "asset": "tree_spruce",
+      "yaw": 2.5723884246369253
+    },
+    "tree.10.04.311": {
+      "asset": "tree_larch",
+      "yaw": 4.972350536481438
+    },
+    "tree.05.11.312": {
+      "asset": "tree_willow",
+      "yaw": 1.0891273411464926
+    },
+    "tree.05.11.313": {
+      "asset": "tree_birch",
+      "yaw": 3.489089452991133
+    },
+    "tree.09.05.314": {
+      "asset": "tree_larch",
+      "yaw": 5.889051564835773
+    },
+    "tree.09.05.315": {
+      "asset": "tree_spruce",
+      "yaw": 2.0058283695007004
+    },
+    "tree.09.04.316": {
+      "asset": "tree_birch",
+      "yaw": 4.405790481345341
+    },
+    "tree.08.03.317": {
+      "asset": "tree_larch",
+      "yaw": 0.522567286010395
+    },
+    "tree.05.07.318": {
+      "asset": "tree_willow",
+      "yaw": 2.9225293978550355
+    },
+    "tree.06.06.319": {
+      "asset": "tree_birch",
+      "yaw": 5.322491509699549
+    },
+    "tree.04.11.320": {
+      "asset": "tree_spruce",
+      "yaw": 1.439268314364603
+    },
+    "tree.06.06.321": {
+      "asset": "tree_willow",
+      "yaw": 3.839230426209243
+    },
+    "tree.09.05.322": {
+      "asset": "tree_birch",
+      "yaw": 6.239192538053757
+    },
+    "tree.05.11.323": {
+      "asset": "tree_larch",
+      "yaw": 2.3559693427188106
+    },
+    "tree.05.10.324": {
+      "asset": "tree_willow",
+      "yaw": 4.755931454563451
+    },
+    "tree.09.04.325": {
+      "asset": "tree_spruce",
+      "yaw": 0.8727082592285053
+    },
+    "tree.08.03.326": {
+      "asset": "tree_larch",
+      "yaw": 3.2726703710730187
+    },
+    "tree.05.11.327": {
+      "asset": "tree_willow",
+      "yaw": 5.672632482917659
+    },
+    "tree.11.02.328": {
+      "asset": "tree_birch",
+      "yaw": 1.7894092875827132
+    },
+    "tree.05.07.329": {
+      "asset": "tree_larch",
+      "yaw": 4.189371399427354
+    },
+    "tree.06.09.330": {
+      "asset": "tree_spruce",
+      "yaw": 0.30614820409228066
+    },
+    "tree.04.10.331": {
+      "asset": "tree_birch",
+      "yaw": 2.706110315936921
+    },
+    "tree.06.06.332": {
+      "asset": "tree_larch",
+      "yaw": 5.1060724277815615
+    },
+    "tree.08.04.333": {
+      "asset": "tree_willow",
+      "yaw": 1.2228492324466156
+    },
+    "tree.08.04.334": {
+      "asset": "tree_birch",
+      "yaw": 3.622811344291129
+    },
+    "tree.04.11.335": {
+      "asset": "tree_spruce",
+      "yaw": 6.022773456135769
+    },
+    "tree.05.11.336": {
+      "asset": "tree_willow",
+      "yaw": 2.1395502608008234
+    },
+    "tree.05.07.337": {
+      "asset": "tree_birch",
+      "yaw": 4.539512372645337
+    },
+    "tree.09.04.338": {
+      "asset": "tree_larch",
+      "yaw": 0.6562891773103909
+    },
+    "tree.08.04.339": {
+      "asset": "tree_willow",
+      "yaw": 3.0562512891550315
+    },
+    "tree.10.02.340": {
+      "asset": "tree_spruce",
+      "yaw": 5.456213400999672
+    },
+    "tree.05.06.341": {
+      "asset": "tree_larch",
+      "yaw": 1.5729902056645988
+    },
+    "tree.09.04.342": {
+      "asset": "tree_willow",
+      "yaw": 3.972952317509239
+    },
+    "tree.10.04.343": {
+      "asset": "tree_birch",
+      "yaw": 0.08972912217429328
+    },
+    "tree.05.06.344": {
+      "asset": "tree_larch",
+      "yaw": 2.4896912340189337
+    },
+    "tree.08.05.345": {
+      "asset": "tree_spruce",
+      "yaw": 4.889653345863447
+    },
+    "tree.04.12.346": {
+      "asset": "tree_birch",
+      "yaw": 1.0064301505285012
+    },
+    "tree.09.03.347": {
+      "asset": "tree_larch",
+      "yaw": 3.4063922623731417
+    },
+    "tree.07.07.348": {
+      "asset": "tree_willow",
+      "yaw": 5.806354374217782
+    },
+    "tree.07.04.349": {
+      "asset": "tree_birch",
+      "yaw": 1.923131178882709
+    },
+    "tree.09.05.350": {
+      "asset": "tree_spruce",
+      "yaw": 4.32309329072735
+    },
+    "tree.10.04.351": {
+      "asset": "tree_willow",
+      "yaw": 0.4398700953924035
+    },
+    "tree.05.11.352": {
+      "asset": "tree_birch",
+      "yaw": 2.839832207236917
+    },
+    "tree.09.04.353": {
+      "asset": "tree_larch",
+      "yaw": 5.2397943190815575
+    },
+    "tree.04.11.354": {
+      "asset": "tree_willow",
+      "yaw": 1.3565711237466114
+    },
+    "tree.04.10.355": {
+      "asset": "tree_spruce",
+      "yaw": 3.756533235591252
+    },
+    "tree.04.12.356": {
+      "asset": "tree_larch",
+      "yaw": 6.156495347435765
+    },
+    "tree.05.11.357": {
+      "asset": "tree_willow",
+      "yaw": 2.2732721521008195
+    },
+    "tree.08.04.358": {
+      "asset": "tree_birch",
+      "yaw": 4.67323426394546
+    },
+    "tree.09.05.359": {
+      "asset": "tree_larch",
+      "yaw": 0.7900110686105138
+    }
+  },
+  "props": [
+    {
+      "id": "env.prop.000",
+      "asset": "rock_split",
+      "position": [
+        -110.4090207417832,
+        1.6037215705566006,
+        137.18230966520923
+      ],
+      "yaw": 1.335971922555498,
+      "scale": 0.6780637841138232,
+      "region": [
+        3,
+        12
+      ],
+      "route_clearance_m": 11.636118122839683,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.001",
+      "asset": "rock_split",
+      "position": [
+        -84.91515874380279,
+        1.5383813423662276,
+        141.302047310598
+      ],
+      "yaw": 0.5143501130016882,
+      "scale": 0.6644063267495034,
+      "region": [
+        4,
+        12
+      ],
+      "route_clearance_m": 12.283419553034143,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.002",
+      "asset": "branch_bundle",
+      "position": [
+        -91.03691304100514,
+        1.17460248214462,
+        140.3127887339256
+      ],
+      "yaw": 0.4115146540179335,
+      "scale": 1,
+      "region": [
+        4,
+        12
+      ],
+      "route_clearance_m": 6.277299675551601,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.003",
+      "asset": "rock_low",
+      "position": [
+        -105.72822574430491,
+        1.2450973373291372,
+        118.70013747176199
+      ],
+      "yaw": 4.214077677445121,
+      "scale": 0.746151034676854,
+      "region": [
+        3,
+        11
+      ],
+      "route_clearance_m": 10.442643392081097,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.004",
+      "asset": "rock_round",
+      "position": [
+        -86.01378052903186,
+        1.2745645189427568,
+        123.70081867934029
+      ],
+      "yaw": 6.067619294233663,
+      "scale": 0.7012421573261614,
+      "region": [
+        4,
+        11
+      ],
+      "route_clearance_m": 7.712261611608815,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.005",
+      "asset": "rock_split",
+      "position": [
+        -99.5279511453021,
+        0.6206994946415024,
+        102.50370711946415
+      ],
+      "yaw": 6.257743864028992,
+      "scale": 1.0884184856297214,
+      "region": [
+        3,
+        11
+      ],
+      "route_clearance_m": 9.515967307818343,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.006",
+      "asset": "rock_low",
+      "position": [
+        -80.90224158981786,
+        1.1322205585635798,
+        111.52418136966573
+      ],
+      "yaw": 2.793824112504594,
+      "scale": 0.9712563233635574,
+      "region": [
+        4,
+        11
+      ],
+      "route_clearance_m": 8.176954879972797,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.007",
+      "asset": "branch_bundle",
+      "position": [
+        -84.3787015392063,
+        1.338743067597569,
+        109.84052376929893
+      ],
+      "yaw": 2.005363271806255,
+      "scale": 1,
+      "region": [
+        4,
+        11
+      ],
+      "route_clearance_m": 5.023094187298806,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.008",
+      "asset": "rock_low",
+      "position": [
+        -82.46404450606269,
+        0.7801632486524389,
+        85.03209014064265
+      ],
+      "yaw": 3.648076500909458,
+      "scale": 0.6721984027159154,
+      "region": [
+        4,
+        10
+      ],
+      "route_clearance_m": 8.616107038390009,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.009",
+      "asset": "rock_split",
+      "position": [
+        -69.05454778300819,
+        1.2492307372474898,
+        104.47063961700145
+      ],
+      "yaw": 1.3549506740462816,
+      "scale": 1.079674365329232,
+      "region": [
+        4,
+        11
+      ],
+      "route_clearance_m": 12.457493831894018,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.010",
+      "asset": "branch_bundle",
+      "position": [
+        -80.41197980555583,
+        1.5033589207246862,
+        88.00678501796132
+      ],
+      "yaw": 3.57435633822346,
+      "scale": 1,
+      "region": [
+        4,
+        10
+      ],
+      "route_clearance_m": 5.262150865088011,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.011",
+      "asset": "rock_round",
+      "position": [
+        -65.70047526969367,
+        1.4501873811728372,
+        76.2250572744725
+      ],
+      "yaw": 2.3048329623099093,
+      "scale": 1.0978813304476205,
+      "region": [
+        4,
+        10
+      ],
+      "route_clearance_m": 7.34292719675877,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.012",
+      "asset": "rock_split",
+      "position": [
+        -56.15882905968687,
+        1.917571557886694,
+        95.20413268491255
+      ],
+      "yaw": 4.355800000189938,
+      "scale": 0.7359262757224126,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 11.187856584091595,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.013",
+      "asset": "branch_bundle",
+      "position": [
+        -58.43957138900689,
+        1.8121018017675279,
+        90.66755904685931
+      ],
+      "yaw": 2.526512557586183,
+      "scale": 1,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 6.4067735790911335,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.014",
+      "asset": "rock_low",
+      "position": [
+        -49.62670722461196,
+        2.121494364209606,
+        65.38634396416703
+      ],
+      "yaw": 0.814173536008502,
+      "scale": 0.7206616780155839,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 10.192892577675996,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.015",
+      "asset": "rock_low",
+      "position": [
+        -38.73176551943723,
+        2.6705762898775998,
+        84.42649117820014
+      ],
+      "yaw": 4.094633653564865,
+      "scale": 0.7766758763255004,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 9.49930762924836,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.016",
+      "asset": "branch_bundle",
+      "position": [
+        -40.58184589967123,
+        2.2816868031174593,
+        81.19326572819901
+      ],
+      "yaw": 2.854629939839133,
+      "scale": 1,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 6.190676686471283,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.017",
+      "asset": "rock_low",
+      "position": [
+        -23.302391610743165,
+        2.812694205572055,
+        71.84946678760022
+      ],
+      "yaw": 4.880595377913242,
+      "scale": 0.9582136757371876,
+      "region": [
+        6,
+        10
+      ],
+      "route_clearance_m": 8.143420214815531,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.018",
+      "asset": "rock_round",
+      "position": [
+        -29.46705995174633,
+        3.321166724838907,
+        45.41828363554305
+      ],
+      "yaw": 0.3117987810752786,
+      "scale": 0.9358985059967522,
+      "region": [
+        6,
+        9
+      ],
+      "route_clearance_m": 11.844816679263642,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.019",
+      "asset": "rock_low",
+      "position": [
+        -9.544531829606786,
+        3.007384191924232,
+        63.98133368722223
+      ],
+      "yaw": 1.10369587485115,
+      "scale": 0.8850888401247254,
+      "region": [
+        6,
+        9
+      ],
+      "route_clearance_m": 12.637281991599528,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.020",
+      "asset": "branch_bundle",
+      "position": [
+        -25.761398686057085,
+        3.1527088636972547,
+        48.8710771328259
+      ],
+      "yaw": 3.584531298955678,
+      "scale": 1,
+      "region": [
+        6,
+        9
+      ],
+      "route_clearance_m": 7.453562191688216,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.021",
+      "asset": "rock_low",
+      "position": [
+        -20.20473496642149,
+        3.928747347805855,
+        33.70990867295628
+      ],
+      "yaw": 4.264429999372728,
+      "scale": 0.7737109170476149,
+      "region": [
+        6,
+        9
+      ],
+      "route_clearance_m": 12.76859382111283,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.022",
+      "asset": "rock_low",
+      "position": [
+        0.2884764740935388,
+        3.4452319243910567,
+        49.86879098788425
+      ],
+      "yaw": 2.8324078686592644,
+      "scale": 0.9621761020317816,
+      "region": [
+        7,
+        9
+      ],
+      "route_clearance_m": 10.726645535647968,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.023",
+      "asset": "stump",
+      "position": [
+        -16.727205555226895,
+        3.8334441722188313,
+        36.451938084271525
+      ],
+      "yaw": 2.3815012163890947,
+      "scale": 1,
+      "region": [
+        6,
+        9
+      ],
+      "route_clearance_m": 8.618658946153456,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.024",
+      "asset": "rock_round",
+      "position": [
+        -10.468680519475301,
+        4.537598057071326,
+        24.93669481716563
+      ],
+      "yaw": 1.6760523190929784,
+      "scale": 0.9897430674822904,
+      "region": [
+        6,
+        8
+      ],
+      "route_clearance_m": 9.41128997175557,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.025",
+      "asset": "rock_round",
+      "position": [
+        8.584546297253505,
+        4.587235871443963,
+        35.99993497366037
+      ],
+      "yaw": 4.220482101370361,
+      "scale": 0.8204284645784068,
+      "region": [
+        7,
+        9
+      ],
+      "route_clearance_m": 9.871348667667371,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.026",
+      "asset": "branch_bundle",
+      "position": [
+        5.601658853042247,
+        4.51440720386955,
+        34.26792388322778
+      ],
+      "yaw": 6.081008792087914,
+      "scale": 1,
+      "region": [
+        7,
+        9
+      ],
+      "route_clearance_m": 6.920381193720594,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.027",
+      "asset": "rock_split",
+      "position": [
+        -4.993043993014437,
+        5.117176125096381,
+        14.866698831156315
+      ],
+      "yaw": 5.670103919773672,
+      "scale": 0.9277400344701419,
+      "region": [
+        6,
+        8
+      ],
+      "route_clearance_m": 8.4170473199172,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.028",
+      "asset": "rock_low",
+      "position": [
+        -6.658727658376563,
+        5.134418457650101,
+        7.948213392094171
+      ],
+      "yaw": 6.08125567170584,
+      "scale": 0.8381205296402313,
+      "region": [
+        6,
+        8
+      ],
+      "route_clearance_m": 9.074028766625712,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.029",
+      "asset": "rock_split",
+      "position": [
+        11.934651848350885,
+        5.812705265028346,
+        -3.9623262092100644
+      ],
+      "yaw": 5.042851682255197,
+      "scale": 0.9229816619974873,
+      "region": [
+        7,
+        7
+      ],
+      "route_clearance_m": 10.439348018709671,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.030",
+      "asset": "rock_round",
+      "position": [
+        -14.64802790677302,
+        4.27767056755461,
+        1.2652100473272583
+      ],
+      "yaw": 1.2072950403676155,
+      "scale": 1.0033635088663402,
+      "region": [
+        6,
+        8
+      ],
+      "route_clearance_m": 10.454665761751295,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.031",
+      "asset": "rock_low",
+      "position": [
+        0.8252639563200619,
+        4.8333919863139725,
+        -14.684530996285925
+      ],
+      "yaw": 1.2775449205147562,
+      "scale": 0.8762702630388206,
+      "region": [
+        7,
+        7
+      ],
+      "route_clearance_m": 8.929624714863117,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.032",
+      "asset": "branch_bundle",
+      "position": [
+        -12.054921389435904,
+        4.79494490010435,
+        -1.4077426647380467
+      ],
+      "yaw": 2.1662045334135485,
+      "scale": 1,
+      "region": [
+        6,
+        7
+      ],
+      "route_clearance_m": 7.50678367437697,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.033",
+      "asset": "rock_split",
+      "position": [
+        -21.39075399876866,
+        4.150828089294174,
+        -8.305915540621761
+      ],
+      "yaw": 5.7576786880093005,
+      "scale": 0.717277893296833,
+      "region": [
+        6,
+        7
+      ],
+      "route_clearance_m": 8.362271596688752,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.034",
+      "asset": "rock_split",
+      "position": [
+        -6.650833237025447,
+        4.257244375846749,
+        -25.399770299073303
+      ],
+      "yaw": 0.9911367049612219,
+      "scale": 1.0618546783293215,
+      "region": [
+        6,
+        7
+      ],
+      "route_clearance_m": 11.68436062470316,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.035",
+      "asset": "branch_bundle",
+      "position": [
+        -10.759163866419861,
+        4.725098038439613,
+        -20.63534800578409
+      ],
+      "yaw": 4.235660490445773,
+      "scale": 1,
+      "region": [
+        6,
+        7
+      ],
+      "route_clearance_m": 6.1522996508678975,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.036",
+      "asset": "rock_low",
+      "position": [
+        -35.47128720226355,
+        3.271435100640871,
+        -15.38059058275344
+      ],
+      "yaw": 4.178205519276169,
+      "scale": 0.839812648894695,
+      "region": [
+        5,
+        7
+      ],
+      "route_clearance_m": 12.023149610358779,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.037",
+      "asset": "rock_split",
+      "position": [
+        -20.063580653427465,
+        4.40235872916506,
+        -32.323368471023926
+      ],
+      "yaw": 1.7241505314446117,
+      "scale": 0.8273531765106081,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 8.444781763233115,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.038",
+      "asset": "branch_bundle",
+      "position": [
+        -31.716844131450358,
+        4.303447751129711,
+        -19.509089190987208
+      ],
+      "yaw": 0.22716095638094355,
+      "scale": 1,
+      "region": [
+        6,
+        7
+      ],
+      "route_clearance_m": 6.953933886839087,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.039",
+      "asset": "rock_low",
+      "position": [
+        -48.618624796040045,
+        4.479274150458382,
+        -30.018885561523106
+      ],
+      "yaw": 5.940772930634808,
+      "scale": 0.8395196700071439,
+      "region": [
+        5,
+        7
+      ],
+      "route_clearance_m": 12.017978007653412,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.040",
+      "asset": "rock_round",
+      "position": [
+        -29.498800203135268,
+        4.606223959969514,
+        -42.16901922752026
+      ],
+      "yaw": 0.3941508824289688,
+      "scale": 1.0038913869800214,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 7.845861700388942,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.041",
+      "asset": "branch_bundle",
+      "position": [
+        -32.61180358776971,
+        4.461438445395096,
+        -40.19078940421707
+      ],
+      "yaw": 0.13849662171019617,
+      "scale": 1,
+      "region": [
+        5,
+        6
+      ],
+      "route_clearance_m": 4.937071073704528,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.042",
+      "asset": "rock_low",
+      "position": [
+        -51.49080134556836,
+        5.163710809201766,
+        -54.296029847167176
+      ],
+      "yaw": 3.6342256255281993,
+      "scale": 0.9486072429309851,
+      "region": [
+        5,
+        6
+      ],
+      "route_clearance_m": 11.95042231613346,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.043",
+      "asset": "rock_round",
+      "position": [
+        -27.04831236566161,
+        5.085043285363497,
+        -44.953041323451416
+      ],
+      "yaw": 4.352223189272362,
+      "scale": 0.9495331433480588,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 11.339458186770825,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.044",
+      "asset": "branch_bundle",
+      "position": [
+        -31.31929791684493,
+        4.837561860968633,
+        -46.58559883518702
+      ],
+      "yaw": 1.627809077893259,
+      "scale": 1,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 7.466204416943955,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.045",
+      "asset": "rock_round",
+      "position": [
+        -38.511075308052845,
+        6.0265491552563475,
+        -72.28390546138894
+      ],
+      "yaw": 1.0937260107448508,
+      "scale": 0.8246236514709863,
+      "region": [
+        5,
+        5
+      ],
+      "route_clearance_m": 12.299502782240058,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.046",
+      "asset": "rock_low",
+      "position": [
+        -20.41263300458175,
+        6.2251069322863355,
+        -52.818070561417464
+      ],
+      "yaw": 4.201721481107744,
+      "scale": 0.802259720853489,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 11.824610399103673,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.047",
+      "asset": "branch_bundle",
+      "position": [
+        -23.55712309660519,
+        5.6908174097109026,
+        -56.20013648452649
+      ],
+      "yaw": 5.986036147116843,
+      "scale": 1,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 7.661548538176123,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.048",
+      "asset": "rock_round",
+      "position": [
+        -24.466003312719923,
+        6.700835427960709,
+        -81.77025573165616
+      ],
+      "yaw": 4.997403725244556,
+      "scale": 0.8006631307641487,
+      "region": [
+        6,
+        5
+      ],
+      "route_clearance_m": 10.94516923145776,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.049",
+      "asset": "rock_round",
+      "position": [
+        -11.17380314241937,
+        6.661776453108361,
+        -63.20060139027604
+      ],
+      "yaw": 5.069832363530762,
+      "scale": 1.030265800132363,
+      "region": [
+        6,
+        6
+      ],
+      "route_clearance_m": 9.110610986739749,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.050",
+      "asset": "branch_bundle",
+      "position": [
+        -21.290771001547576,
+        6.210598615717058,
+        -77.33434852919046
+      ],
+      "yaw": 0.13289273182455752,
+      "scale": 1,
+      "region": [
+        6,
+        5
+      ],
+      "route_clearance_m": 5.958238813923408,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.051",
+      "asset": "rock_round",
+      "position": [
+        -12.344698646963266,
+        6.807168299395241,
+        -86.72759268457173
+      ],
+      "yaw": 2.318368305676924,
+      "scale": 0.7705416372735086,
+      "region": [
+        6,
+        5
+      ],
+      "route_clearance_m": 8.27524808204226,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.052",
+      "asset": "rock_low",
+      "position": [
+        -2.4331530344585426,
+        6.817129993914472,
+        -71.56888935080418
+      ],
+      "yaw": 3.9222563852492884,
+      "scale": 0.784673417571512,
+      "region": [
+        6,
+        5
+      ],
+      "route_clearance_m": 7.4896229007217165,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.053",
+      "asset": "rock_round",
+      "position": [
+        0.14660852394981294,
+        6.9078581986134635,
+        -97.43027810086072
+      ],
+      "yaw": 4.742315760729745,
+      "scale": 0.787066578914364,
+      "region": [
+        7,
+        4
+      ],
+      "route_clearance_m": 10.45705728724217,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.054",
+      "asset": "rock_round",
+      "position": [
+        13.433591452691338,
+        7.018136789987404,
+        -77.21537593111023
+      ],
+      "yaw": 0.3944948936076486,
+      "scale": 0.8098013537689703,
+      "region": [
+        7,
+        5
+      ],
+      "route_clearance_m": 11.308184773560813,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.055",
+      "asset": "branch_bundle",
+      "position": [
+        2.4603348672828256,
+        7.20524855209271,
+        -93.9101598069719
+      ],
+      "yaw": 1.0990513652120788,
+      "scale": 1,
+      "region": [
+        7,
+        5
+      ],
+      "route_clearance_m": 6.692266951933253,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.056",
+      "asset": "rock_round",
+      "position": [
+        11.49527182822411,
+        6.696491169790937,
+        -106.66021655564111
+      ],
+      "yaw": 2.46463082536379,
+      "scale": 0.8293339568960996,
+      "region": [
+        7,
+        4
+      ],
+      "route_clearance_m": 12.28612170824693,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.057",
+      "asset": "rock_split",
+      "position": [
+        29.382272862538183,
+        6.966027931633375,
+        -114.03317150267833
+      ],
+      "yaw": 6.106163220913794,
+      "scale": 0.8499842474983639,
+      "region": [
+        7,
+        4
+      ],
+      "route_clearance_m": 11.580392608956947,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.058",
+      "asset": "rock_round",
+      "position": [
+        37.74638734090519,
+        7.641456455235754,
+        -93.88416104584613
+      ],
+      "yaw": 3.1692943897972152,
+      "scale": 0.8209793006519691,
+      "region": [
+        8,
+        5
+      ],
+      "route_clearance_m": 7.782572790026438,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.059",
+      "asset": "branch_bundle",
+      "position": [
+        31.212240701856125,
+        7.720345693030227,
+        -109.62480989722089
+      ],
+      "yaw": 4.13122698747942,
+      "scale": 1,
+      "region": [
+        7,
+        4
+      ],
+      "route_clearance_m": 7.265692756421816,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.060",
+      "asset": "rock_low",
+      "position": [
+        42.79785061191259,
+        7.611077767061261,
+        -120.66833177689469
+      ],
+      "yaw": 4.2846586743617125,
+      "scale": 0.7320186324098652,
+      "region": [
+        8,
+        4
+      ],
+      "route_clearance_m": 12.660662299842894,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.061",
+      "asset": "rock_round",
+      "position": [
+        52.92317821225982,
+        8.115292334710709,
+        -97.32902819690531
+      ],
+      "yaw": 5.225914217518536,
+      "scale": 0.817850873858123,
+      "region": [
+        8,
+        4
+      ],
+      "route_clearance_m": 10.440819520398822,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.062",
+      "asset": "branch_bundle",
+      "position": [
+        44.967360364022845,
+        8.078100686021662,
+        -115.6675210650998
+      ],
+      "yaw": 5.386263229196507,
+      "scale": 1,
+      "region": [
+        8,
+        4
+      ],
+      "route_clearance_m": 7.559087098817797,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.063",
+      "asset": "rock_low",
+      "position": [
+        70.81398337690884,
+        9.280406051075417,
+        -105.21258886100748
+      ],
+      "yaw": 2.0439302168667273,
+      "scale": 0.98089651603485,
+      "region": [
+        9,
+        4
+      ],
+      "route_clearance_m": 11.232454744418867,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.064",
+      "asset": "rock_split",
+      "position": [
+        68.51108482170936,
+        9.05499833875815,
+        -131.0770794764794
+      ],
+      "yaw": 5.884501779412466,
+      "scale": 0.7105283809531632,
+      "region": [
+        9,
+        3
+      ],
+      "route_clearance_m": 8.47201478027592,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.065",
+      "asset": "rock_split",
+      "position": [
+        80.73005663987662,
+        9.296709913911627,
+        -117.37512396000092
+      ],
+      "yaw": 5.879785363767527,
+      "scale": 0.9836394042078449,
+      "region": [
+        9,
+        4
+      ],
+      "route_clearance_m": 7.482559845957872,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.066",
+      "asset": "rock_low",
+      "position": [
+        80.58132735376321,
+        9.846369742560938,
+        -144.19680377200268
+      ],
+      "yaw": 3.2676820366029324,
+      "scale": 0.6664561129576667,
+      "region": [
+        9,
+        3
+      ],
+      "route_clearance_m": 9.065740584527266,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.067",
+      "asset": "rock_round",
+      "position": [
+        96.67297876622393,
+        9.731391183852928,
+        -129.80198097490458
+      ],
+      "yaw": 0.7274738386821008,
+      "scale": 0.7662128593304066,
+      "region": [
+        10,
+        3
+      ],
+      "route_clearance_m": 10.361995599083746,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.068",
+      "asset": "branch_bundle",
+      "position": [
+        93.12985838583971,
+        9.963183504720103,
+        -132.9714872435355
+      ],
+      "yaw": 6.20172277819885,
+      "scale": 1,
+      "region": [
+        9,
+        3
+      ],
+      "route_clearance_m": 6.0240662018872095,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.069",
+      "asset": "rock_split",
+      "position": [
+        91.3923531205558,
+        10.595099629425368,
+        -155.31015677070803
+      ],
+      "yaw": 0.841260931255269,
+      "scale": 0.9874190471069757,
+      "region": [
+        9,
+        3
+      ],
+      "route_clearance_m": 7.650470187286123,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.070",
+      "asset": "rock_split",
+      "position": [
+        105.28719994974574,
+        10.567170878931702,
+        -143.89653258958273
+      ],
+      "yaw": 0.49362876773900183,
+      "scale": 0.8723345558747462,
+      "region": [
+        10,
+        3
+      ],
+      "route_clearance_m": 7.69201298563145,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.071",
+      "asset": "rock_low",
+      "position": [
+        102.16799375034867,
+        11.57263287547028,
+        -171.72187132089834
+      ],
+      "yaw": 5.274552496101394,
+      "scale": 0.9241046773675929,
+      "region": [
+        10,
+        2
+      ],
+      "route_clearance_m": 9.562531145906856,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.072",
+      "asset": "rock_round",
+      "position": [
+        118.594362333255,
+        11.902278092761495,
+        -158.44722271116177
+      ],
+      "yaw": 2.9580666776376026,
+      "scale": 0.8814002765091282,
+      "region": [
+        10,
+        3
+      ],
+      "route_clearance_m": 8.833178807430468,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.073",
+      "asset": "wood_stack",
+      "position": [
+        -110.8,
+        1.00088529586792,
+        154.8
+      ],
+      "yaw": 0.15,
+      "scale": 1,
+      "region": [
+        3,
+        12
+      ],
+      "route_clearance_m": 11.039505505362733,
+      "resource_anchor": true,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.074",
+      "asset": "fence_short",
+      "position": [
+        -111.2,
+        1.0012186527252198,
+        148.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        3,
+        12
+      ],
+      "route_clearance_m": 9.907663369265407,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.075",
+      "asset": "fence_broken",
+      "position": [
+        -111.2,
+        1.0005365848541259,
+        152.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        3,
+        12
+      ],
+      "route_clearance_m": 9.856580292144136,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.076",
+      "asset": "fence_short",
+      "position": [
+        -41.2,
+        2.4884049892425537,
+        62.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        5,
+        9
+      ],
+      "route_clearance_m": 8.097797503137738,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.077",
+      "asset": "fence_broken",
+      "position": [
+        -41.2,
+        2.4878745555877684,
+        66.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        5,
+        10
+      ],
+      "route_clearance_m": 4.785187911183714,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.078",
+      "asset": "fence_short",
+      "position": [
+        58.8,
+        8.874958419799805,
+        -124.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        8,
+        4
+      ],
+      "route_clearance_m": 8.12001860949141,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    },
+    {
+      "id": "env.prop.079",
+      "asset": "fence_broken",
+      "position": [
+        58.8,
+        8.875584983825684,
+        -120.0
+      ],
+      "yaw": 1.5707963267948966,
+      "scale": 1,
+      "region": [
+        8,
+        4
+      ],
+      "route_clearance_m": 4.615213353475351,
+      "resource_anchor": false,
+      "pickup_enabled": false
+    }
+  ],
+  "route_signs": [
+    {
+      "id": "env.sign.00",
+      "asset": "way_sign",
+      "position": [
+        -88.92118783589274,
+        1.2482220070472554,
+        121.07937896726447
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "储物屋",
+      "backward": "安全小屋",
+      "route_m": 30.909523868334713
+    },
+    {
+      "id": "env.sign.01",
+      "asset": "way_sign",
+      "position": [
+        -50.35438607402912,
+        2.0257648501196335,
+        84.55208444954116
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "储物屋",
+      "backward": "安全小屋",
+      "route_m": 91.01657485076882
+    },
+    {
+      "id": "env.sign.02",
+      "asset": "way_sign",
+      "position": [
+        -4.371898715257348,
+        3.84850556877172,
+        44.677707423839166
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "北坡营地",
+      "backward": "安全小屋",
+      "route_m": 150.16476320433588
+    },
+    {
+      "id": "env.sign.03",
+      "asset": "way_sign",
+      "position": [
+        -5.584710308595476,
+        5.002946740401737,
+        -13.928553904266343
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "北坡营地",
+      "backward": "安全小屋",
+      "route_m": 210.13939895449937
+    },
+    {
+      "id": "env.sign.04",
+      "asset": "way_sign",
+      "position": [
+        -30.208609314453184,
+        5.057632111049329,
+        -53.75528435716513
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "北坡营地",
+      "backward": "溪弯营地",
+      "route_m": 271.390448774237
+    },
+    {
+      "id": "env.sign.05",
+      "asset": "way_sign",
+      "position": [
+        16.132228675598903,
+        7.63063907623291,
+        -87.63860446595193
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "林间小屋",
+      "backward": "溪弯营地",
+      "route_m": 330.80148375439086
+    },
+    {
+      "id": "env.sign.06",
+      "asset": "way_sign",
+      "position": [
+        69.69408967407483,
+        8.874774648407582,
+        -113.27781670942993
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "林间小屋",
+      "backward": "溪弯营地",
+      "route_m": 390.0308302331758
+    },
+    {
+      "id": "env.sign.07",
+      "asset": "way_sign",
+      "position": [
+        112.62103246469643,
+        11.527747709138774,
+        -158.78941964476383
+      ],
+      "yaw": 0,
+      "scale": 1,
+      "forward": "林间小屋",
+      "backward": "溪弯营地",
+      "route_m": 451.18332569815607
+    }
+  ],
+  "camps": {
+    "camp.west": {
+      "asset": "camp_shelter",
+      "position": [
+        11.0,
+        5.16387844085693,
+        12.0
+      ],
+      "entry": [
+        8.0,
+        5.16387844085693,
+        13.0
+      ],
+      "label": "溪弯营地",
+      "lit": false,
+      "heating_enabled": false
+    },
+    "camp.east": {
+      "asset": "camp_tarp",
+      "position": [
+        16.0,
+        7.63063907623291,
+        -88.0
+      ],
+      "entry": [
+        13.0,
+        7.63063907623291,
+        -87.0
+      ],
+      "label": "北坡营地",
+      "lit": false,
+      "heating_enabled": false
+    }
+  },
+  "navigation": "res://assets/environment/v2/corridor_navigation.res",
+  "navigation_scope": "Prepared main corridor/site approaches; full bear navigation remains M10.",
+  "decisions": {
+    "M6_accepted": "沿用当前效果，继续M7（推荐）",
+    "trees": "落叶冬树为主，少量覆雪针叶树，保留雪面留白",
+    "camps": "溪弯半开放木棚、北坡篷布，均配石圈火塘、木柴和坐凳",
+    "road": "少量半埋岩石、枯枝木柴、断续木栏和木路牌，保持自然雪路"
+  },
+  "tree_count": 360,
+  "prop_count": 80,
+  "sign_count": 8,
+  "minimum_prop_route_clearance_m": 4.615213353475351
+}

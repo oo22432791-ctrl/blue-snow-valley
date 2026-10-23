@@ -1,0 +1,80 @@
+{
+  "asset": "fence_broken",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "prop",
+  "collisions": [
+    {
+      "name": "FencePost",
+      "kind": "box",
+      "at": [
+        -1.350000023841858,
+        0.550000011920929,
+        0.0
+      ],
+      "size": [
+        0.2200000286102295,
+        1.350000023841858,
+        0.2199999988079071
+      ]
+    },
+    {
+      "name": "FencePost",
+      "kind": "box",
+      "at": [
+        1.350000023841858,
+        0.550000011920929,
+        0.0
+      ],
+      "size": [
+        0.2200000286102295,
+        1.350000023841858,
+        0.2199999988079071
+      ]
+    },
+    {
+      "name": "FenceRail",
+      "kind": "box",
+      "at": [
+        0.0,
+        0.4300000071525574,
+        0.0
+      ],
+      "size": [
+        2.700000047683716,
+        0.13999998569488525,
+        0.14000000059604645
+      ]
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/fence_broken.blend",
+  "source_sha256": "ab84898d635accd5691bace0c236c552438cb5250a157940ac2b4e0a336f1994",
+  "glb_sha256": "dade90a78da1de316eb3d19b63d764124ebb4519778ffa281a2c5325928f74e8",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 420
+  },
+  "triangles": 420,
+  "mesh_count": 1,
+  "bounds_min": [
+    -1.465000033378601,
+    -0.12196823954582214,
+    -0.11500000208616257
+  ],
+  "bounds_max": [
+    1.465000033378601,
+    1.284999966621399,
+    0.40739211440086365
+  ],
+  "materials": [
+    "env_snow",
+    "env_timber",
+    "env_twig"
+  ]
+}

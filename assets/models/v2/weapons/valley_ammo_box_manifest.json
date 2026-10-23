@@ -1,0 +1,7 @@
+{
+  "source": "source_art/blender/v2/valley_ammo_box.blend",
+  "source_sha256": "7af56657b65a175f9ec9be4222c170c0315e27805119da9b9b0f00d105f7f863",
+  "glb_sha256": "001356c861afb6563aa776bd044744f78f7cb188597e5f37b5be1cbc8698e2ef",
+  "rounds": 4,
+  "notes": "Original editable tabletop supply box, no physics collision."
+}

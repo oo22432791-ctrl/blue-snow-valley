@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="PackedScene" path="res://scenes/characters/player.tscn" id="1_body"]
+[ext_resource type="Script" path="res://scripts/ai/snow_companion.gd" id="2_ai"]
+
+[node name="SnowCompanion" instance=ExtResource("1_body")]
+walk_speed = 1.15
+external_control = true
+
+[node name="WanderController" type="Node" parent="."]
+process_physics_priority = -10
+script = ExtResource("2_ai")
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
+path_desired_distance = 0.22
+target_desired_distance = 0.28
+path_max_distance = 1.2
+radius = 0.38
+height = 1.5
+max_speed = 1.15
+neighbor_distance = 3.0
+time_horizon_obstacles = 0.65
+avoidance_enabled = true

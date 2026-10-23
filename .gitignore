@@ -1,0 +1,7 @@
+.godot/
+deliverables/
+*.tmp
+*.log
+*.avi
+*.blend1
+*.blend2

@@ -1,0 +1,50 @@
+{
+  "asset": "stump",
+  "stage": "M7 environment",
+  "units": "metres",
+  "godot_up": "+Y",
+  "front": "+Z",
+  "category": "prop",
+  "collisions": [
+    {
+      "name": "Stump",
+      "kind": "cylinder",
+      "at": [
+        0.0,
+        0.23000001162290573,
+        0.0
+      ],
+      "radius": 0.36000001430511475,
+      "height": 0.6000000387430191
+    }
+  ],
+  "lod_near": "Near",
+  "lod_far": "",
+  "firepit": [],
+  "gameplay": "Environment model only; resource pickup and firewood/heating are deferred to M9.",
+  "source": "source_art/blender/v2/environment/stump.blend",
+  "source_sha256": "eb0377f60e1b4fcad5c1963bc077b59e741a2876fef189cc9c7339b0e70b0b5f",
+  "glb_sha256": "8b1442a44f6bff8b78f917a6babae1039410341eae6be71eca86009038a18f8c",
+  "blender": "5.2.0 LTS",
+  "triangles_by_group": {
+    "Near": 676
+  },
+  "triangles": 676,
+  "mesh_count": 1,
+  "bounds_min": [
+    -0.5214363932609558,
+    -0.13397414982318878,
+    -0.6089460253715515
+  ],
+  "bounds_max": [
+    0.63703453540802,
+    0.9191750288009644,
+    0.6089460253715515
+  ],
+  "materials": [
+    "env_bark",
+    "env_cutwood",
+    "env_snow",
+    "env_twig"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "asset": "clue_left",
+  "source": "source_art/blender/v3/events/clue_left.blend",
+  "collisions": [
+    {
+      "name": "CarvedStone",
+      "kind": "box",
+      "at": [
+        0,
+        0.42,
+        0
+      ],
+      "size": [
+        2.3,
+        0.84,
+        1.25
+      ]
+    }
+  ],
+  "supports": [],
+  "clue_slots": [
+    [
+      0,
+      0
+    ]
+  ],
+  "mesh_count": 12
+}

@@ -1,0 +1,35 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://scripts/gameplay/snowball.gd" id="1_ball"]
+
+[sub_resource type="SphereShape3D" id="Shape"]
+radius = 0.115
+
+[sub_resource type="StandardMaterial3D" id="Material"]
+albedo_color = Color(0.94, 0.98, 1, 1)
+roughness = 0.95
+
+[sub_resource type="SphereMesh" id="Mesh"]
+material = SubResource("Material")
+radius = 0.115
+height = 0.23
+radial_segments = 12
+rings = 6
+
+[node name="Snowball" type="RigidBody3D"]
+collision_layer = 2
+collision_mask = 1
+mass = 0.1
+continuous_cd = true
+contact_monitor = true
+max_contacts_reported = 4
+linear_damp = 0.0
+linear_damp_mode = 1
+lock_rotation = true
+script = ExtResource("1_ball")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("Shape")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("Mesh")

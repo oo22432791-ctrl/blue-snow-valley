@@ -1,0 +1,33 @@
+{
+  "original_source": "source_art/blender/snow_child.blend",
+  "original_sha256": "241c4feb6675a02f0ac0dfb0b5e9a50f0530f907ab537d694f2994722595f359",
+  "clips": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Throw",
+    "Hit",
+    "RifleHold",
+    "RifleFire",
+    "RifleReload"
+  ],
+  "sole_centres_rest": [
+    [
+      -0.13,
+      0,
+      0.05
+    ],
+    [
+      0.13,
+      0,
+      0.05
+    ]
+  ],
+  "rifle_body_yaw_offset_degrees": 60,
+  "notes": "Original mesh and lower-body rig preserved. V2-only elbows/wrists and upper-body rifle actions; no replacement gloves or feet.",
+  "source": "source_art/blender/v2/valley_explorer.blend",
+  "source_sha256": "ad238e4f248d3e03c0c5681e00ae819431ea8f884c590f56d2ec972c8b43c41a",
+  "glb_sha256": "ad38ca1eac911d4b35c99378b7c52b92da4342a53f72e6dc2a5d7a6bf9058b2e",
+  "bones": 11,
+  "blender": "5.2.0 LTS"
+}

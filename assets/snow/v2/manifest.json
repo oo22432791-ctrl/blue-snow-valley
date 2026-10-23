@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "origin": [
+    -224,
+    -256
+  ],
+  "world_size": [
+    448,
+    512
+  ],
+  "step": 0.5,
+  "width": 897,
+  "depth": 1025,
+  "drifts": [
+    {
+      "id": "drift.house_lee",
+      "center": [
+        -91,
+        140
+      ],
+      "radii": [
+        6.5,
+        7.5
+      ],
+      "peak": 0.235,
+      "reason": "Lee accumulation north-east of the safe-house pad"
+    },
+    {
+      "id": "drift.south_woods",
+      "center": [
+        -68,
+        107
+      ],
+      "radii": [
+        8,
+        10
+      ],
+      "peak": 0.21,
+      "reason": "Woodland lee outside the cleared road"
+    },
+    {
+      "id": "drift.valley_bend",
+      "center": [
+        -27,
+        -33
+      ],
+      "radii": [
+        7,
+        10
+      ],
+      "peak": 0.235,
+      "reason": "Sheltered inner woodland bend"
+    },
+    {
+      "id": "drift.north_woods",
+      "center": [
+        75,
+        -107
+      ],
+      "radii": [
+        9,
+        8
+      ],
+      "peak": 0.23,
+      "reason": "Northern woodland snowbank outside the cabin platform"
+    }
+  ],
+  "minimum_m": 0.017999999225139618,
+  "maximum_m": 0.33000001311302185,
+  "percentiles_m": {
+    "10": 0.06342217326164246,
+    "50": 0.08027934283018112,
+    "90": 0.09721383452415466,
+    "99": 0.12541088461875916
+  },
+  "bytes": 3677700,
+  "sha256": "03af01b0d976b5fd62619da09b03e938b8f75c061b2b9e46363ba76e55705769",
+  "terrain_manifest_sha256": "642f3a136c1270fb0b80995c27cd2d67494eef997a791ef5d505b0a6b0048672",
+  "generator": "tools/build_valley_snow.py",
+  "note": "Fresh depth only; no footprints or long-term weather simulation yet."
+}
