@@ -11,6 +11,7 @@
 四段V3游戏内录制，串起雪谷探索、双人雪球、石刻机关和雪熊战斗，保留游戏音效。
 
 https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
+
 [观看／下载完整实机视频（MP4，约40秒）](docs/videos/blue-snow-valley-v3-trailer.mp4)
 
 <details>
