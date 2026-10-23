@@ -8,7 +8,13 @@
 
 前往[Releases](https://github.com/oo22432791-ctrl/blue-snow-valley/releases/latest)下载 Windows x64 游戏包，完整解压后双击 `BlueSnowValley_v3.exe`。EXE 与同名 PCK 文件需放在同一目录，无需安装 Godot 或 Blender。
 
-Release 同时提供完整源码包与 SHA256 校验文件。游戏不附带个人存档。
+Release 同时提供完整源码分卷与 SHA256 校验文件。将 `.part01` 至 `.part09`、`Source_Parts_Manifest.json` 和 `Combine-Source.ps1` 下载到同一文件夹，执行下方命令即可校验并合并为完整源码ZIP：
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Combine-Source.ps1
+```
+
+也可直接克隆本仓库，或使用 GitHub 的 **Code → Download ZIP** 获取游戏工程与可编辑模型源。游戏不附带个人存档。
 
 ## 游戏内容
 
