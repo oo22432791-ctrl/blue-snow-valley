@@ -4,13 +4,13 @@
 
 柴火快用完时，远处的小屋就是下一段路的目标。风雪里留下两串脚印，你可以独自前行，也可以带上AI伙伴，或与身边的朋友一人一屏，分享补给、互相施救，一起走向温暖归途。
 
-[**下载Windows游戏**](https://github.com/oo22432791-ctrl/blue-snow-valley/releases/latest) · [**观看40秒实机视频**](docs/videos/blue-snow-valley-v3-trailer.mp4) · [**操作与上手**](#操作与上手) · [**源码与构建**](#源码与构建)
+[**下载Windows游戏**](https://github.com/oo22432791-ctrl/blue-snow-valley/releases/latest) · [**观看40秒实机视频**](https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e) · [**操作与上手**](#操作与上手) · [**源码与构建**](#源码与构建)
 
 ## 先看一段实机
 
 四段V3游戏内录制，串起雪谷探索、双人雪球、石刻机关和雪熊战斗，保留游戏音效。
 
-<!-- NATIVE_TRAILER -->
+https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 [观看／下载完整实机视频（MP4，约40秒）](docs/videos/blue-snow-valley-v3-trailer.mp4)
 
 <details>
