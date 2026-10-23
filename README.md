@@ -93,7 +93,9 @@ https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 
 山门后的战斗告一段落，镜头回望雪谷、安全屋和一路同行的队伍。旅程结束后仍能继续探索，整理补给，再回到熟悉的小屋；也可以开始新旅程，并保留上一段旅程的归档。
 
-![温暖归途中的雪谷安全屋](docs/images/safe-house.png)
+| 回望安全屋 | 走过山门的队伍 |
+| --- | --- |
+| ![温暖归途中的雪谷安全屋](docs/images/safe-house.png) | ![归途演出中的当前队伍与雪熊场地](docs/images/journey-party.png) |
 
 > 脚印会被新雪覆盖，一同走过的路不会。
 
