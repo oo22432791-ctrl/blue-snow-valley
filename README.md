@@ -12,7 +12,7 @@
 
 下面这段**V2已有录像的连续60秒片段**，保留原速与脚步声，展示旅途中的实际行走。V3延续了这片雪谷及其基础探索体验。
 
-<!-- LEGACY_VIDEO:v2-valley-walk -->
+https://github.com/user-attachments/assets/dfc6ae48-839e-4aa0-8a8e-25be8cfdb6bc
 
 [查看V2林间漫游片段 · 60秒](docs/videos/legacy/v2-valley-walk.mp4)
 
@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 <details>
 <summary>播放V2踩雪实录：脚步、压痕与雪粉（28秒）</summary>
 
-<!-- LEGACY_VIDEO:v2-snow-footsteps -->
+https://github.com/user-attachments/assets/4a3bcb96-34fe-4325-ae0d-38d237202270
 
 [查看踩雪片段](docs/videos/legacy/v2-snow-footsteps.mp4)
 
@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 <details>
 <summary>播放V2生活实录：拾柴、回屋与取暖（40秒）</summary>
 
-<!-- LEGACY_VIDEO:v2-gather-and-warm -->
+https://github.com/user-attachments/assets/cb733594-b266-482f-9804-8230b81384ac
 
 [查看拾柴与取暖片段](docs/videos/legacy/v2-gather-and-warm.mp4)
 
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 <details>
 <summary>播放V2夜间风雪与室内遮蔽实录（34秒）</summary>
 
-<!-- LEGACY_VIDEO:v2-night-weather -->
+https://github.com/user-attachments/assets/b79491a9-963a-478d-91de-8b6d7544638a
 
 [查看风雪与入屋片段](docs/videos/legacy/v2-night-weather.mp4)
 
@@ -204,7 +204,7 @@ https://github.com/user-attachments/assets/d86ad7d1-ce50-4f0f-8381-c0d1952fa84e
 | --- | --- |
 | ![V1已有截图：白天的小屋、两名角色与踩雪足迹](docs/images/legacy/v1-day.png) | ![V1已有截图：夜晚的同一场地与雪球伙伴](docs/images/legacy/v1-night.png) |
 
-<!-- LEGACY_VIDEO:v1-snow-walk -->
+https://github.com/user-attachments/assets/e9fd6c12-aeef-477c-800f-c10af9c61156
 
 [查看V1散步与雪球片段](docs/videos/legacy/v1-snow-walk.mp4)
 
